@@ -1,0 +1,944 @@
+{
+ "updated": "2026-09-08 22:31",
+ "status": [
+  {
+   "venue": "東京ビッグサイト",
+   "count": 82,
+   "error": null
+  },
+  {
+   "venue": "幕張メッセ",
+   "count": 32,
+   "error": null
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "count": 0,
+   "error": null
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "count": 0,
+   "error": "404 Client Error: Not Found for url: https://www.t-i-forum.co.jp/events/"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "count": 0,
+   "error": "404 Client Error: Not Found for url: https://www.hamamatsu-cci.or.jp/event/"
+  }
+ ],
+ "events": [
+  {
+   "venue": "東京ビッグサイト",
+   "title": "掲載範囲： 月1日 ～ 月30日 月25日 作成",
+   "start": "2026-09-01",
+   "end": "2026-11-30",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "火"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 国際物流総合展2026 東 ・7・ 商談 国際物流総合展事務局",
+   "start": "2026-09-08",
+   "end": "2026-09-11",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "火"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": ".09(水) 〜 .11(金)",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "イベント .09(水) 〜 .11(金) 第1回 工場 安全・環境改善 EXPO [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "イベント 2026.09.09(水) 〜 2026.09.11(金) 第1回 工場 安全・環境改善 EXPO [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8785",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) BATTERY JAPAN【秋】～第21回 [国際] 二次電池展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) H2 & FC EXPO【秋】～第26回 [国際] 水素・燃料電池展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) PV EXPO【秋】～第23回 [国際] 太陽光発電展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) SMART ENERGY WEEK ～スマートエネルギー WEEK～【秋】2026 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) SMART GRID EXPO【秋】～第20回 [国際] スマートグリッド展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) WIND EXPO【秋】～第18回 [国際] 風力発電展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) ファクトリーイノベーション Week [秋] 2026 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第1回 クルマの設計・開発DX展 [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第2回 SDV EXPO [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第3回 パワーデバイス&モジュール EXPO [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第4回 製造業カーボンニュートラル展 [秋] -グリーンファクトリー EXPO- 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第5回 EV・HV・FCV技術展 [秋] (EV JAPAN 秋) 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第5回 インターネプコン ジャパン [秋] -エレクトロニクス 製造・実装展- 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第5回 オートモーティブワールド [秋] -クルマの先端技術展- 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第5回 スマート工場 EXPO [秋] -IoT/AI/FAによる製造革新 展- 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第5回 ネプコン ジャパン [秋] -エレクトロニクス 開発・実装展- 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第5回 ロボデックス [秋] -ロボット [開発]・[活用] 展- 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 .09(水) 〜 .11(金) 第5回 電子部品・材料 EXPO [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) BATTERY JAPAN【秋】～第21回 [国際] 二次電池展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8728",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) H2 & FC EXPO【秋】～第26回 [国際] 水素・燃料電池展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8726",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) PV EXPO【秋】～第23回 [国際] 太陽光発電展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8727",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) SMART ENERGY WEEK ～スマートエネルギー WEEK～【秋】2026 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8725",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) WIND EXPO【秋】～第18回 [国際] 風力発電展～ 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8730",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) ファクトリーイノベーション Week [秋] 2026 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8780",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) 第1回 クルマの設計・開発DX展 [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8872",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) 第2回 SDV EXPO [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8779",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) 第3回 パワーデバイス&モジュール EXPO [秋] 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8776",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) 第4回 製造業カーボンニュートラル展 [秋] -グリーンファクトリー EXPO- 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8783",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "展示会・見本市 2026.09.09(水) 〜 2026.09.11(金) 第5回 ネプコン ジャパン [秋] -エレクトロニクス 開発・実装展- 対象 関係者",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8773",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- サーモテック 2026 南1・2 商談 サーモテック事務局／メッセフラン",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第28回自動認識総合展 南3 商談 （株）シー・エヌ・ティ",
+   "start": "2026-09-09",
+   "end": "2026-09-11",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "TOKYO FES Sep.2026 東 ・7・8 一般 赤ブーブー通信社",
+   "start": "2026-09-13",
+   "end": "2026-09-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 2026 国際ウエルディングショー 西1・2 商談/一般 産報出版株式会社",
+   "start": "2026-09-16",
+   "end": "2026-09-19",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- AFF・東京2026 AUTUMN 西3・4 商談/一般 一般社団法人日中経済貿易セ",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- FORESTRISE2026（第5回次世代森林産業展） 東3 商談 FORESTRISE事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- INTERMEASURE2026（第32回計量計測展） 東 商談 INTERMEASURE 2026実行委",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- JIMA2026 総合検査機器展 東1 商談 JIMA2026 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- センサエキスポジャパン2026 東 商談 センサエキスポジャパン事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 地盤技術フォーラム2026 東3 商談 株式会社シー・エヌ・ティ",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第12回 法務・コンプライアンス EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第14回 福利厚生 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第16回 会計・財務 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第18回 働き方改革 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第19回 HR EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第21回 総務サービス EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第25回 オフィス防災 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第26回 総務・人事・経理Week【東京｜9月】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第35回 2026知財・情報フェア＆コンファレンス 東3 商談 知財・情報フェア＆コンファレンス",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第4回 ワークプレイス改革 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第9回 健康経営 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第１回 バックオフィスAIエージェントEXPO 南 商談 総務・人事・経理 Week 事務局",
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- ジャパンレプタイルズショー in 東京 東1 一般 ジャパンレプタイルズショー事務局",
+   "start": "2026-09-20",
+   "end": "2026-09-21",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 日本ダーツ祭り2026 / 餃子祭 東2・3 一般 日本ダーツ祭り2026事務局",
+   "start": "2026-09-20",
+   "end": "2026-09-21",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- ツーリズムEXPOジャパン2026 東 ・7・8 商談/一般 ツーリズムEXPOジャパン推進室",
+   "start": "2026-09-24",
+   "end": "2026-09-27",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "木"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- GOOD LIFE フェア 2026 西 商談/一般 GOOD LIFE フェア 2026事務局",
+   "start": "2026-09-25",
+   "end": "2026-09-27",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "金"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "10:00~18:00, 「心地良く豊かな暮らし」の新提案を届けるサステナブル・ライフスタイル展示 (招待券持 15",
+   "start": "2026-09-25",
+   "end": "2026-09-25",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "金"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "10:00~17:00, 10:00~17:00 会 参者無料)",
+   "start": "2026-09-27",
+   "end": "2026-09-27",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- BEYOND BEAUTY Tokyo2026 西1 商談 BEYOND BEAUTY事務局",
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- FOOD STYLE JAPAN 2026 ＜東京＞ 東 商談 FOOD STYLE Japan 実行委員",
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- ラーメン産業展 in Japan 東 商談 FOOD STYLE Japan 実行委員",
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 健康博覧会【秋】 西1 商談 健康博覧会事務局",
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 危機管理産業展(RISCON TOKYO)2026 南 商談 RISCON TOKYO 事務局",
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 産業DX総合展 東7・8 商談/一般 Bizcrew EXPO主催事務局",
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 食品包装資材＆機械展 東 商談 FOOD STYLE Japan 実行委員",
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 食品物流＆３ＰＬ総合展 東 商談 食品物流＆３ＰＬ総合展 実行",
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第64回全日本模型ホビーショー 西3・4 商談/一般 日本プラモデル工業協同組合",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "金"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "9:00～17:00, 9:30～ 全国のホビー及びホビー関連製品が一堂に会する模型ホビーショー (前売あり)",
+   "start": "2026-10-02",
+   "end": "2026-10-02",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "金"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "17:30, 9:30～16:30 WEB参照 52",
+   "start": "2026-10-04",
+   "end": "2026-10-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- Designer’s Gate デザイナーズゲート 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- FaW TOKYO秋 ファッションワールド秋 2026 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- H.C.R.2026 第53回国際福祉機器展＆フォーラム 東 ・7・8 商談/一般 HCR事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第10回 ファッションテック EXPO 秋 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第11回 CX向上 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第19回 SNS・インフルエンサー活用 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第19回 デジタルマーケティング強化 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第1回 IP×ファッションEXPO 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第1回 猛暑対策グッズ EXPO 南1・2 商談 ライフスタイルWeek 事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第1回 魅せるユニフォーム・ワークウェアEXPO【秋】通 西 商談 FaW TOKYO ファッションワールド",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第21回 広告メディア枠 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第23回 アジアの縫製・生産工場 EXPO 秋 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第23回 営業支援 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第23回 生地・素材 EXPO 秋 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第27回 販促 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第28回 マーケティングWeek -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第2回 アジアのOEM工場 EXPO【秋】 南1・2 商談 ライフスタイルWeek 事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第30回 ブランド＆デザイナー EXPO 秋 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第30回 ライフスタイルWeek【秋】 南1・2 商談 ライフスタイルWeek 事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第30回 日本のファッション 輸出 EXPO 秋 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第30回 雑貨EXPO【秋】 南1・2 商談 ライフスタイルWeek 事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第3回 ブランド戦略・PR EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第3回 マーケティング戦略立案 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第3回 リユースビジネス EXPO 秋 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第4回 インバウンド向けグッズEXPO【秋】 南1・2 商談 ライフスタイルWeek 事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第4回 スポーツファッション EXPO 秋 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第6回 推し活EXPO【秋】 南1・2 商談 ライフスタイルWeek 事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第7回 EC売上アップ EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 第7回 健康・美容・機能性ウェア EXPO 秋 西 商談 FaW TOKYO事務局",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "COMIC CITY SPARK 21 西 、南1- 一般 赤ブーブー通信社",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- SCAJ ワールド スペシャルティコーヒー カンファレンス アンド 南 商談/一般 SCAJ展示会事務局",
+   "start": "2026-10-14",
+   "end": "2026-10-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- TOKYO PACK 2026 東 ・7・8 一般 2026東京国際包装展事務局／",
+   "start": "2026-10-14",
+   "end": "2026-10-16",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- セーフティ＆テクノロジー ジャパン（食品開発展2026） 西1・2・4 商談 食品開発展事務局",
+   "start": "2026-10-14",
+   "end": "2026-10-16",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- フードロングライフジャパン（食品開発展2026） 西1・2・4 商談 食品開発展事務局",
+   "start": "2026-10-14",
+   "end": "2026-10-16",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- フード・テイストジャパン（食品開発展2026） 西1・2・4 商談 食品開発展事務局",
+   "start": "2026-10-14",
+   "end": "2026-10-16",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- ヘルスイングリディエンツ ジャパン（食品開発展2026） 西1・2・4 商談 食品開発展事務局",
+   "start": "2026-10-14",
+   "end": "2026-10-16",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- ラベルフォーラムジャパン2026 西3 商談/一般 ラベル新聞社",
+   "start": "2026-10-14",
+   "end": "2026-10-16",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- レジャーホテルフェア2026 東3 商談 「レジャーホテルフェア」事務局",
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "木"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- レジャー＆サービス産業展2026 東3 商談 「レジャー＆サービス産業展」事",
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "木"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "- 冬スポ!!WINTER SPORTS FESTA season26 東3 一般 冬スポ事務局",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "土"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "文学フリマ東京43 南 一般 文学フリマ東京事務局",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  }
+ ]
+}
