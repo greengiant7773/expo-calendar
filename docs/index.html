@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title>展示会カレンダー</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 44'%3E%3Crect x='1' y='6' width='38' height='36' rx='7' fill='none' stroke='%2316191d' stroke-width='2.5'/%3E%3Crect x='1' y='6' width='38' height='11' rx='7' fill='%2316191d'/%3E%3Crect x='1' y='11' width='38' height='6' fill='%2316191d'/%3E%3Crect x='9' y='2' width='3' height='8' rx='1.5' fill='%2316191d'/%3E%3Crect x='28' y='2' width='3' height='8' rx='1.5' fill='%2316191d'/%3E%3Crect x='7' y='21' width='7' height='7' rx='1.6' fill='%232a5db0'/%3E%3Crect x='16.5' y='21' width='7' height='7' rx='1.6' fill='%23b8322f'/%3E%3Crect x='26' y='21' width='7' height='7' rx='1.6' fill='%230f7a6c'/%3E%3Crect x='7' y='30.5' width='7' height='7' rx='1.6' fill='%236b4fa8'/%3E%3Crect x='16.5' y='30.5' width='7' height='7' rx='1.6' fill='%23a9711b'/%3E%3Crect x='26' y='30.5' width='7' height='7' rx='1.6' fill='%23e3e5e8'/%3E%3C/svg%3E">
 <style>
   :root{
     --ink:#16191d;
@@ -25,8 +26,9 @@
     font-size:15px; line-height:1.6;
   }
   .wrap{max-width:860px; margin:0 auto; padding:24px 16px 80px}
-  header{display:flex; flex-wrap:wrap; align-items:baseline; gap:12px; margin-bottom:4px}
+  header{display:flex; flex-wrap:wrap; align-items:center; gap:14px; margin-bottom:4px}
   h1{font-size:21px; font-weight:700; letter-spacing:.02em; margin:0}
+  .logo{display:block; max-width:100%; height:auto}
   .updated{color:var(--sub); font-size:12.5px}
 
   .controls{
@@ -80,7 +82,7 @@
 <body>
 <div class="wrap">
   <header>
-    <h1>展示会カレンダー</h1>
+    <h1><svg class="logo" width="252" height="44" viewBox="0 0 252 44" role="img" aria-label="展示会カレンダー"><g transform="translate(0,2)"><rect x="1" y="4" width="38" height="36" rx="7" fill="none" stroke="#16191d" stroke-width="2.2"/><rect x="1" y="4" width="38" height="10" rx="7" fill="#16191d"/><rect x="1" y="9" width="38" height="5" fill="#16191d"/><rect x="9" y="0" width="3" height="8" rx="1.5" fill="#16191d"/><rect x="28" y="0" width="3" height="8" rx="1.5" fill="#16191d"/><rect x="7" y="19" width="7" height="7" rx="1.6" fill="#2a5db0"/><rect x="16.5" y="19" width="7" height="7" rx="1.6" fill="#b8322f"/><rect x="26" y="19" width="7" height="7" rx="1.6" fill="#0f7a6c"/><rect x="7" y="28.5" width="7" height="7" rx="1.6" fill="#6b4fa8"/><rect x="16.5" y="28.5" width="7" height="7" rx="1.6" fill="#a9711b"/><rect x="26" y="28.5" width="7" height="7" rx="1.6" fill="#e3e5e8"/></g><text x="52" y="27" font-family="inherit" font-size="22" font-weight="700" letter-spacing="1" fill="#16191d">展示会カレンダー</text><text x="53" y="41" font-family="inherit" font-size="8.5" font-weight="600" letter-spacing="3.2" fill="#6b7280">EXPO CALENDAR</text></svg></h1>
     <span class="updated" id="updated"></span>
   </header>
 
