@@ -66,6 +66,7 @@
   .venue{display:inline-flex; align-items:center; gap:5px; font-weight:600}
   .venue .dot{width:7px; height:7px; border-radius:50%; background:currentColor}
   .cont{border:1px solid var(--line); border-radius:4px; padding:0 5px; font-size:11.5px}
+  .cat{color:var(--sub); font-size:11.5px}
 
   .notice{background:#fff6e8; border:1px solid #f0d9ae; border-radius:8px; padding:10px 12px; font-size:13px; margin:10px 0}
   .empty{padding:40px 0; color:var(--sub); text-align:center}
@@ -189,6 +190,7 @@ function render(){
                : '<span style="font-weight:600">' + esc(e.title) + '</span>') +
         '<div class="meta"><span class="venue" style="color:' + c + '"><span class="dot"></span>' +
         e.venue + '</span><span>' + fmt(e.start) + (e.end !== e.start ? " 〜 " + fmt(e.end) : "") + '</span>' +
+        (e.category ? '<span class="cat">' + esc(e.category) + '</span>' : '') +
         (e.first ? '' : '<span class="cont">会期中</span>') + '</div></div>';
     });
     html += '</div></div>';
