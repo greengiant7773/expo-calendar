@@ -187,7 +187,7 @@ def fetch_bigsight(cfg, y, mo):
                 events.append({"venue": cfg["name"], "title": title,
                                "start": start.isoformat(), "end": end.isoformat(),
                                "url": pdf})
-    except Exception as e:  # noqa: BLE001
+    except Exception as e:
         log.warning("ビッグサイトPDFの取得に失敗: %s", e)
     if not events:
         events = harvest(get(cfg["url"]).text, cfg["url"], cfg["name"],
@@ -214,10 +214,72 @@ def fetch_all(months, dump_dir=None):
             events += ev
             status.append({"venue": cfg["name"], "count": len(ev), "error": None})
             log.info("%s: %d件", cfg["name"], len(ev))
-        except Exception as e:  # noqa: BLE001
+        except Exception as e:
             status.append({"venue": cfg["name"], "count": 0, "error": str(e)[:200]})
             log.error("%s の取得に失敗: %s", cfg["name"], e)
     return events, status
 
 
-def load_manual
+def load_manual():
+    """手入力ぶん（manual/events.csv）。ファイルが無ければ何もしない。"""
+    if not MANUAL.exists():
+        return []
+    rows = []
+    with MANUAL.open(encoding="utf-8-sig") as f:
+        for r in csv.DictReader(f):
+            if not (r.get("start") and r.get("title")):
+                continue
+            rows.append({"venue": r["venue"].strip(), "title": r["title"].strip(),
+                         "start": r["start"].strip(),
+                         "end": (r.get("end") or r["start"]).strip(),
+                         "url": (r.get("url") or "").strip(), "manual": True})
+    return rows
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--months", type=int, default=2)
+    ap.add_argument("--dump", action="store_true")
+    args = ap.parse_args()
+    logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
+
+    dump_dir = None
+    if args.dump:
+        dump_dir = ROOT / "debug"
+        dump_dir.mkdir(exist_ok=True)
+
+    events, status = fetch_all(args.months, dump_dir)
+
+    # 取得できなかった会場は前回のデータを残す
+    prev = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else {}
+    prev_events = prev.get("events", [])
+    for s in status:
+        if s["count"] == 0:
+            kept = [e for e in prev_events
+                    if e["venue"] == s["venue"] and not e.get("manual")]
+            if kept:
+                events += kept
+                s["error"] = (s["error"] or "0件") + " / 前回のデータを表示中"
+
+    events += load_manual()
+
+    uniq, seen = [], set()
+    for e in sorted(events, key=lambda x: (x["start"], x["venue"], x["title"])):
+        k = (e["venue"], e["title"][:40], e["start"])
+        if k in seen:
+            continue
+        seen.add(k)
+        e["wd"] = WEEKDAYS[datetime.strptime(e["start"], "%Y-%m-%d").weekday()]
+        uniq.append(e)
+
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    OUT.write_text(json.dumps({"updated": datetime.now(JST).strftime("%Y-%m-%d %H:%M"),
+                               "status": status, "events": uniq},
+                              ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{len(uniq)}件 -> {OUT}")
+    for s in status:
+        print(f"  {'OK ' if s['count'] else 'NG '}{s['venue']}: {s['count']}件 {s['error'] or ''}")
+
+
+if __name__ == "__main__":
+    main()
