@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-09 06:07",
+ "updated": "2026-09-10 06:07",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 79,
+   "count": 80,
    "error": null
   },
   {
@@ -18,25 +18,16 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 72,
+   "count": 73,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 44,
+   "count": 43,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "パシフィコ横浜",
-   "title": "全国管工事業協同組合連合会 令和8年度 全国大会",
-   "start": "2026-09-08",
-   "end": "2026-09-08",
-   "url": "https://www.yokohama-kankoji.or.jp/publics/index/45/detail=1/b_id=289/r_id=140/",
-   "category": "大会・式典・その他",
-   "wd": "火"
-  },
   {
    "venue": "東京ビッグサイト",
    "title": "国際物流総合展2026 東 ・7・ 商談 国際物流総合展事務局",
@@ -302,24 +293,6 @@
    "end": "2026-09-09",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
    "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】部下を伸ばし育てる！ほめ方・叱り方セミナー",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2197",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "ホームページ作成「ウェブサポ」セミナー～AI時代に差をつけるホームページをプロと作りませんか?～",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2191",
-   "category": "セミナー",
    "wd": "水"
   },
   {
@@ -961,6 +934,15 @@
    "start": "2026-09-25",
    "end": "2026-09-27",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "Sunil Grover Live in Tokyo 2026",
+   "start": "2026-09-25",
+   "end": "2026-09-25",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260925_0828",
+   "category": "一般",
    "wd": "金"
   },
   {
@@ -3134,6 +3116,32 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
    "category": "セミナー",
    "wd": "月"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "ワールドキルトフェスティバル2026/World Quilt Festival2026",
+   "start": "2026-11-10",
+   "end": "2026-11-12",
+   "url": "https//:japan-quilt.com",
+   "category": "物販・展示即売会",
+   "wd": "火"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "アグリビジネス創出フェア2026 西4 商談 アグリビジネス創出フェア2026事",
+   "start": "2026-11-10",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "火"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "学内就活イベント『World Career Lounge HAMAMATSU』in 静岡県立大学草薙キャンパス",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2212",
+   "category": "交流会",
+   "wd": "火"
   }
  ]
 }
