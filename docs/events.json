@@ -1,29 +1,29 @@
 {
- "updated": "2026-09-10 06:07",
+ "updated": "2026-09-11 06:07",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 80,
+   "count": 98,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 121,
+   "count": 129,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 38,
+   "count": 39,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 73,
+   "count": 72,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 43,
+   "count": 45,
    "error": null
   }
  ],
@@ -34,15 +34,6 @@
    "start": "2026-09-08",
    "end": "2026-09-11",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "第6回The Makers・Apparel Show",
-   "start": "2026-09-08",
-   "end": "2026-09-09",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260908_0821",
-   "category": "一般",
    "wd": "火"
   },
   {
@@ -287,15 +278,6 @@
    "wd": "水"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "3rd Annual AI & IP Conference",
    "start": "2026-09-10",
@@ -315,7 +297,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "第65回全日本スクエアダンスコンベンションin横浜",
+   "title": "з¬¬65еӣһе…Ёж—Ҙжң¬гӮ№гӮҜгӮЁгӮўгғҖгғігӮ№гӮігғігғҷгғігӮ·гғ§гғіinжЁӘжөң",
    "start": "2026-09-11",
    "end": "2026-09-13",
    "url": "https://www.squaredance.or.jp/",
@@ -333,10 +315,19 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "【開催中止】FLARE U 1st JAPAN FANMEETING - YOUTH ERROR -",
+   "title": "гҖҗй–ӢеӮ¬дёӯжӯўгҖ‘FLARE U 1st JAPAN FANMEETING - YOUTH ERROR -",
    "start": "2026-09-12",
    "end": "2026-09-12",
    "url": "https://flareu.jp/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "з¬¬5еӣһгғҠгӮӨгғўгғ«гғ“гӮ®гғҠгғјгӮәгӮ«гғғгғ— inгҒҝгҒӘгҒЁгҒҝгӮүгҒ„",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "url": "https://naimolbig5.peatix.com/view?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAadlC3i212PcIvWaHv8A0ODDBfGDjUUHefXB_BvRpQ2ik5fRo2B_Zw7Yq0QPOA_aem_X-r8G36sIW6Bhodiimcpag",
    "category": "イベント・コンサート",
    "wd": "土"
   },
@@ -347,15 +338,6 @@
    "end": "2026-09-13",
    "url": "https://www.kanetaya.com/",
    "category": "物販・展示即売会",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "第5回ナイモルビギナーズカップ inみなとみらい",
-   "start": "2026-09-12",
-   "end": "2026-09-12",
-   "url": "https://naimolbig5.peatix.com/view?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAadlC3i212PcIvWaHv8A0ODDBfGDjUUHefXB_BvRpQ2ik5fRo2B_Zw7Yq0QPOA_aem_X-r8G36sIW6Bhodiimcpag",
-   "category": "イベント・コンサート",
    "wd": "土"
   },
   {
@@ -700,7 +682,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "きゅるりんってしてみて『推忍♡きゅるりん決起集会！』",
+   "title": "гҒҚгӮ…гӮӢгӮҠгӮ“гҒЈгҒҰгҒ—гҒҰгҒҝгҒҰгҖҺжҺЁеҝҚвҷЎгҒҚгӮ…гӮӢгӮҠгӮ“жұәиө·йӣҶдјҡпјҒгҖҸ",
    "start": "2026-09-19",
    "end": "2026-09-19",
    "url": "https://www.kyurushite.com/",
@@ -797,7 +779,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "SOUND ALIVE presents 昭和歌野郎ライブ2026",
+   "title": "SOUND ALIVE presents жҳӯе’ҢжӯҢйҮҺйғҺгғ©гӮӨгғ–2026",
    "start": "2026-09-22",
    "end": "2026-09-22",
    "url": "http://www.kmmusic.co.jp/information/ysa2026.html",
@@ -842,7 +824,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "笑激!!お笑いカーニバルinパシフィコ横浜",
+   "title": "з¬‘жҝҖ!!гҒҠз¬‘гҒ„гӮ«гғјгғӢгғҗгғ«inгғ‘гӮ·гғ•гӮЈгӮіжЁӘжөң",
    "start": "2026-09-23",
    "end": "2026-09-23",
    "url": "http://www.kmmusic.co.jp/schedule_km/",
@@ -974,20 +956,20 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "жЁӘжөңгғһгғ©гӮҪгғі2026зӣ®жЁҷгӮҝгӮӨгғ еҲҘгғ©гғігғӢгғігӮ°гӮҜгғӘгғӢгғғгӮҜ",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "url": "https://yokohamamarathon.jp/runningclinic/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "家具・インテリア ダイナミックチャリティーバーゲン",
    "start": "2026-09-26",
    "end": "2026-09-27",
    "url": "https://www.murauchi.net/dynamic_bargain_pacifico_yokohama_g.html?utm_source=google&utm_medium=cpc&utm_campaign=197459636785&utm_content=24003476339_197459636785__kwd-930239241796_9198804_m_Cj0KCQjwkt_UBhDMARIsALpnOAylqkjri0aQUNLvnlYGOhdLKsrUl6iOca6_QfWbCmurvAcQRDwPa0oaAqSNEALw_wcB&gad_source=1&gad_campaignid=24003476339&gbraid=0AAAABEKz5oQdmIXKOuVU9DrLu5g_inFQW&gclid=Cj0KCQjwkt_UBhDMARIsALpnOAylqkjri0aQUNLvnlYGOhdLKsrUl6iOca6_QfWbCmurvAcQRDwPa0oaAqSNEALw_wcB",
    "category": "物販・展示即売会",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "横浜マラソン2026目標タイム別ランニングクリニック",
-   "start": "2026-09-26",
-   "end": "2026-09-26",
-   "url": "https://yokohamamarathon.jp/runningclinic/",
-   "category": "イベント・コンサート",
    "wd": "土"
   },
   {
@@ -1010,7 +992,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "AEN THE 1ST EP『A NEW ERA OF NOW』発売記念 オフラインイベント",
+   "title": "AEN THE 1ST EPгҖҺA NEW ERA OF NOWгҖҸзҷәеЈІиЁҳеҝөгҖҖгӮӘгғ•гғ©гӮӨгғігӮӨгғҷгғігғҲ",
    "start": "2026-09-27",
    "end": "2026-09-27",
    "url": "https://aen-official.jp/mob/news/diarKijiShw.php?site=AEN&ima=4234&id=308047",
@@ -1351,7 +1333,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "DOG SPORTS FESTIVAL – WANDER LAND –",
+   "title": "DOG SPORTS FESTIVAL вҖ“ WANDER LAND вҖ“",
    "start": "2026-10-03",
    "end": "2026-10-04",
    "url": "https://wanspo.co.jp/wonder-land/",
@@ -1360,7 +1342,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
+   "title": "еҗҚжҺўеҒөгғ—гғӘгӮӯгғҘгӮўпјҒLIVE2026 гӮӯгғҘгӮўгғғгғҲзҶұе”ұпјҒгҒҜгҒӘгҒҫгӮӢShowtimeвҳҶ",
    "start": "2026-10-03",
    "end": "2026-10-03",
    "url": "https://www.marv.jp/special/precure_live/",
@@ -1447,6 +1429,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2164",
    "category": "セミナー・交流会",
    "wd": "月"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "BioJapan/ 再生医療JAPAN/healthTECH JAPAN",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "url": "https://jcd-expo.jp/jp/about.html",
+   "category": "展示会・見本市",
+   "wd": "水"
   },
   {
    "venue": "幕張メッセ",
@@ -1862,7 +1853,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "ザ・昭和歌謡パラダイス",
+   "title": "гӮ¶гғ»жҳӯе’ҢжӯҢи¬Ўгғ‘гғ©гғҖгӮӨгӮ№",
    "start": "2026-10-10",
    "end": "2026-10-12",
    "url": "https://www.pacifico.co.jp/event/showakayo-paradise",
@@ -1871,7 +1862,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "初音ミクシンフォニー2026-2027 Melodies on the Keys",
+   "title": "еҲқйҹігғҹгӮҜгӮ·гғігғ•гӮ©гғӢгғј2026-2027 Melodies on the Keys",
    "start": "2026-10-10",
    "end": "2026-10-10",
    "url": "https://sp.wmg.jp/mikusymphony/",
@@ -1987,7 +1978,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "古舘伊知郎× 南野陽子 presents 昭和 101 年スーパーソングブックショウ～昭和のベストヒット・グラフィティー～",
+   "title": "еҸӨиҲҳдјҠзҹҘйғҺГ— еҚ—йҮҺйҷҪеӯҗ presents жҳӯе’Ң 101 е№ҙгӮ№гғјгғ‘гғјгӮҪгғігӮ°гғ–гғғгӮҜгӮ·гғ§гӮҰпҪһжҳӯе’ҢгҒ®гғҷгӮ№гғҲгғ’гғғ",
    "start": "2026-10-12",
    "end": "2026-10-12",
    "url": "https://s.mxtv.jp/event/mx-showa101thsss/",
@@ -2196,7 +2187,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "第29回横浜YMCAインターナショナル・チャリティーラン2026",
+   "title": "з¬¬29еӣһжЁӘжөңYMCAгӮӨгғігӮҝгғјгғҠгӮ·гғ§гғҠгғ«гғ»гғҒгғЈгғӘгғҶгӮЈгғјгғ©гғі2026",
    "start": "2026-10-17",
    "end": "2026-10-17",
    "url": "https://www.yokohamaymca.org/event/2026_charity_run/",
@@ -2619,7 +2610,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "横浜マラソン2026",
+   "title": "жЁӘжөңгғһгғ©гӮҪгғі2026",
    "start": "2026-10-25",
    "end": "2026-10-25",
    "url": "https://yokohamamarathon.jp/",
@@ -3142,6 +3133,249 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2212",
    "category": "交流会",
    "wd": "火"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "NexTech Week 2026【秋】",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8494",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第1回 XR産業活用展【秋】",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8843",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第1回 ヒューマノイドロボット EXPO【秋】",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8499",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第1回 フィジカルAI EXPO【秋】",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8844",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第5回 AI時代の人材・組織改革EXPO【秋】",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8498",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第7回 AI・人工知能 EXPO【秋】",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8495",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第7回 ブロックチェーン EXPO【秋】",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8496",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第7回 量子コンピューティング EXPO【秋】",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8497",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "FOOD-COLDTECH 2026 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "FOOD-DX 2026 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "FOOD-ECOX 2026 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "FOOD展2026【食品産業の複合展】 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "JFEX WINTER 第9回 [国際] 食品･飲料 商談 Week 東7・8 商談 JFEX展示会事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "エヌプラス(N-Plus)2026 「New」「Next」をプラスする新素 東2 商談 エヌプラス事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "フードシステムソリューション(F-SYS)2026【給食・大量調理 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "フードセーフティジャパン(FSJ)2026【食品安全・衛生対策 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "フードディストリビューション(FD)2026【食品物流改善展】 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "フードファクトリー(FF)2026【食品工場改善展】 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "惣菜・デリカJAPAN(SDJ)2026【惣菜・中食産業展】 東2・3 商談 FOOD展事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "産業交流展2026 西1・2 商談 産業交流展実行委員会",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第13回\"日本の食品\" 輸出EXPO WINTER 東7・8 商談 日本の食品輸出EXPO 展示会",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第5回 インバウンド向け食品 EXPO JFEX インバウンド 東7・8 商談 JFEX展示会事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第5回 生鮮食品 EXPO JFEX FRESH 東7・8 商談 JFEX展示会事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第7回 プレミアム食品 EXPO JFEX PREMIUM 東7・8 商談 JFEX展示会事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第9回 ワイン･酒 EXPO JFEX WINE＆SPIRITS 東7・8 商談 JFEX展示会事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第9回 加工食品 EXPO JFEX FOOD WINTER 東7・8 商談 JFEX展示会事務局",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】チーム力をあげる！チームビルディングセミナー",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2222",
+   "category": "講演会・セミナー",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
+   "category": "講演会・セミナー",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "ホームページ作成「ウェブサポ」セミナー～AI時代に差をつけるホームページをプロと作りませんか?～",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2213",
+   "category": "セミナー",
+   "wd": "水"
   }
  ]
 }
