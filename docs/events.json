@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-11 06:07",
+ "updated": "2026-09-12 06:07",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 98,
+   "count": 99,
    "error": null
   },
   {
@@ -13,12 +13,12 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 39,
+   "count": 40,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 72,
+   "count": 71,
    "error": null
   },
   {
@@ -278,15 +278,6 @@
    "wd": "水"
   },
   {
-   "venue": "東京国際フォーラム",
-   "title": "3rd Annual AI & IP Conference",
-   "start": "2026-09-10",
-   "end": "2026-09-10",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260910Fr-H202609125",
-   "category": "関係者",
-   "wd": "木"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "2026年 Tokyo Gendai / 東京現代",
    "start": "2026-09-11",
@@ -297,7 +288,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "з¬¬65еӣһе…Ёж—Ҙжң¬гӮ№гӮҜгӮЁгӮўгғҖгғігӮ№гӮігғігғҷгғігӮ·гғ§гғіinжЁӘжөң",
+   "title": "第65回全日本スクエアダンスコンベンションin横浜",
    "start": "2026-09-11",
    "end": "2026-09-13",
    "url": "https://www.squaredance.or.jp/",
@@ -315,19 +306,10 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "гҖҗй–ӢеӮ¬дёӯжӯўгҖ‘FLARE U 1st JAPAN FANMEETING - YOUTH ERROR -",
+   "title": "【開催中止】FLARE U 1st JAPAN FANMEETING - YOUTH ERROR -",
    "start": "2026-09-12",
    "end": "2026-09-12",
    "url": "https://flareu.jp/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "з¬¬5еӣһгғҠгӮӨгғўгғ«гғ“гӮ®гғҠгғјгӮәгӮ«гғғгғ— inгҒҝгҒӘгҒЁгҒҝгӮүгҒ„",
-   "start": "2026-09-12",
-   "end": "2026-09-12",
-   "url": "https://naimolbig5.peatix.com/view?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAadlC3i212PcIvWaHv8A0ODDBfGDjUUHefXB_BvRpQ2ik5fRo2B_Zw7Yq0QPOA_aem_X-r8G36sIW6Bhodiimcpag",
    "category": "イベント・コンサート",
    "wd": "土"
   },
@@ -338,6 +320,15 @@
    "end": "2026-09-13",
    "url": "https://www.kanetaya.com/",
    "category": "物販・展示即売会",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "第5回ナイモルビギナーズカップ inみなとみらい",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "url": "https://naimolbig5.peatix.com/view?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAadlC3i212PcIvWaHv8A0ODDBfGDjUUHefXB_BvRpQ2ik5fRo2B_Zw7Yq0QPOA_aem_X-r8G36sIW6Bhodiimcpag",
+   "category": "イベント・コンサート",
    "wd": "土"
   },
   {
@@ -682,7 +673,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "гҒҚгӮ…гӮӢгӮҠгӮ“гҒЈгҒҰгҒ—гҒҰгҒҝгҒҰгҖҺжҺЁеҝҚвҷЎгҒҚгӮ…гӮӢгӮҠгӮ“жұәиө·йӣҶдјҡпјҒгҖҸ",
+   "title": "きゅるりんってしてみて『推忍♡きゅるりん決起集会！』",
    "start": "2026-09-19",
    "end": "2026-09-19",
    "url": "https://www.kyurushite.com/",
@@ -779,7 +770,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "SOUND ALIVE presents жҳӯе’ҢжӯҢйҮҺйғҺгғ©гӮӨгғ–2026",
+   "title": "SOUND ALIVE presents 昭和歌野郎ライブ2026",
    "start": "2026-09-22",
    "end": "2026-09-22",
    "url": "http://www.kmmusic.co.jp/information/ysa2026.html",
@@ -824,7 +815,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "з¬‘жҝҖ!!гҒҠз¬‘гҒ„гӮ«гғјгғӢгғҗгғ«inгғ‘гӮ·гғ•гӮЈгӮіжЁӘжөң",
+   "title": "笑激!!お笑いカーニバルinパシフィコ横浜",
    "start": "2026-09-23",
    "end": "2026-09-23",
    "url": "http://www.kmmusic.co.jp/schedule_km/",
@@ -956,20 +947,20 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "жЁӘжөңгғһгғ©гӮҪгғі2026зӣ®жЁҷгӮҝгӮӨгғ еҲҘгғ©гғігғӢгғігӮ°гӮҜгғӘгғӢгғғгӮҜ",
-   "start": "2026-09-26",
-   "end": "2026-09-26",
-   "url": "https://yokohamamarathon.jp/runningclinic/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
    "title": "家具・インテリア ダイナミックチャリティーバーゲン",
    "start": "2026-09-26",
    "end": "2026-09-27",
    "url": "https://www.murauchi.net/dynamic_bargain_pacifico_yokohama_g.html?utm_source=google&utm_medium=cpc&utm_campaign=197459636785&utm_content=24003476339_197459636785__kwd-930239241796_9198804_m_Cj0KCQjwkt_UBhDMARIsALpnOAylqkjri0aQUNLvnlYGOhdLKsrUl6iOca6_QfWbCmurvAcQRDwPa0oaAqSNEALw_wcB&gad_source=1&gad_campaignid=24003476339&gbraid=0AAAABEKz5oQdmIXKOuVU9DrLu5g_inFQW&gclid=Cj0KCQjwkt_UBhDMARIsALpnOAylqkjri0aQUNLvnlYGOhdLKsrUl6iOca6_QfWbCmurvAcQRDwPa0oaAqSNEALw_wcB",
    "category": "物販・展示即売会",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "横浜マラソン2026目標タイム別ランニングクリニック",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "url": "https://yokohamamarathon.jp/runningclinic/",
+   "category": "イベント・コンサート",
    "wd": "土"
   },
   {
@@ -992,7 +983,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "AEN THE 1ST EPгҖҺA NEW ERA OF NOWгҖҸзҷәеЈІиЁҳеҝөгҖҖгӮӘгғ•гғ©гӮӨгғігӮӨгғҷгғігғҲ",
+   "title": "AEN THE 1ST EP『A NEW ERA OF NOW』発売記念 オフラインイベント",
    "start": "2026-09-27",
    "end": "2026-09-27",
    "url": "https://aen-official.jp/mob/news/diarKijiShw.php?site=AEN&ima=4234&id=308047",
@@ -1333,7 +1324,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "DOG SPORTS FESTIVAL вҖ“ WANDER LAND вҖ“",
+   "title": "DOG SPORTS FESTIVAL – WANDER LAND –",
    "start": "2026-10-03",
    "end": "2026-10-04",
    "url": "https://wanspo.co.jp/wonder-land/",
@@ -1342,7 +1333,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "еҗҚжҺўеҒөгғ—гғӘгӮӯгғҘгӮўпјҒLIVE2026 гӮӯгғҘгӮўгғғгғҲзҶұе”ұпјҒгҒҜгҒӘгҒҫгӮӢShowtimeвҳҶ",
+   "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
    "start": "2026-10-03",
    "end": "2026-10-03",
    "url": "https://www.marv.jp/special/precure_live/",
@@ -1853,7 +1844,16 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "гӮ¶гғ»жҳӯе’ҢжӯҢи¬Ўгғ‘гғ©гғҖгӮӨгӮ№",
+   "title": "yogafest YOKOHAMA 2026",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "url": "https://2026.yogafest.jp/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "ザ・昭和歌謡パラダイス",
    "start": "2026-10-10",
    "end": "2026-10-12",
    "url": "https://www.pacifico.co.jp/event/showakayo-paradise",
@@ -1862,7 +1862,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "еҲқйҹігғҹгӮҜгӮ·гғігғ•гӮ©гғӢгғј2026-2027 Melodies on the Keys",
+   "title": "初音ミクシンフォニー2026-2027 Melodies on the Keys",
    "start": "2026-10-10",
    "end": "2026-10-10",
    "url": "https://sp.wmg.jp/mikusymphony/",
@@ -1978,7 +1978,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "еҸӨиҲҳдјҠзҹҘйғҺГ— еҚ—йҮҺйҷҪеӯҗ presents жҳӯе’Ң 101 е№ҙгӮ№гғјгғ‘гғјгӮҪгғігӮ°гғ–гғғгӮҜгӮ·гғ§гӮҰпҪһжҳӯе’ҢгҒ®гғҷгӮ№гғҲгғ’гғғ",
+   "title": "古舘伊知郎× 南野陽子 presents 昭和 101 年スーパーソングブックショウ～昭和のベストヒット・グラフィティー～",
    "start": "2026-10-12",
    "end": "2026-10-12",
    "url": "https://s.mxtv.jp/event/mx-showa101thsss/",
@@ -2187,7 +2187,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "з¬¬29еӣһжЁӘжөңYMCAгӮӨгғігӮҝгғјгғҠгӮ·гғ§гғҠгғ«гғ»гғҒгғЈгғӘгғҶгӮЈгғјгғ©гғі2026",
+   "title": "第29回横浜YMCAインターナショナル・チャリティーラン2026",
    "start": "2026-10-17",
    "end": "2026-10-17",
    "url": "https://www.yokohamaymca.org/event/2026_charity_run/",
@@ -2610,7 +2610,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "жЁӘжөңгғһгғ©гӮҪгғі2026",
+   "title": "横浜マラソン2026",
    "start": "2026-10-25",
    "end": "2026-10-25",
    "url": "https://yokohamamarathon.jp/",
@@ -3376,6 +3376,14 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2213",
    "category": "セミナー",
    "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "60th FISMA TOKYO（第60回 東京ファッション産業機器 西3 商談/一般 FISMA TOKYO 事務局",
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "木"
   }
  ]
 }
