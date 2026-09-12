@@ -1,282 +1,33 @@
 {
- "updated": "2026-09-12 06:07",
+ "updated": "2026-09-13 07:46",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 99,
+   "count": 96,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 129,
+   "count": 104,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 40,
+   "count": 41,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 71,
+   "count": 73,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 45,
+   "count": 47,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "東京ビッグサイト",
-   "title": "国際物流総合展2026 東 ・7・ 商談 国際物流総合展事務局",
-   "start": "2026-09-08",
-   "end": "2026-09-11",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "火"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "BATTERY JAPAN【秋】～第21回 [国際] 二次電池展～",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8728",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "CCUS EXPO【秋】～第2回 [国際] CO₂の分離・回収・利用・貯蔵 技術展～",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8731",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "H2 & FC EXPO【秋】～第26回 [国際] 水素・燃料電池展～",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8726",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "PV EXPO【秋】～第23回 [国際] 太陽光発電展～",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8727",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "SMART ENERGY WEEK ～スマートエネルギー WEEK～【秋】2026",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8725",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "SMART GRID EXPO【秋】～第20回 [国際] スマートグリッド展～",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8729",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "WIND EXPO【秋】～第18回 [国際] 風力発電展～",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8730",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "ファクトリーイノベーション Week [秋] 2026",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8780",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 クルマの設計・開発DX展 [秋]",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8872",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 工場 安全・環境改善 EXPO [秋]",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8785",
-   "category": "イベント",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回[国際]熱エネルギー展【秋】",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8735",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第2回 SDV EXPO [秋]",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8779",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第2回 製造業 人手不足対策EXPO [秋] -人材の採用・教育・管理展-",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8784",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第3回 パワーデバイス&モジュール EXPO [秋]",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8776",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第4回 製造業カーボンニュートラル展 [秋] -グリーンファクトリー EXPO-",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8783",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第5回 EV・HV・FCV技術展 [秋] (EV JAPAN 秋)",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8778",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第5回 インターネプコン ジャパン [秋] -エレクトロニクス 製造・実装展-",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8774",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第5回 オートモーティブワールド [秋] -クルマの先端技術展-",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8777",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第5回 スマート工場 EXPO [秋] -IoT/AI/FAによる製造革新 展-",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8781",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第5回 ネプコン ジャパン [秋] -エレクトロニクス 開発・実装展-",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8773",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第5回 ロボデックス [秋] -ロボット [開発]・[活用] 展-",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8782",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第5回 電子部品・材料 EXPO [秋]",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8775",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第7回 サーキュラー・エコノミー EXPO【秋】 [CE JAPAN]",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8734",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第9回 サステナブル経営WEEK (旧称:GX経営WEEK)【秋】",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8732",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第9回 脱炭素経営 EXPO【秋】",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8733",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "サーモテック 2026 南1・2 商談 サーモテック事務局／メッセフラン",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第28回自動認識総合展 南3 商談 （株）シー・エヌ・ティ",
-   "start": "2026-09-09",
-   "end": "2026-09-11",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
   {
    "venue": "パシフィコ横浜",
    "title": "2026年 Tokyo Gendai / 東京現代",
@@ -3384,6 +3135,51 @@
    "end": "2026-11-13",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "木"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "冬スポ!!WINTER SPORTS FESTA season26",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "url": "https://www.fuyusupo.jp/",
+   "category": "物販・展示即売会",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "かつしかトリオ COBALT EXPRESS TOUR 2026",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261113_0702",
+   "category": "一般",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ゴスペラーズ坂ツアー2026 “UNIVER5OUL”",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261113_0402",
+   "category": "一般",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "「浜松工業高校 定時制 生徒」と「浜松市内製造業」とのマッチング事業",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2216",
+   "category": "説明会",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【受講生募集】2026年度 第29期創業塾",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
+   "category": "セミナー",
+   "wd": "金"
   }
  ]
 }
