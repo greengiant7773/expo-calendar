@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15 08:40",
+ "updated": "2026-09-16 08:22",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 72,
+   "count": 73,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 47,
+   "count": 46,
    "error": null
   }
  ],
@@ -36,15 +36,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260911_0513",
    "category": "一般",
    "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "もう『人手不足』で悩まない！「採用担当者育成塾」（全7回）",
-   "start": "2026-09-14",
-   "end": "2026-09-14",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2164",
-   "category": "セミナー・交流会",
-   "wd": "月"
   },
   {
    "venue": "東京国際フォーラム",
@@ -642,6 +633,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260928_0526",
    "category": "一般",
    "wd": "月"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "Robotics NEXT Tokyo 2026",
+   "start": "2026-09-29",
+   "end": "2026-09-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260929_0915",
+   "category": "一般",
+   "wd": "火"
   },
   {
    "venue": "東京国際フォーラム",
@@ -1631,7 +1631,7 @@
   },
   {
    "venue": "幕張メッセ",
-   "title": "Japan Mobility Show 2026 Bizweek",
+   "title": "Japan Mobility Show Bizweek 2026",
    "start": "2026-10-13",
    "end": "2026-10-16",
    "url": "https://www.m-messe.co.jp/event/detail/8918",
