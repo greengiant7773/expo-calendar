@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16 08:22",
+ "updated": "2026-09-17 08:29",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,17 +13,17 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 38,
+   "count": 39,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 73,
+   "count": 76,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 46,
+   "count": 45,
    "error": null
   }
  ],
@@ -200,29 +200,11 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】基本の確認から実践まで！営業セミナー",
-   "start": "2026-09-16",
-   "end": "2026-09-16",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2198",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
    "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
    "start": "2026-09-16",
    "end": "2026-09-16",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
    "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【食品部会】部会内会員企業視察会",
-   "start": "2026-09-16",
-   "end": "2026-09-16",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2211",
-   "category": "視察会",
    "wd": "水"
   },
   {
@@ -1920,6 +1902,15 @@
    "wd": "火"
   },
   {
+   "venue": "浜松商工会議所",
+   "title": "\"健康経営\"を考えるセミナー ～メンタルヘルス・休職・復職・就業障害のリスクマネジメント～",
+   "start": "2026-10-20",
+   "end": "2026-10-20",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2228",
+   "category": "セミナー",
+   "wd": "火"
+  },
+  {
    "venue": "幕張メッセ",
    "title": "EC・店舗 Week 秋 2026",
    "start": "2026-10-21",
@@ -2173,6 +2164,15 @@
   },
   {
    "venue": "東京国際フォーラム",
+   "title": "OPEN CITY MARUNOUCHI2026 【自由見学・デジタルスタンプラリー】建築と自然のハーモニー",
+   "start": "2026-10-23",
+   "end": "2026-11-08",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0914",
+   "category": "一般",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
    "title": "山崎育三郎 LIVE TOUR 2026『19BOX 〜STARMAN〜』",
    "start": "2026-10-23",
    "end": "2026-10-23",
@@ -2379,6 +2379,15 @@
    "wd": "金"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "OPEN CITY MARUNOUCHI2026【ガイドプログラム】 写真家 大杉隼平と巡る東京国際フォーラム -撮ることで伝える大切なこと-",
+   "start": "2026-10-30",
+   "end": "2026-10-31",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261030_0914",
+   "category": "一般",
+   "wd": "金"
+  },
+  {
    "venue": "浜松商工会議所",
    "title": "【受講生募集】2026年度 第29期創業塾",
    "start": "2026-10-30",
@@ -2524,6 +2533,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "SPIC大運動会2026 〜MOVE FOR HEALTH！",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://www.pacifico.co.jp/eventInfo",
+   "category": "大会・式典・その他",
+   "wd": "火"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "TALES OF XILLIA ~15th Anniversary party~",
    "start": "2026-11-03",
    "end": "2026-11-03",
@@ -2625,6 +2643,15 @@
    "start": "2026-11-05",
    "end": "2026-11-06",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261105_0904",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "林部智史 CONCERT TOUR 2026・秋 This is Myself !! ～コンサートアーテイストとして10年～",
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261105_0915",
    "category": "一般",
    "wd": "木"
   },
