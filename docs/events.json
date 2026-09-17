@@ -1,29 +1,29 @@
 {
- "updated": "2026-09-17 08:29",
+ "updated": "2026-09-18 08:20",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 98,
+   "count": 113,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 100,
+   "count": 101,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 39,
+   "count": 40,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 76,
+   "count": 75,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 45,
+   "count": 43,
    "error": null
   }
  ],
@@ -36,15 +36,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260911_0513",
    "category": "一般",
    "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "マリンフーズ・双日食料・トライ産業 合同展示商談会2026",
-   "start": "2026-09-15",
-   "end": "2026-09-16",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260915Fr-H202609038",
-   "category": "関係者",
-   "wd": "火"
   },
   {
    "venue": "東京ビッグサイト",
@@ -199,48 +190,12 @@
    "wd": "水"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-09-16",
-   "end": "2026-09-16",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "東京ゲームショウ2026",
    "start": "2026-09-17",
    "end": "2026-09-21",
    "url": "https://www.m-messe.co.jp/event/detail/8886",
    "category": "展示会・見本市",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【8/21現在 満員御礼】 【日本公庫主催 】 AI時代の動画制作入門セミナー",
-   "start": "2026-09-17",
-   "end": "2026-09-17",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2192",
-   "category": "セミナー",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【8/24現在 満員御礼】生成AIをビジネスに活用するDX業務改善セミナー 実践編",
-   "start": "2026-09-17",
-   "end": "2026-09-17",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2194",
-   "category": "セミナー",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【本年度初開催】静岡理工科大学 教職員と会員企業の情報交換会",
-   "start": "2026-09-17",
-   "end": "2026-09-17",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2218",
-   "category": "交流会",
    "wd": "木"
   },
   {
@@ -927,6 +882,15 @@
    "start": "2026-10-03",
    "end": "2026-10-04",
    "url": "https://wanspo.co.jp/wonder-land/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "Pistons & Pretzels Japan 2026",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "url": "https://www.konzepthaus-consulting.com/events/pistons-pretzels-japan/",
    "category": "イベント・コンサート",
    "wd": "土"
   },
@@ -3151,6 +3115,153 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261115_0909",
    "category": "一般",
    "wd": "日"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "Inter BEE 2026",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.m-messe.co.jp/event/detail/8917",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "2026洗浄総合展 東 商談 「2026洗浄総合展」運営事務局",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "HOSPEX Japan 2026 西2 商談 ホスペックスジャパン 事務局",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "Japan Home Show & Building Show 2026 西 商談 Japan Home Show & Building",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "VACUUM2026真空展 東 商談 「VACUUM2026真空展」運営",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "sampe Japan 先端材料技術展2026 東 商談 sampe Japan 先端材料技術展",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "スマートファクトリーJapan2026 東 商談 「スマートファクトリーJapan2026」",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "ビルメンヒューマンフェア＆クリーンEXPO 2026 南1・2 商談 ビルメンヒューマンフェア＆クリーン",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第11回 アジア・ファニシング・フェア 2026 南3・4 商談 一般社団法人アジア家具フォー",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第11回 ドリンク ジャパン -[飲料][液状食品] 開発・製造 東7・8 商談 ドリンク ジャパン事務局",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第3回 食品安全・衛生イノベーション展 東7・8 商談 食品工場 Week 事務局",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第45回 JAPANTEX 2026 西4 商談 JAPANTEX事務局",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第7回 食品工場Week 東7・8 商談 食品工場 Week 事務局",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第7回 食品工場の自動化・DX 展 東7・8 商談 食品工場 Week 事務局",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "表面改質展2026 東 商談 「表面改質展2026」運営事務局",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "高精度・難加工技術展2026 東 商談 「高精度・難加工技術展2026」",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】基礎からわかる決算書類分析講座",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2223",
+   "category": "講演会・セミナー",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
+   "category": "講演会・セミナー",
+   "wd": "水"
   }
  ]
 }
