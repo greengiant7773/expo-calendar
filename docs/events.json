@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 08:20",
+ "updated": "2026-09-19 07:58",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,35 +8,26 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 101,
+   "count": 102,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 40,
+   "count": 42,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 75,
+   "count": 77,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 43,
+   "count": 46,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "東京国際フォーラム",
-   "title": "古川雄大 The Greatest Concert vol.3 -Man of the Stage-",
-   "start": "2026-09-11",
-   "end": "2026-09-17",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260911_0513",
-   "category": "一般",
-   "wd": "金"
-  },
   {
    "venue": "東京ビッグサイト",
    "title": "2026 国際ウエルディングショー 西1・2 商談/一般 産報出版株式会社",
@@ -986,6 +977,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "Design Solution Forum 2026",
+   "start": "2026-10-06",
+   "end": "2026-10-06",
+   "url": "https://dsforum.jp/2026/",
+   "category": "学会・会議",
+   "wd": "火"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "BioJapan/ 再生医療JAPAN/healthTECH JAPAN",
    "start": "2026-10-07",
    "end": "2026-10-09",
@@ -1898,6 +1898,15 @@
    "start": "2026-10-21",
    "end": "2026-10-23",
    "url": "https://www.m-messe.co.jp/event/detail/8572",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "営業・デジタルマーケティング Week 秋 2026",
+   "start": "2026-10-21",
+   "end": "2026-10-23",
+   "url": "https://www.m-messe.co.jp/event/detail/8585",
    "category": "展示会・見本市",
    "wd": "水"
   },
@@ -3030,6 +3039,15 @@
    "wd": "金"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "ザ インターナショナルアカデミック フォーラム The 18th Asian Conference on Education（ACE2026）",
+   "start": "2026-11-13",
+   "end": "2026-11-17",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261113Fr-H202611068",
+   "category": "一般&関係者",
+   "wd": "金"
+  },
+  {
    "venue": "浜松商工会議所",
    "title": "「浜松工業高校 定時制 生徒」と「浜松市内製造業」とのマッチング事業",
    "start": "2026-11-13",
@@ -3105,6 +3123,15 @@
    "start": "2026-11-15",
    "end": "2026-11-15",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "CFO LEADERS SUMMIT 2026",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261115Fr-H202611060",
+   "category": "一般&関係者",
    "wd": "日"
   },
   {
@@ -3262,6 +3289,51 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
    "category": "講演会・セミナー",
    "wd": "水"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "山下達郎「PERFORMANCE 2026」",
+   "start": "2026-11-19",
+   "end": "2026-11-20",
+   "url": "https://www.tatsuro.co.jp/live/",
+   "category": "イベント・コンサート",
+   "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "さだまさしコンサートツアー2026 神さまの言うとおり",
+   "start": "2026-11-19",
+   "end": "2026-11-20",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261119_0903",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "DOMO求人特別企画(会員限定)",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/1973",
+   "category": "その他",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "学内就活イベント『就Cafe』in 静岡文化芸術大学",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2226",
+   "category": "交流会",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "現役記者が教える、選ばれるプレスリリース作成術",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2219",
+   "category": "セミナー",
+   "wd": "木"
   }
  ]
 }
