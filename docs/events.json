@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-19 07:58",
+ "updated": "2026-09-20 07:37",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 113,
+   "count": 95,
    "error": null
   },
   {
@@ -13,17 +13,17 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 77,
+   "count": 75,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 46,
+   "count": 49,
    "error": null
   }
  ],
@@ -37,175 +37,13 @@
    "wd": "水"
   },
   {
-   "venue": "東京ビッグサイト",
-   "title": "AFF・東京2026 AUTUMN 西3・4 商談/一般 一般社団法人日中経済貿易セ",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "FORESTRISE2026（第5回次世代森林産業展） 東3 商談 FORESTRISE事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "INTERMEASURE2026（第32回計量計測展） 東 商談 INTERMEASURE 2026実行委",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "JIMA2026 総合検査機器展 東1 商談 JIMA2026 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "センサエキスポジャパン2026 東 商談 センサエキスポジャパン事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "地盤技術フォーラム2026 東3 商談 株式会社シー・エヌ・ティ",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第12回 法務・コンプライアンス EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第14回 福利厚生 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第16回 会計・財務 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第18回 働き方改革 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第19回 HR EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第21回 総務サービス EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第25回 オフィス防災 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第26回 総務・人事・経理Week【東京｜9月】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第35回 2026知財・情報フェア＆コンファレンス 東3 商談 知財・情報フェア＆コンファレンス",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第4回 ワークプレイス改革 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第9回 健康経営 EXPO【東京】 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第１回 バックオフィスAIエージェントEXPO 南 商談 総務・人事・経理 Week 事務局",
-   "start": "2026-09-16",
-   "end": "2026-09-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
    "venue": "幕張メッセ",
-   "title": "東京ゲームショウ2026",
+   "title": "東京ゲームショウ2026 【9月21日開催中止】",
    "start": "2026-09-17",
    "end": "2026-09-21",
    "url": "https://www.m-messe.co.jp/event/detail/8886",
    "category": "展示会・見本市",
    "wd": "木"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "あの素晴しい歌をもう一度コンサート2026東京",
-   "start": "2026-09-18",
-   "end": "2026-09-18",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260918_0424",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ネオ屋台村 スーパーナイト",
-   "start": "2026-09-18",
-   "end": "2026-09-18",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260918_0817",
-   "category": "一般",
-   "wd": "金"
   },
   {
    "venue": "パシフィコ横浜",
@@ -3334,6 +3172,42 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2219",
    "category": "セミナー",
    "wd": "木"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "第70回日本新生児成育医学会・学術集会",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "url": "https://jsnhd70.umin.jp/",
+   "category": "学会・会議",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "「浜名高校 定時制 生徒」と「浜松市内企業」とのマッチング事業",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2220",
+   "category": "説明会",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【受講生募集】2026年度 第29期創業塾",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
+   "category": "セミナー",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【食品部会】ジャカルタ・バンコク海外視察会",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2232",
+   "category": "視察会",
+   "wd": "金"
   }
  ]
 }
