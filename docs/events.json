@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-20 07:37",
+ "updated": "2026-09-21 07:53",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 95,
+   "count": 94,
    "error": null
   },
   {
@@ -13,12 +13,12 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 75,
+   "count": 76,
    "error": null
   },
   {
@@ -29,14 +29,6 @@
  ],
  "events": [
   {
-   "venue": "東京ビッグサイト",
-   "title": "2026 国際ウエルディングショー 西1・2 商談/一般 産報出版株式会社",
-   "start": "2026-09-16",
-   "end": "2026-09-19",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "東京ゲームショウ2026 【9月21日開催中止】",
    "start": "2026-09-17",
@@ -46,29 +38,11 @@
    "wd": "木"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "きゅるりんってしてみて『推忍♡きゅるりん決起集会！』",
-   "start": "2026-09-19",
-   "end": "2026-09-19",
-   "url": "https://www.kyurushite.com/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "AKINA NAKAMORI LIVE TOUR 2026",
    "start": "2026-09-19",
    "end": "2026-09-20",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260919_0424",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "未唯mie DEBUT 50th & SOLO 45th Anniversary Celebration presented by Achievement Corporation",
-   "start": "2026-09-19",
-   "end": "2026-09-19",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260919_0304",
    "category": "一般",
    "wd": "土"
   },
@@ -108,7 +82,7 @@
   },
   {
    "venue": "幕張メッセ",
-   "title": "2026千葉県私学フェア",
+   "title": "2026千葉県私学フェア【開催中止】",
    "start": "2026-09-21",
    "end": "2026-09-21",
    "url": "https://www.m-messe.co.jp/event/detail/8831",
@@ -3208,6 +3182,24 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2232",
    "category": "視察会",
    "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "APF GRAND CHAMPIONSHIPS 2026",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261121_0909",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "「バック・トゥ・ザ・フューチャー」 in コンサート",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261121_0701",
+   "category": "一般",
+   "wd": "土"
   }
  ]
 }
