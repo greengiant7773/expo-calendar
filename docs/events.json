@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-21 07:53",
+ "updated": "2026-09-22 08:46",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 94,
+   "count": 95,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 102,
+   "count": 104,
    "error": null
   },
   {
@@ -18,7 +18,7 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 76,
+   "count": 75,
    "error": null
   },
   {
@@ -38,15 +38,6 @@
    "wd": "木"
   },
   {
-   "venue": "東京国際フォーラム",
-   "title": "AKINA NAKAMORI LIVE TOUR 2026",
-   "start": "2026-09-19",
-   "end": "2026-09-20",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260919_0424",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
    "venue": "東京ビッグサイト",
    "title": "ジャパンレプタイルズショー in 東京 東1 一般 ジャパンレプタイルズショー事務局",
    "start": "2026-09-20",
@@ -60,15 +51,6 @@
    "start": "2026-09-20",
    "end": "2026-09-21",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "TATUYA ISHII SPECIAL CONCERT TOUR 2026 「NYLON CLUB THE RETURNS」",
-   "start": "2026-09-20",
-   "end": "2026-09-20",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260920_0331",
-   "category": "一般",
    "wd": "日"
   },
   {
@@ -3200,6 +3182,41 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261121_0701",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "CHILL CLASSIC CONCERT -Winter Illumination-",
+   "start": "2026-11-22",
+   "end": "2026-11-23",
+   "url": "https://www.m-messe.co.jp/event/detail/8912",
+   "category": "音楽イベント",
+   "wd": "日"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第65回日本臨床細胞学会秋期大会",
+   "start": "2026-11-22",
+   "end": "2026-11-23",
+   "url": "https://www.m-messe.co.jp/event/detail/8901",
+   "category": "学会・会議",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "癒しフェア 西4 商談/一般 癒しフェア事務局",
+   "start": "2026-11-22",
+   "end": "2026-11-23",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ロクデナシ Oneman Live 2026",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261122_1208",
+   "category": "一般",
+   "wd": "日"
   }
  ]
 }
