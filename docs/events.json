@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23 08:26",
+ "updated": "2026-09-24 08:24",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,71 +13,26 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 42,
+   "count": 45,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 74,
+   "count": 70,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 49,
+   "count": 51,
    "error": null
   }
  ],
  "events": [
   {
    "venue": "東京国際フォーラム",
-   "title": "MYSTERY NIGHT TOUR 2026 稲川淳二の怪談ナイト",
-   "start": "2026-09-21",
-   "end": "2026-09-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260921Fr-H202609019",
-   "category": "一般",
-   "wd": "月"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "SOUND ALIVE presents 昭和歌野郎ライブ2026",
-   "start": "2026-09-22",
-   "end": "2026-09-22",
-   "url": "http://www.kmmusic.co.jp/information/ysa2026.html",
-   "category": "イベント・コンサート",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
    "title": "EPAD 舞台映像上映 Re ライブシアター in TOKYO 『最後のドン・キホーテ THE LAST REMAKE of Don Quixote』",
    "start": "2026-09-22",
    "end": "2026-09-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260922_0824",
-   "category": "一般",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "masayuki suzuki taste of martini tour 2026 Step123 season2 “70 / 40th anniversary“",
-   "start": "2026-09-22",
-   "end": "2026-09-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260922_1224",
-   "category": "一般",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "みんなのパチンコ・パチスロ サミット2026",
-   "start": "2026-09-22",
-   "end": "2026-09-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260922Fr-H202609071",
-   "category": "一般",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ベストフリーマーケット",
-   "start": "2026-09-22",
-   "end": "2026-09-22",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260922_0824",
    "category": "一般",
    "wd": "火"
@@ -2067,6 +2022,15 @@
    "wd": "木"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "第24回 堂本剛 独演会 帰ってきた 小喜利の私",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "url": "https://funk-love.jp/?ima=5403",
+   "category": "イベント・コンサート",
+   "wd": "金"
+  },
+  {
    "venue": "幕張メッセ",
    "title": "冬スポ‼WINTER SPORTS FESTA season26",
    "start": "2026-10-30",
@@ -2108,6 +2072,15 @@
    "start": "2026-10-31",
    "end": "2026-11-01",
    "url": "https://www.instagram.com/yokohama55dogfes/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "funk love meeting 2026 △ Hello !!! Epunpunther !!! Erother !!! △",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "url": "https://funk-love.jp/?ima=5403",
    "category": "イベント・コンサート",
    "wd": "土"
   },
@@ -3174,6 +3147,42 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261123_0831",
    "category": "一般",
    "wd": "月"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "2026年度 神奈川県私立中学校･高等学校 振興大会",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "url": "http://www.phsk.or.jp/",
+   "category": "大会・式典・その他",
+   "wd": "火"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "第67回電池討論会",
+   "start": "2026-11-24",
+   "end": "2026-11-26",
+   "url": "https://www.67denchi.com/",
+   "category": "大会・式典・その他",
+   "wd": "火"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【食品部会】ジャカルタ・バンコク海外視察会",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2232",
+   "category": "視察会",
+   "wd": "火"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "全5回シリーズ 2026年度 はままつメディカル塾（医療機器・薬機法関連セミナー）",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
+   "category": "セミナー",
+   "wd": "火"
   }
  ]
 }
