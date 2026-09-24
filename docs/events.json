@@ -1,24 +1,24 @@
 {
- "updated": "2026-09-24 08:24",
+ "updated": "2026-09-25 08:43",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 93,
+   "count": 97,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 102,
+   "count": 101,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 45,
+   "count": 46,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 70,
+   "count": 71,
    "error": null
   },
   {
@@ -29,66 +29,12 @@
  ],
  "events": [
   {
-   "venue": "東京国際フォーラム",
-   "title": "EPAD 舞台映像上映 Re ライブシアター in TOKYO 『最後のドン・キホーテ THE LAST REMAKE of Don Quixote』",
-   "start": "2026-09-22",
-   "end": "2026-09-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260922_0824",
-   "category": "一般",
-   "wd": "火"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "笑激!!お笑いカーニバルinパシフィコ横浜",
-   "start": "2026-09-23",
-   "end": "2026-09-23",
-   "url": "http://www.kmmusic.co.jp/schedule_km/",
-   "category": "イベント・コンサート",
-   "wd": "水"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "IFBLS2026",
    "start": "2026-09-23",
    "end": "2026-09-27",
    "url": "https://www.m-messe.co.jp/event/detail/8832",
    "category": "学会・会議",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "超PMAM",
-   "start": "2026-09-23",
-   "end": "2026-09-23",
-   "url": "https://www.m-messe.co.jp/event/detail/8849",
-   "category": "音楽イベント",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ICEx Fourth Concert Tour 2026 ''FRESHest!!''",
-   "start": "2026-09-23",
-   "end": "2026-09-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260923_0317",
-   "category": "一般",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "WorldPeaceCoaching2026 in Tokyo",
-   "start": "2026-09-23",
-   "end": "2026-09-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260923_0812",
-   "category": "一般&関係者",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "新・農業人フェア 農業EXPO",
-   "start": "2026-09-23",
-   "end": "2026-09-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260923Fr-H202609116",
-   "category": "一般",
    "wd": "水"
   },
   {
@@ -1419,6 +1365,15 @@
    "wd": "金"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "ネオ屋台村 スーパーナイト",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261016_0924",
+   "category": "一般",
+   "wd": "金"
+  },
+  {
    "venue": "浜松商工会議所",
    "title": "【満員御礼】ギャルマインドで変わる！採用と組織のつくり方 ― “Z世代に選ばれる企業”へ変わる、経営層向け実践プログラム ―",
    "start": "2026-10-16",
@@ -1546,11 +1501,38 @@
   },
   {
    "venue": "東京国際フォーラム",
+   "title": "～秋田の「いいな」が集まる日～ AKITA GOOD LIFE FESTIVAL",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261018_0924",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "HOSPITALITY × OMOTENASHI ACADEMY TOKYO 2026",
+   "start": "2026-10-20",
+   "end": "2026-10-20",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261020_0914",
+   "category": "一般",
+   "wd": "火"
+  },
+  {
+   "venue": "東京国際フォーラム",
    "title": "TEXFUTURE TOKYO",
    "start": "2026-10-20",
    "end": "2026-10-22",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261020Fr-H202610065",
    "category": "一般&関係者",
+   "wd": "火"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "大丸有SDGs ACT5 キラキラっとアートコンクール一般審査会",
+   "start": "2026-10-20",
+   "end": "2026-10-21",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261020_0915",
+   "category": "一般",
    "wd": "火"
   },
   {
@@ -3183,6 +3165,65 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
    "category": "セミナー",
    "wd": "火"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "MWE 2026／2026年 マイクロウェーブワークショップとマイクロウェーブ展",
+   "start": "2026-11-25",
+   "end": "2026-11-27",
+   "url": "https://apmc-mwe.org/",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "オーシャントランスフォーメーションエキスポ – OXExpo／Ocean Transformation Exhibition",
+   "start": "2026-11-25",
+   "end": "2026-11-26",
+   "url": "https://oxexpo.jp/",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "POWTEX 2026 ［第46回国際粉体工業展］ 東 商談 展示会事務局（株）シー・エヌ・",
+   "start": "2026-11-25",
+   "end": "2026-11-27",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "イベントJAPAN2026 東8 商談 レジャー&アウトドアジャパン事務",
+   "start": "2026-11-25",
+   "end": "2026-11-27",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "レジャー＆アウトドアジャパン2026 東7 商談 レジャー&アウトドアジャパン事務",
+   "start": "2026-11-25",
+   "end": "2026-11-27",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第5回 東京トレーラーハウスショー 東7 商談 レジャー&アウトドアジャパン事務",
+   "start": "2026-11-25",
+   "end": "2026-11-27",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "「椎名林檎と彼奴等と試す煩悩菩提」",
+   "start": "2026-11-25",
+   "end": "2026-11-26",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261125_0701",
+   "category": "一般",
+   "wd": "水"
   }
  ]
 }
