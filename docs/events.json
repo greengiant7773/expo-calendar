@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26 08:45",
+ "updated": "2026-09-27 08:20",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,17 +13,17 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 47,
+   "count": 48,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 72,
+   "count": 70,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 55,
+   "count": 58,
    "error": null
   }
  ],
@@ -44,33 +44,6 @@
    "end": "2026-09-26",
    "url": "https://www.zenfuren.org/",
    "category": "学会・会議",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "Sunil Grover Live in Tokyo 2026",
-   "start": "2026-09-25",
-   "end": "2026-09-25",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260925_0828",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "未来の博士フェス2026",
-   "start": "2026-09-25",
-   "end": "2026-09-25",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260925Fr-H202609132",
-   "category": "一般&関係者",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "芳雄のミュー Dream Fes.",
-   "start": "2026-09-25",
-   "end": "2026-09-25",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260925_0508",
-   "category": "一般",
    "wd": "金"
   },
   {
@@ -3455,6 +3428,51 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2233",
    "category": "視察会",
    "wd": "木"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody Ⅱ",
+   "start": "2026-11-27",
+   "end": "2026-11-28",
+   "url": "https://www.kyodoyokohama.com/schedule/index.php?mode=show&seq=2092",
+   "category": "イベント・コンサート",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "柴田聡子のひとりぼっち'26",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261127_0709",
+   "category": "一般",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "「浜松北高校 定時制生徒」と「浜松市内企業」とのマッチング事業",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2221",
+   "category": "説明会",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【受講生募集】2026年度 第29期創業塾",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
+   "category": "セミナー",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "第5回ドローンサミット 静岡県ブース共同出展 ～参加企業募集～",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2177",
+   "category": "その他",
+   "wd": "金"
   }
  ]
 }
