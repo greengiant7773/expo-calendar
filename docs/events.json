@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27 08:20",
+ "updated": "2026-09-28 08:33",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,7 +8,7 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 102,
+   "count": 103,
    "error": null
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 58,
+   "count": 60,
    "error": null
   }
  ],
@@ -36,15 +36,6 @@
    "url": "https://www.m-messe.co.jp/event/detail/8832",
    "category": "学会・会議",
    "wd": "水"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "全附Ｐ連ＰＴＡ研修会 第１７回全国大会",
-   "start": "2026-09-25",
-   "end": "2026-09-26",
-   "url": "https://www.zenfuren.org/",
-   "category": "学会・会議",
-   "wd": "金"
   },
   {
    "venue": "パシフィコ横浜",
@@ -65,30 +56,12 @@
    "wd": "土"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "横浜マラソン2026目標タイム別ランニングクリニック",
-   "start": "2026-09-26",
-   "end": "2026-09-26",
-   "url": "https://yokohamamarathon.jp/runningclinic/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "第75回日本医学検査学会",
    "start": "2026-09-26",
    "end": "2026-09-27",
    "url": "https://www.m-messe.co.jp/event/detail/8833",
    "category": "学会・会議",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "INTERSTELLAR LIVE｜インターステラー LIVE",
-   "start": "2026-09-26",
-   "end": "2026-09-26",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260926_0612",
-   "category": "一般",
    "wd": "土"
   },
   {
@@ -2325,6 +2298,15 @@
   },
   {
    "venue": "浜松商工会議所",
+   "title": "ムンド・デ・アレグリア学校 オープンスクールの開催について",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2242",
+   "category": "説明会・視察会",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
    "title": "広告費を抑えてSNSで新規顧客を獲得する7つの秘訣",
    "start": "2026-11-05",
    "end": "2026-11-05",
@@ -3241,6 +3223,15 @@
   },
   {
    "venue": "幕張メッセ",
+   "title": "楽天超ふるさと納税祭",
+   "start": "2026-11-22",
+   "end": "2026-11-23",
+   "url": "https://www.m-messe.co.jp/event/detail/8937",
+   "category": "展示会・見本市",
+   "wd": "日"
+  },
+  {
+   "venue": "幕張メッセ",
    "title": "第65回日本臨床細胞学会秋期大会",
    "start": "2026-11-22",
    "end": "2026-11-23",
@@ -3473,6 +3464,42 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2177",
    "category": "その他",
    "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "X TAKEOVER Japan 2026 前夜祭",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "url": "https://tocj.jp/x-takeover-japan/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "YOKOHAMA Star Light Festival 2026",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "url": "https://star-fes.com/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "薬師丸ひろ子 Concert Tour 2026 〜明日が来る〜",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261128_0529",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "第5回ドローンサミット 静岡県ブース共同出展 ～参加企業募集～",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2177",
+   "category": "その他",
+   "wd": "土"
   }
  ]
 }
