@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-28 08:33",
+ "updated": "2026-09-29 09:47",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 118,
+   "count": 119,
    "error": null
   },
   {
@@ -13,7 +13,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 48,
+   "count": 46,
    "error": null
   },
   {
@@ -23,83 +23,11 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 60,
+   "count": 63,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "幕張メッセ",
-   "title": "IFBLS2026",
-   "start": "2026-09-23",
-   "end": "2026-09-27",
-   "url": "https://www.m-messe.co.jp/event/detail/8832",
-   "category": "学会・会議",
-   "wd": "水"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "RV CAMP CLUB in YOKOHAMA",
-   "start": "2026-09-26",
-   "end": "2026-09-27",
-   "url": "https://jrva-event.com/ex/yccs/#:~:text=%E3%80%8CRV%20CAMP%20CLUB%20in%20YOKOHAMA%E3%80%8D%E3%81%AF%E3%80%81%E6%A8%AA%E6%B5%9C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC,%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "家具・インテリア ダイナミックチャリティーバーゲン",
-   "start": "2026-09-26",
-   "end": "2026-09-27",
-   "url": "https://www.murauchi.net/dynamic_bargain_pacifico_yokohama_g.html?utm_source=google&utm_medium=cpc&utm_campaign=197459636785&utm_content=24003476339_197459636785__kwd-930239241796_9198804_m_Cj0KCQjwkt_UBhDMARIsALpnOAylqkjri0aQUNLvnlYGOhdLKsrUl6iOca6_QfWbCmurvAcQRDwPa0oaAqSNEALw_wcB&gad_source=1&gad_campaignid=24003476339&gbraid=0AAAABEKz5oQdmIXKOuVU9DrLu5g_inFQW&gclid=Cj0KCQjwkt_UBhDMARIsALpnOAylqkjri0aQUNLvnlYGOhdLKsrUl6iOca6_QfWbCmurvAcQRDwPa0oaAqSNEALw_wcB",
-   "category": "物販・展示即売会",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第75回日本医学検査学会",
-   "start": "2026-09-26",
-   "end": "2026-09-27",
-   "url": "https://www.m-messe.co.jp/event/detail/8833",
-   "category": "学会・会議",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "AEN THE 1ST EP『A NEW ERA OF NOW』発売記念 オフラインイベント",
-   "start": "2026-09-27",
-   "end": "2026-09-27",
-   "url": "https://aen-official.jp/mob/news/diarKijiShw.php?site=AEN&ima=4234&id=308047",
-   "category": "イベント・コンサート",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "ANIMEK",
-   "start": "2026-09-27",
-   "end": "2026-09-27",
-   "url": "https://animek.jp/",
-   "category": "イベント・コンサート",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "KENTO YAMAZAKI FAN MEETING 2026",
-   "start": "2026-09-27",
-   "end": "2026-09-27",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260927_0619",
-   "category": "一般",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "資産運用フェス2026‐Autumn-",
-   "start": "2026-09-27",
-   "end": "2026-09-27",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260927Fr-H202610054",
-   "category": "一般",
-   "wd": "日"
-  },
   {
    "venue": "東京国際フォーラム",
    "title": "朗読劇 READING WORLD ユネスコ世界記憶遺産 舞鶴への生還『約束の果て』（再演）",
@@ -1067,15 +995,6 @@
    "wd": "土"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在10月10日交付分受付中 ※9月25日申込締切)",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/1856",
-   "category": "その他",
-   "wd": "土"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "SOUND OF EBICHU 2026-Band Edition-",
    "start": "2026-10-11",
@@ -1371,6 +1290,15 @@
    "end": "2026-10-17",
    "url": "https://www.yokohamaymca.org/event/2026_charity_run/",
    "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "GIGA•GIGA SONIC -KAKKO×KAWAii in MAKUHARI MESSE-",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.m-messe.co.jp/event/detail/8897",
+   "category": "音楽イベント",
    "wd": "土"
   },
   {
@@ -1751,8 +1679,17 @@
    "wd": "水"
   },
   {
+   "venue": "浜松商工会議所",
+   "title": "小規模事業者持続化補助金 活用セミナー",
+   "start": "2026-10-21",
+   "end": "2026-10-21",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2231",
+   "category": "セミナー",
+   "wd": "水"
+  },
+  {
    "venue": "東京国際フォーラム",
-   "title": "ROIROM Fanclub Tour 2026",
+   "title": "ROIROM FANCLUB TOUR 2026 \"LIGHT IT UP”",
    "start": "2026-10-22",
    "end": "2026-10-22",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261022_0717",
@@ -2455,6 +2392,15 @@
   },
   {
    "venue": "浜松商工会議所",
+   "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在11月10日交付分受付中 ※10月25日申込締切)",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/1856",
+   "category": "その他",
+   "wd": "火"
+  },
+  {
+   "venue": "浜松商工会議所",
    "title": "学内就活イベント『World Career Lounge HAMAMATSU』in 静岡県立大学草薙キャンパス",
    "start": "2026-11-10",
    "end": "2026-11-10",
@@ -2808,6 +2754,15 @@
    "start": "2026-11-15",
    "end": "2026-11-15",
    "url": "https://www.m-messe.co.jp/event/detail/8927",
+   "category": "イベント",
+   "wd": "日"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "新しい学校選びフェア",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "url": "https://www.m-messe.co.jp/event/detail/8939",
    "category": "イベント",
    "wd": "日"
   },
@@ -3500,6 +3455,68 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2177",
    "category": "その他",
    "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "Gero Live Tour 2026「ECHOES」",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://gero-music.net/tour2026/",
+   "category": "イベント・コンサート",
+   "wd": "日"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "TOCJ X TAKEOVER Japan 2026",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://tocj.jp/x-takeover-japan/",
+   "category": "イベント・コンサート",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "COMIC CITY 東京153 西 一般 赤ブーブー通信社",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "NOA DANCE IMPACT 2026",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261129_0908",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "舟木一夫コンサート2026 ツアーファイナル",
+   "start": "2026-11-30",
+   "end": "2026-11-30",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261130_0902",
+   "category": "一般",
+   "wd": "月"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【受付中】ワガシャ de DOMO お見積り・ご相談申込ページ",
+   "start": "2026-11-30",
+   "end": "2026-11-30",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2043",
+   "category": "その他",
+   "wd": "月"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "浜松商工会議所会員限定特典「Timee（タイミー）」説明お申込みページ",
+   "start": "2026-11-30",
+   "end": "2026-11-30",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2208",
+   "category": "その他",
+   "wd": "月"
   }
  ]
 }
