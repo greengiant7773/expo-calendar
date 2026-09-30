@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29 09:47",
+ "updated": "2026-09-30 09:02",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -18,43 +18,16 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 70,
+   "count": 67,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 63,
+   "count": 61,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "東京国際フォーラム",
-   "title": "朗読劇 READING WORLD ユネスコ世界記憶遺産 舞鶴への生還『約束の果て』（再演）",
-   "start": "2026-09-28",
-   "end": "2026-09-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260928_0526",
-   "category": "一般",
-   "wd": "月"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "E2E自動運転サミット",
-   "start": "2026-09-29",
-   "end": "2026-09-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260929_0924",
-   "category": "一般",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "Robotics NEXT Tokyo 2026",
-   "start": "2026-09-29",
-   "end": "2026-09-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260929_0915",
-   "category": "一般",
-   "wd": "火"
-  },
   {
    "venue": "東京国際フォーラム",
    "title": "未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026",
@@ -62,15 +35,6 @@
    "end": "2026-09-30",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260929_0818",
    "category": "一般",
-   "wd": "火"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "高度外国人留学生採用セミナー",
-   "start": "2026-09-29",
-   "end": "2026-09-29",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2229",
-   "category": "セミナー",
    "wd": "火"
   },
   {
@@ -287,15 +251,6 @@
    "start": "2026-09-30",
    "end": "2026-10-02",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【受付中】ワガシャ de DOMO お見積り・ご相談申込ページ",
-   "start": "2026-09-30",
-   "end": "2026-09-30",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2043",
-   "category": "その他",
    "wd": "水"
   },
   {
