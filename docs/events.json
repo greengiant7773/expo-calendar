@@ -1,24 +1,24 @@
 {
- "updated": "2026-09-30 09:02",
+ "updated": "2026-10-01 09:19",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 119,
+   "count": 132,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 103,
+   "count": 105,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 46,
+   "count": 47,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 67,
+   "count": 69,
    "error": null
   },
   {
@@ -28,15 +28,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "東京国際フォーラム",
-   "title": "未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026",
-   "start": "2026-09-29",
-   "end": "2026-09-30",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20260929_0818",
-   "category": "一般",
-   "wd": "火"
-  },
   {
    "venue": "幕張メッセ",
    "title": "第10回 接着・接合 EXPO",
@@ -251,15 +242,6 @@
    "start": "2026-09-30",
    "end": "2026-10-02",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "浜松商工会議所会員限定特典「Timee（タイミー）」説明お申込みページ",
-   "start": "2026-09-30",
-   "end": "2026-09-30",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2208",
-   "category": "その他",
    "wd": "水"
   },
   {
@@ -2764,6 +2746,15 @@
    "wd": "火"
   },
   {
+   "venue": "浜松商工会議所",
+   "title": "事業継続力強化計画策定塾 ～BCPの第一歩を踏み出そう～",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2227",
+   "category": "セミナー",
+   "wd": "火"
+  },
+  {
    "venue": "幕張メッセ",
    "title": "Inter BEE 2026",
    "start": "2026-11-18",
@@ -3239,6 +3230,15 @@
    "wd": "水"
   },
   {
+   "venue": "幕張メッセ",
+   "title": "2026いずみ住まいのグランドフェア",
+   "start": "2026-11-25",
+   "end": "2026-11-26",
+   "url": "https://www.m-messe.co.jp/event/detail/8905",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
    "venue": "東京ビッグサイト",
    "title": "( POWTEX 2026 ［第46回国際粉体工業展］ 東 商談 展示会事務局（株）シー・エヌ・",
    "start": "2026-11-25",
@@ -3472,6 +3472,155 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2208",
    "category": "その他",
    "wd": "月"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "IPF Japan 2026 国際プラスチックフェア",
+   "start": "2026-12-01",
+   "end": "2026-12-05",
+   "url": "https://www.m-messe.co.jp/event/detail/8921",
+   "category": "展示会・見本市",
+   "wd": "火"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "moonriders LIVE 2026",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261201_0825",
+   "category": "一般",
+   "wd": "火"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "第48回国際画像機器展2026 / The 48th INTERNATIONAL TECHNICAL EXHIBITION ON IMAGE TECHNOLOGY AND EQUIPMENT 2026",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.adcom-media.co.jp/ite/",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "COMNEXT 第4回［次世代］通信技術＆ソリューション展 西3・4 商談 COMNEXT 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第11回 JAPAN BUILD TOKYO －建築・土木・不動産の先端技 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第11回 スマートビルディング EXPO [東京] 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第11回 建材・設備 EXPO [東京] 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第1回 ホスピタリティテックEXPO 有明GYM- 商談 ホスピタリティテックEXPO 事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第1回 マンション経営・管理支援 EXPO [東京] 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第1回 リモートオペレーションEXPO ―遠隔操作・監視・作業サ 西4 商談 展示会 事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第2回 住宅DX展 [東京] 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第2回 建設現場イノベーション展 [東京] 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第4回 建物の脱炭素 EXPO [東京] -GX BUILD- 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第6回 建設DX展 [東京] 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第7回 不動産テックEXPO [東京] 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第9回 建物リニューアルEXPO [東京] 西1・2、南 商談 JAPAN BUILD 主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "南こうせつコンサートツアー2026〜君と僕のうた〜",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261202_0901",
+   "category": "一般",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "森雪之丞50thAnniversary Musical Concert『物語を歌う言葉たち』",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261202_0817",
+   "category": "一般",
+   "wd": "水"
   }
  ]
 }
