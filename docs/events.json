@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-01 09:19",
+ "updated": "2026-10-02 09:27",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 132,
+   "count": 131,
    "error": null
   },
   {
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 69,
+   "count": 71,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 61,
+   "count": 60,
    "error": null
   }
  ],
@@ -190,14 +190,6 @@
   },
   {
    "venue": "東京ビッグサイト",
-   "title": "Japan Bike Show 2026 有明GYM- 商談 ジャパンバイクショー運営事務局",
-   "start": "2026-09-30",
-   "end": "2026-10-01",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
    "title": "ラーメン産業展 in Japan 東 商談 FOOD STYLE Japan 実行委員",
    "start": "2026-09-30",
    "end": "2026-10-02",
@@ -243,33 +235,6 @@
    "end": "2026-10-02",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "市川由紀乃リサイタル2026 爛漫",
-   "start": "2026-10-01",
-   "end": "2026-10-01",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261001_0901",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "価格転嫁15のテクニック",
-   "start": "2026-10-01",
-   "end": "2026-10-01",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2195",
-   "category": "セミナー",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "簿記3級対策講座を無料で受講できるチャンス！！2026年度日商簿記3級ｅラーニング講座 受講者募集中",
-   "start": "2026-10-01",
-   "end": "2026-10-01",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2160",
-   "category": "セミナー",
-   "wd": "木"
   },
   {
    "venue": "東京ビッグサイト",
@@ -928,6 +893,15 @@
    "start": "2026-10-10",
    "end": "2026-10-11",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261010Fr-H202610010",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "尾崎亜美デビュー50周年記念コンサート",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261010_1001",
    "category": "一般",
    "wd": "土"
   },
@@ -2294,6 +2268,15 @@
    "wd": "土"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "国際教育フェア東京 2026 秋",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261107_0910",
+   "category": "一般&関係者",
+   "wd": "土"
+  },
+  {
    "venue": "東京ビッグサイト",
    "title": "文学フリマ東京43 南 一般 文学フリマ東京事務局",
    "start": "2026-11-08",
@@ -3621,6 +3604,24 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261202_0817",
    "category": "一般",
    "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "indigo la End ONEMAN TOUR 2026 「紫にて」",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261203_0202",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【満員御礼】ギャルマインドで変わる！採用と組織のつくり方 ― “Z世代に選ばれる企業”へ変わる、経営層向け実践プログラム ―",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2204",
+   "category": "セミナー",
+   "wd": "木"
   }
  ]
 }
