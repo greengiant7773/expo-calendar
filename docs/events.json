@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-02 09:27",
+ "updated": "2026-10-03 09:06",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 131,
+   "count": 122,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 105,
+   "count": 90,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 47,
+   "count": 51,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 71,
+   "count": 74,
    "error": null
   },
   {
@@ -29,236 +29,11 @@
  ],
  "events": [
   {
-   "venue": "幕張メッセ",
-   "title": "第10回 接着・接合 EXPO",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8693",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第11回 高機能セラミックス展 CERAMIC JAPAN",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8692",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第13回 高機能 金属展 METAL JAPAN",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8691",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第15回 高機能プラスチック展 PLASTIC JAPAN",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8690",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第17回 高機能フィルム展 FILMTECH JAPAN",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8689",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第17回 高機能素材Week",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8688",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 [次世代]乾燥プロセス展 -ドライテック-",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8703",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 マテリアルDX展",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8698",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 猛暑テック -猛暑対策テクノロジー展-",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8702",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 高機能マテリアル展",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8697",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第26回 Photonix -光・レーザー技術展-",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8700",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第2回 リサイクルテック ジャパン",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8701",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第36回 FINETECH JAPAN -電子ディスプレイ産業展-",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8699",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第3回 素材工場の脱炭素化展 Green Process Japan",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8696",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第6回 サステナブル マテリアル展 SUSMA",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8695",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第9回 塗料・塗装設備展 COATING JAPAN",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.m-messe.co.jp/event/detail/8694",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "BEYOND BEAUTY TOKYO 2026 西1 商談 BEYOND BEAUTY事務局",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "FOOD STYLE JAPAN 2026 ＜東京＞ 東 商談 FOOD STYLE Japan 実行委員",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "ラーメン産業展 in Japan 東 商談 FOOD STYLE Japan 実行委員",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "健康博覧会【秋】 西1 商談 健康博覧会事務局",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "危機管理産業展(RISCON TOKYO)2026 南 商談 RISCON TOKYO 事務局",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "産業DX総合展 東7・8 商談/一般 Bizcrew EXPO主催事務局",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "食品包装資材＆機械展 東 商談 FOOD STYLE Japan 実行委員",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "食品物流＆３ＰＬ総合展 東 商談 食品物流＆３ＰＬ総合展 実行",
-   "start": "2026-09-30",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "9:00～ 全国のホビー及びホビー関連製品が一堂に会する模型ホビーショー (前売あり)",
-   "start": "2026-10-02",
-   "end": "2026-10-02",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "金"
-  },
-  {
    "venue": "東京ビッグサイト",
    "title": "第64回全日本模型ホビーショー 西3・4 商談/一般 日本プラモデル工業協同組合",
    "start": "2026-10-02",
    "end": "2026-10-04",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "中小企業のための「価格交渉」講習会",
-   "start": "2026-10-02",
-   "end": "2026-10-02",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2230",
-   "category": "セミナー",
    "wd": "金"
   },
   {
@@ -916,6 +691,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "マイナビ インターンシップ合同説明会",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://job.mynavi.jp/conts/event/2028/10814/index.html?msockid=29c6ccbb1b11673d2051db611ae366f6",
+   "category": "展示会・見本市",
+   "wd": "日"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "ミキハウスランドin横浜",
    "start": "2026-10-11",
    "end": "2026-10-12",
@@ -1156,6 +940,15 @@
    "end": "2026-10-18",
    "url": "https://www.m-messe.co.jp/event/detail/8869",
    "category": "イベント",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ディズニー・オン・クラシック～まほうの夜の音楽会2026",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261016_1002",
+   "category": "一般",
    "wd": "金"
   },
   {
@@ -1985,6 +1778,15 @@
    "wd": "日"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "ルピシア グラン・マルシェ2026",
+   "start": "2026-11-01",
+   "end": "2026-11-03",
+   "url": "https://www.lupicia.co.jp/gm/2026/yokohama.php",
+   "category": "物販・展示即売会",
+   "wd": "日"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "東京サンフェア",
    "start": "2026-11-01",
@@ -2243,6 +2045,15 @@
   },
   {
    "venue": "幕張メッセ",
+   "title": "2026 Asia ZUMBA Conference",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.m-messe.co.jp/event/detail/8944",
+   "category": "イベント",
+   "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
    "title": "サントリーオールフリー presents 氣志團万博2026 ～房総爆音リゾート～",
    "start": "2026-11-07",
    "end": "2026-11-08",
@@ -2277,6 +2088,15 @@
    "wd": "土"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "大江戸骨董市",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261107_1002",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
    "venue": "東京ビッグサイト",
    "title": "文学フリマ東京43 南 一般 文学フリマ東京事務局",
    "start": "2026-11-08",
@@ -2292,6 +2112,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
    "category": "セミナー",
    "wd": "月"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "Photonics Innovation 2026",
+   "start": "2026-11-10",
+   "end": "2026-11-12",
+   "url": "https://photonics-innv.com/",
+   "category": "展示会・見本市",
+   "wd": "火"
   },
   {
    "venue": "パシフィコ横浜",
@@ -2632,6 +2461,15 @@
    "end": "2026-11-14",
    "url": "https://llrr.yokohama/",
    "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "VCM VINTAGE MARKET Vol.9",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://vcmvintagemarket9.peatix.com/",
+   "category": "物販・展示即売会",
    "wd": "土"
   },
   {
@@ -3159,6 +2997,15 @@
    "wd": "月"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "大江戸骨董市",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261123_1002",
+   "category": "一般",
+   "wd": "月"
+  },
+  {
    "venue": "パシフィコ横浜",
    "title": "2026年度 神奈川県私立中学校･高等学校 振興大会",
    "start": "2026-11-24",
@@ -3622,6 +3469,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2204",
    "category": "セミナー",
    "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【受講生募集】2026年度 第29期創業塾",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
+   "category": "セミナー",
+   "wd": "金"
   }
  ]
 }
