@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-04 08:28",
+ "updated": "2026-10-05 08:46",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 122,
+   "count": 123,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 90,
+   "count": 88,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 51,
+   "count": 52,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 74,
+   "count": 73,
    "error": null
   },
   {
@@ -46,75 +46,12 @@
    "wd": "土"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "Pistons & Pretzels Japan 2026",
-   "start": "2026-10-03",
-   "end": "2026-10-03",
-   "url": "https://www.konzepthaus-consulting.com/events/pistons-pretzels-japan/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
-   "start": "2026-10-03",
-   "end": "2026-10-03",
-   "url": "https://www.marv.jp/special/precure_live/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "新しい学校選びフェア2026",
-   "start": "2026-10-03",
-   "end": "2026-10-03",
-   "url": "https://sapporo-machizukuri.com/org/600",
-   "category": "大会・式典・その他",
-   "wd": "土"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "RAGE Shadowverse Japan Championship 2026 Season 3",
    "start": "2026-10-03",
    "end": "2026-10-04",
    "url": "https://www.m-messe.co.jp/event/detail/8931",
    "category": "イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "マイナビ インターンシップ&キャリア発見フェア 幕張会場",
-   "start": "2026-10-03",
-   "end": "2026-10-03",
-   "url": "https://www.m-messe.co.jp/event/detail/8857",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "学びリンク 通信制高校・サポート校合同相談会",
-   "start": "2026-10-03",
-   "end": "2026-10-03",
-   "url": "https://www.m-messe.co.jp/event/detail/8840",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ハリー・ポッター™ in コンサート シリーズ第5弾 『ハリー・ポッターと不死鳥の騎士団™』シネマ・コンサート",
-   "start": "2026-10-03",
-   "end": "2026-10-03",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261003_0828",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ベストフリーマーケット",
-   "start": "2026-10-03",
-   "end": "2026-10-03",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261003_0925",
-   "category": "一般",
    "wd": "土"
   },
   {
@@ -3478,6 +3415,59 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
    "category": "セミナー",
    "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "ANIMEK",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://animek.jp/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "プリティシリーズ Crossing Live 2026",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://aipri.jp/anime/live-event/post-2/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "第12回一般社団法人日本臨床歯科CADCAM学会学術大会",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "url": "https://www.jscad.org/",
+   "category": "学会・会議",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "第22回日本乳癌学会関東地方会 / The 22nd Annual Meeting of the Japanese Breast Cancer Society KANTO Branch",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://www.pacifico.co.jp/eventInfo",
+   "category": "学会・会議",
+   "wd": "土"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "I・Doll VOL.78 西1 一般 I・Doll実行委員会",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "第66回全国矯正展（全国刑務所作業製品展示即売会）",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261205Fr-H202612004",
+   "category": "一般",
+   "wd": "土"
   }
  ]
 }
