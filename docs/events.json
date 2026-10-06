@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-05 08:46",
+ "updated": "2026-10-06 10:38",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 123,
+   "count": 121,
    "error": null
   },
   {
@@ -13,7 +13,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 52,
+   "count": 53,
    "error": null
   },
   {
@@ -29,32 +29,6 @@
  ],
  "events": [
   {
-   "venue": "東京ビッグサイト",
-   "title": "第64回全日本模型ホビーショー 西3・4 商談/一般 日本プラモデル工業協同組合",
-   "start": "2026-10-02",
-   "end": "2026-10-04",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "金"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "DOG SPORTS FESTIVAL – WANDER LAND –",
-   "start": "2026-10-03",
-   "end": "2026-10-04",
-   "url": "https://wanspo.co.jp/wonder-land/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "RAGE Shadowverse Japan Championship 2026 Season 3",
-   "start": "2026-10-03",
-   "end": "2026-10-04",
-   "url": "https://www.m-messe.co.jp/event/detail/8931",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "第 63 回日豪経済会議",
    "start": "2026-10-04",
@@ -62,41 +36,6 @@
    "url": "https://www.m-messe.co.jp/event/detail/8870",
    "category": "学会・会議",
    "wd": "日"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第13回博麗神社秋季例大祭 東 一般 博麗神社社務所",
-   "start": "2026-10-04",
-   "end": "2026-10-04",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ハリー・ポッター™ in コンサート シリーズ第6弾 『ハリー・ポッターと謎のプリンス™』シネマ・コンサート",
-   "start": "2026-10-04",
-   "end": "2026-10-04",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261004_0828",
-   "category": "一般",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "大江戸骨董市",
-   "start": "2026-10-04",
-   "end": "2026-10-04",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261004_0730",
-   "category": "一般",
-   "wd": "日"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "もう『人手不足』で悩まない！「採用担当者育成塾」（全7回）",
-   "start": "2026-10-05",
-   "end": "2026-10-05",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2164",
-   "category": "セミナー・交流会",
-   "wd": "月"
   },
   {
    "venue": "パシフィコ横浜",
@@ -1806,6 +1745,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "Gartner IT Symposium/Xpo™ 2026",
+   "start": "2026-11-04",
+   "end": "2026-11-06",
+   "url": "https://www.gartner.com/jp/conferences/apac/symposium-japan",
+   "category": "学会・会議",
+   "wd": "水"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "IRENE & SEULGI JAPAN TOUR 2026 -blank-",
    "start": "2026-11-04",
    "end": "2026-11-05",
@@ -3241,6 +3189,15 @@
    "wd": "月"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "第49回日本分子生物学会年会・第99回日本生化学会大会 合同大会（BMB2026）",
+   "start": "2026-12-01",
+   "end": "2026-12-04",
+   "url": "https://www.aeplan.co.jp/bmb2026/index.html",
+   "category": "学会・会議",
+   "wd": "火"
+  },
+  {
    "venue": "幕張メッセ",
    "title": "IPF Japan 2026 国際プラスチックフェア",
    "start": "2026-12-01",
@@ -3462,12 +3419,48 @@
   },
   {
    "venue": "東京国際フォーラム",
+   "title": "ヒューマンライツ・フェスタ東京2026",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261205_0924",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
    "title": "第66回全国矯正展（全国刑務所作業製品展示即売会）",
    "start": "2026-12-05",
    "end": "2026-12-06",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261205Fr-H202612004",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第53回千葉県透析研究会",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.m-messe.co.jp/event/detail/8924",
+   "category": "学会・会議",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "～Duo 20th Anniversary～ 上原ひろみ × 熊谷和徳 JAPAN TOUR 2026",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261206_0611",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "全5回シリーズ 2026年度 はままつメディカル塾（医療機器・薬機法関連セミナー）",
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
+   "category": "セミナー",
+   "wd": "月"
   }
  ]
 }
