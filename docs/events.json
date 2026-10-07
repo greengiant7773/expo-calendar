@@ -1,51 +1,33 @@
 {
- "updated": "2026-10-06 10:38",
+ "updated": "2026-10-07 09:19",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 121,
+   "count": 122,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 88,
+   "count": 87,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 53,
+   "count": 54,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 73,
+   "count": 75,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 60,
+   "count": 63,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "幕張メッセ",
-   "title": "第 63 回日豪経済会議",
-   "start": "2026-10-04",
-   "end": "2026-10-06",
-   "url": "https://www.m-messe.co.jp/event/detail/8870",
-   "category": "学会・会議",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "Design Solution Forum 2026",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "url": "https://dsforum.jp/2026/",
-   "category": "学会・会議",
-   "wd": "火"
-  },
   {
    "venue": "パシフィコ横浜",
    "title": "BioJapan/ 再生医療JAPAN/healthTECH JAPAN",
@@ -638,6 +620,15 @@
   },
   {
    "venue": "東京国際フォーラム",
+   "title": "Gero Live Tour 2026 「ECHOES」",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261012_1002",
+   "category": "一般",
+   "wd": "月"
+  },
+  {
+   "venue": "東京国際フォーラム",
    "title": "TAKUI NAKAJIMA 2026 THE BEST REQUEST SONGS",
    "start": "2026-10-12",
    "end": "2026-10-12",
@@ -806,6 +797,15 @@
    "start": "2026-10-15",
    "end": "2026-10-15",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2196",
+   "category": "セミナー",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "簿記3級対策講座を無料で受講できるチャンス！！2026年度日商簿記3級ｅラーニング講座 受講者募集中",
+   "start": "2026-10-15",
+   "end": "2026-10-15",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2160",
    "category": "セミナー",
    "wd": "木"
   },
@@ -1543,6 +1543,15 @@
    "end": "2026-10-30",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
    "category": "セミナー",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【実例を踏まえて解説！】サイバーリスク対策セミナー",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2246",
+   "category": "講演会・セミナー",
    "wd": "金"
   },
   {
@@ -2865,6 +2874,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "フリーマーケット",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "url": "https://recyclekanagawa.com/place/rinkai/",
+   "category": "物販・展示即売会",
+   "wd": "月"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
    "start": "2026-11-23",
    "end": "2026-11-23",
@@ -3393,6 +3411,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "夢ワカメ・ワークショップ",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://umibeken.jp/2026/09/15/2026%E5%B9%B4%E5%BA%A6%E5%A4%A2%E3%83%AF%E3%82%AB%E3%83%A1%E3%83%BB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E5%8F%82%E5%8A%A0%E8%80%85%E5%8B%9F%E9%9B%86/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "第12回一般社団法人日本臨床歯科CADCAM学会学術大会",
    "start": "2026-12-05",
    "end": "2026-12-06",
@@ -3461,6 +3488,32 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
    "category": "セミナー",
    "wd": "月"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "2026“よい仕事おこし”フェア 南3・4 商談/一般 「“よい仕事おこし”フェア実行委",
+   "start": "2026-12-08",
+   "end": "2026-12-09",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "火"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "EXILE TAKAHIRO BIRTHDAY & CHRISTMAS LIVE 2026 \"Knit\"",
+   "start": "2026-12-08",
+   "end": "2026-12-08",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261208_0928",
+   "category": "一般",
+   "wd": "火"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "もう『人手不足』で悩まない！「採用担当者育成塾」（全7回）",
+   "start": "2026-12-08",
+   "end": "2026-12-08",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2164",
+   "category": "セミナー・交流会",
+   "wd": "火"
   }
  ]
 }
