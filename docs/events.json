@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-07 09:19",
+ "updated": "2026-10-08 09:40",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 122,
+   "count": 123,
    "error": null
   },
   {
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 75,
+   "count": 78,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 63,
+   "count": 65,
    "error": null
   }
  ],
@@ -420,24 +420,6 @@
    "start": "2026-10-07",
    "end": "2026-10-09",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-10-07",
-   "end": "2026-10-07",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】説明力向上セミナー",
-   "start": "2026-10-07",
-   "end": "2026-10-07",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2199",
-   "category": "講演会・セミナー",
    "wd": "水"
   },
   {
@@ -3514,6 +3496,77 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2164",
    "category": "セミナー・交流会",
    "wd": "火"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "(金 Wellness Tokyo 2026 有明GYM- 商談 Wellness Tokyo事務局",
+   "start": "2026-12-09",
+   "end": "2026-12-11",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "U&pia 4th ワンマンライブ-Garden of Eden-",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261209_0501",
+   "category": "一般",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "製造業・建設業向け展示会 イプロスAI-産業World 2026",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261209_0915",
+   "category": "関係者",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "警視庁音楽隊 グランドコンサート2026",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261209Fr-H202612027",
+   "category": "一般",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】中堅社員研修",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2238",
+   "category": "講演会・セミナー",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
+   "category": "講演会・セミナー",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【定員拡大】浜松地域企業と大学など就職支援担当者との情報交換会",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2214",
+   "category": "交流会",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "ホームページ作成「ウェブサポ」セミナー～AI時代に差をつけるホームページをプロと作りませんか?～",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2236",
+   "category": "セミナー",
+   "wd": "水"
   }
  ]
 }
