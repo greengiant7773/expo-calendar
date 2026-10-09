@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08 09:40",
+ "updated": "2026-10-09 09:56",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,7 +13,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 54,
+   "count": 55,
    "error": null
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 65,
+   "count": 68,
    "error": null
   }
  ],
@@ -421,15 +421,6 @@
    "end": "2026-10-09",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "大丸有 SDGs ACT5 「大丸有SDGs映画祭 2026」 『CLOSE／クロース』 上映会",
-   "start": "2026-10-08",
-   "end": "2026-10-08",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261008_0901",
-   "category": "一般",
-   "wd": "木"
   },
   {
    "venue": "パシフィコ横浜",
@@ -3347,6 +3338,15 @@
    "wd": "水"
   },
   {
+   "venue": "浜松商工会議所",
+   "title": "貿易実務講座 in 浜松(貿易実務中級編)",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2245",
+   "category": "セミナー",
+   "wd": "水"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "indigo la End ONEMAN TOUR 2026 「紫にて」",
    "start": "2026-12-03",
@@ -3567,6 +3567,42 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2236",
    "category": "セミナー",
    "wd": "水"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "横浜ロボットワールド2026（4展総称）サービスロボット展／産業用ロボット展／次世代モビリティ展／宇宙開発ビジネス展",
+   "start": "2026-12-10",
+   "end": "2026-12-11",
+   "url": "https://www.srobo.jp/",
+   "category": "展示会・見本市",
+   "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "FKJ: Tyber Tour",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261210_0825",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "学内就活イベント『浜松（グルメ・アソビ・シゴト）ダーツの旅』in 静岡大学静岡キャンパス",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2237",
+   "category": "交流会",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "情報文化部会講演会 ノーコードと生成AIで実現する次世代社内DX",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2240",
+   "category": "講演会",
+   "wd": "木"
   }
  ]
 }
