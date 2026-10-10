@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-09 09:56",
+ "updated": "2026-10-10 09:27",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 123,
+   "count": 94,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 87,
+   "count": 71,
    "error": null
   },
   {
@@ -23,405 +23,11 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 68,
+   "count": 69,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "パシフィコ横浜",
-   "title": "BioJapan/ 再生医療JAPAN/healthTECH JAPAN",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://jcd-expo.jp/jp/about.html",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第11回 次世代 農業経営 EXPO",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8488",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第13回 スマート農業EXPO",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8487",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第16回 TOOL JAPAN",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8492",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第16回 農業WEEK(通称 J-AGRI TOKYO)",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8485",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第16回 農業資材EXPO",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8486",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 健診・人間ドック EXPO【東京】",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8760",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 畜産 予防・衛生EXPO",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8932",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第20回 GARDEX (国際 ガーデン&アウトドアEXPO)",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8491",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第2回 医療DX EXPO【東京】",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8484",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第4回 未病・予防・健康EXPO【東京】",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8483",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第4回 農業 脱炭素・SDGs EXPO",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8490",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第7回 クリニックEXPO【東京】",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8481",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第7回 次世代薬局EXPO【東京】",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8482",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第7回 畜産資材 EXPO",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8489",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第9回 メディカルジャパン【東京】[医療・介護・薬局Week 東京]",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8478",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第9回 介護・福祉EXPO【東京】",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8480",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第9回 病院EXPO",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.m-messe.co.jp/event/detail/8479",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "Designer’s Gate デザイナーズゲート 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "FaW TOKYO秋 ファッションワールド秋 2026 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "H.C.R.2026 第53回国際福祉機器展＆フォーラム 東 ・7・8 商談/一般 HCR事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第10回 ファッションテック EXPO 秋 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第11回 CX向上 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第19回 SNS・インフルエンサー活用 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第19回 デジタルマーケティング強化 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第1回 IP×ファッションEXPO 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第1回 猛暑対策グッズ EXPO 南1・2 商談 ライフスタイルWeek 事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第1回 魅せるユニフォーム・ワークウェアEXPO【秋】通称：\"魅せユ 西 商談 FaW TOKYO ファッションワールド",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第21回 広告メディア枠 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第23回 アジアの縫製・生産工場 EXPO 秋 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第23回 営業支援 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第23回 生地・素材 EXPO 秋 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第27回 販促 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第28回 マーケティングWeek -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第2回 アジアのOEM工場 EXPO【秋】 南1・2 商談 ライフスタイルWeek 事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第30回 ブランド＆デザイナー EXPO 秋 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第30回 ライフスタイルWeek【秋】 南1・2 商談 ライフスタイルWeek 事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第30回 日本のファッション 輸出 EXPO 秋 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第30回 雑貨EXPO【秋】 南1・2 商談 ライフスタイルWeek 事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第3回 ブランド戦略・PR EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第3回 マーケティング戦略立案 EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第3回 リユースビジネス EXPO 秋 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第4回 インバウンド向けグッズEXPO【秋】 南1・2 商談 ライフスタイルWeek 事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第4回 スポーツファッション EXPO 秋 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第6回 推し活EXPO【秋】 南1・2 商談 ライフスタイルWeek 事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第7回 EC売上アップ EXPO -秋- 南3・4 商談 マーケティングWeek事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "第7回 健康・美容・機能性ウェア EXPO 秋 西 商談 FaW TOKYO事務局",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
   {
    "venue": "パシフィコ横浜",
    "title": "yogafest YOKOHAMA 2026",
@@ -510,6 +116,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261010_1001",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "Pixel Art Park 9",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://pixelartpark.com/events/pap9/",
+   "category": "物販・展示即売会",
+   "wd": "日"
   },
   {
    "venue": "パシフィコ横浜",
@@ -3603,6 +3218,24 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2240",
    "category": "講演会",
    "wd": "木"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "東京コミコン2026",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8923",
+   "category": "イベント",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【受講生募集】2026年度 第29期創業塾",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
+   "category": "セミナー",
+   "wd": "金"
   }
  ]
 }
