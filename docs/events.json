@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-10 09:27",
+ "updated": "2026-10-11 09:03",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 94,
+   "count": 95,
    "error": null
   },
   {
@@ -13,12 +13,12 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 55,
+   "count": 53,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 78,
+   "count": 79,
    "error": null
   },
   {
@@ -48,15 +48,6 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "初音ミクシンフォニー2026-2027 Melodies on the Keys",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "url": "https://sp.wmg.jp/mikusymphony/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
    "title": "第45回関東甲信越ブロック理学療法士学会",
    "start": "2026-10-10",
    "end": "2026-10-11",
@@ -65,55 +56,11 @@
    "wd": "土"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "第45回関東甲信越ブロック理学療法学会 市民公開講座",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "url": "https://www.gakkai.co.jp/ptkanburo45/lecture.html",
-   "category": "学会・会議",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "令和8年度 第1回千葉県バス会社合同就職説明会&運転体験会",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "url": "https://www.m-messe.co.jp/event/detail/8856",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "令和8年度千葉県私学振興大会～私学教育を考える集い～",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "url": "https://www.m-messe.co.jp/event/detail/8851",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "インターンシップ＆キャリア発見EXPO 西 一般 マイナビイベント首都圏運営事務",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "土"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "JUJU HALL TOUR 2026 純喫茶JUJU「時間旅行」演出:松任谷正隆",
    "start": "2026-10-10",
    "end": "2026-10-11",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261010Fr-H202610010",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "尾崎亜美デビュー50周年記念コンサート",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261010_1001",
    "category": "一般",
    "wd": "土"
   },
@@ -3236,6 +3183,58 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
    "category": "セミナー",
    "wd": "金"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "マクハリハンドメイドフェスタ2026 supported by 千葉デザイナー学院",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8911",
+   "category": "イベント",
+   "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "令和8年度計装士技術審査実地試験",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8922",
+   "category": "その他",
+   "wd": "土"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "インターンシップ＆キャリア発見EXPO 南 一般 マイナビイベント首都圏運営事務",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "土"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "体験型！インターンシップ＆キャリアフェスタ 南 一般 マイナビイベント首都圏運営事務",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "Mai Kuraki Live Project 2026 ハレルヤ〜Circle of JOY!!〜",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261212_0416",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "大江戸骨董市",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261212_1002",
+   "category": "一般",
+   "wd": "土"
   }
  ]
 }
