@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11 09:03",
+ "updated": "2026-10-12 09:09",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 95,
+   "count": 94,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 71,
+   "count": 70,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 53,
+   "count": 48,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 79,
+   "count": 78,
    "error": null
   },
   {
@@ -48,82 +48,11 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "第45回関東甲信越ブロック理学療法士学会",
-   "start": "2026-10-10",
-   "end": "2026-10-11",
-   "url": "https://www.gakkai.co.jp/ptkanburo45/index.html",
-   "category": "学会・会議",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "JUJU HALL TOUR 2026 純喫茶JUJU「時間旅行」演出:松任谷正隆",
-   "start": "2026-10-10",
-   "end": "2026-10-11",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261010Fr-H202610010",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "Pixel Art Park 9",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "url": "https://pixelartpark.com/events/pap9/",
-   "category": "物販・展示即売会",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "SOUND OF EBICHU 2026-Band Edition-",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "url": "https://www.shiritsuebichu.jp/news/16044/",
-   "category": "イベント・コンサート",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "マイナビ インターンシップ合同説明会",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "url": "https://job.mynavi.jp/conts/event/2028/10814/index.html?msockid=29c6ccbb1b11673d2051db611ae366f6",
-   "category": "展示会・見本市",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
    "title": "ミキハウスランドin横浜",
    "start": "2026-10-11",
    "end": "2026-10-12",
    "url": "https://www.mikihouseland.jp/place/yokohama2026autumn/",
    "category": "物販・展示即売会",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "一般社団法人日本栄養治療学会 2026年度認定試験",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "url": "https://www.jspen.or.jp/news/certification-news/2026%E5%B9%B4%E5%BA%A6%E8%AA%8D%E5%AE%9A%E8%A9%A6%E9%A8%93%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%85%AC%E5%91%8A%EF%BC%88%E7%AC%AC2%E5%A0%B1%EF%BC%89",
-   "category": "大会・式典・その他",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "エコメッセちば2026",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "url": "https://www.m-messe.co.jp/event/detail/8919",
-   "category": "展示会・見本市",
-   "wd": "日"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "COMIC CITY SPARK 21 西 、南 一般 赤ブーブー通信社",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "日"
   },
   {
@@ -133,15 +62,6 @@
    "end": "2026-10-12",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261011Fr-H202610034",
    "category": "一般&関係者",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "令和8年度健康づくり推進事業「こころとからだに効く講演と音楽の集い」",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261011Fr-H202610046",
-   "category": "関係者",
    "wd": "日"
   },
   {
@@ -3235,6 +3155,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261212_1002",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ONE N' ONLY Merry XmaSWAG 2026 〜メガホリ〜",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261213_0914",
+   "category": "一般",
+   "wd": "日"
   }
  ]
 }
