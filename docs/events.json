@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12 09:09",
+ "updated": "2026-10-13 11:22",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,12 +13,12 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 48,
+   "count": 45,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 78,
+   "count": 76,
    "error": null
   },
   {
@@ -28,69 +28,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "パシフィコ横浜",
-   "title": "yogafest YOKOHAMA 2026",
-   "start": "2026-10-10",
-   "end": "2026-10-12",
-   "url": "https://2026.yogafest.jp/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "ザ・昭和歌謡パラダイス",
-   "start": "2026-10-10",
-   "end": "2026-10-12",
-   "url": "https://www.pacifico.co.jp/event/showakayo-paradise",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "ミキハウスランドin横浜",
-   "start": "2026-10-11",
-   "end": "2026-10-12",
-   "url": "https://www.mikihouseland.jp/place/yokohama2026autumn/",
-   "category": "物販・展示即売会",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "きものサローネ2026",
-   "start": "2026-10-11",
-   "end": "2026-10-12",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261011Fr-H202610034",
-   "category": "一般&関係者",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "古舘伊知郎× 南野陽子 presents 昭和 101 年スーパーソングブックショウ～昭和のベストヒット・グラフィティー～",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "url": "https://s.mxtv.jp/event/mx-showa101thsss/",
-   "category": "イベント・コンサート",
-   "wd": "月"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "Gero Live Tour 2026 「ECHOES」",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261012_1002",
-   "category": "一般",
-   "wd": "月"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "TAKUI NAKAJIMA 2026 THE BEST REQUEST SONGS",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261012_0126",
-   "category": "一般",
-   "wd": "月"
-  },
   {
    "venue": "パシフィコ横浜",
    "title": "日本矯正歯科学会 創立100周年記念学術大会",
@@ -729,15 +666,6 @@
    "end": "2026-10-22",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261022_0717",
    "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【金属機械商業部会】昼食懇談会・講演会 世界で加速する｢フィジカルAI｣の最前線 ～ヒューマノイドロボットの最新動向と製造業の未来～",
-   "start": "2026-10-22",
-   "end": "2026-10-22",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2234",
-   "category": "講演会",
    "wd": "木"
   },
   {
@@ -1478,6 +1406,15 @@
    "end": "2026-11-12",
    "url": "https//:japan-quilt.com",
    "category": "物販・展示即売会",
+   "wd": "火"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "ワールドキルトフェスティバル2027・WQF2027",
+   "start": "2026-11-10",
+   "end": "2026-11-12",
+   "url": "https://japan-quilt.com",
+   "category": "展示会・見本市",
    "wd": "火"
   },
   {
@@ -2848,6 +2785,15 @@
   },
   {
    "venue": "浜松商工会議所",
+   "title": "デジタル化で販路拡大を推進する SNS・ショート動画セミナー(実践編)",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2241",
+   "category": "セミナー",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
    "title": "【受講生募集】2026年度 第29期創業塾",
    "start": "2026-12-04",
    "end": "2026-12-04",
@@ -3164,6 +3110,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261213_0914",
    "category": "一般",
    "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "FORUM8 presents YUMI MATSUTOYA THE WORMHOLE TOUR 2025-26",
+   "start": "2026-12-14",
+   "end": "2026-12-15",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261214_0728",
+   "category": "一般",
+   "wd": "月"
   }
  ]
 }
