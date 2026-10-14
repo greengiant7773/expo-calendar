@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13 11:22",
+ "updated": "2026-10-14 09:04",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,12 +13,12 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 45,
+   "count": 46,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 76,
+   "count": 75,
    "error": null
   },
   {
@@ -53,15 +53,6 @@
    "end": "2026-10-16",
    "url": "https://www.m-messe.co.jp/event/detail/8918",
    "category": "展示会・見本市",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "作曲家生活60周年 浜圭介リスペクトコンサート",
-   "start": "2026-10-13",
-   "end": "2026-10-13",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=2061013Fr-H202610078",
-   "category": "一般",
    "wd": "火"
   },
   {
@@ -1043,6 +1034,15 @@
    "end": "2026-11-01",
    "url": "https://dramalogue.fate-go.jp/",
    "category": "イベント・コンサート",
+   "wd": "日"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "ルピシア グラン・マルシェ 2026",
+   "start": "2026-11-01",
+   "end": "2026-11-03",
+   "url": "https://www.lupicia.co.jp/gm/2026/",
+   "category": "物販・展示即売会",
    "wd": "日"
   },
   {
