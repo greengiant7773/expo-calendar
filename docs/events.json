@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14 09:04",
+ "updated": "2026-10-15 08:36",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,17 +13,17 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 46,
+   "count": 47,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 75,
+   "count": 76,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 69,
+   "count": 67,
    "error": null
   }
  ],
@@ -118,24 +118,6 @@
    "end": "2026-10-14",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
    "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】若手社員仕事力向上講座",
-   "start": "2026-10-14",
-   "end": "2026-10-14",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2200",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "ホームページ作成「ウェブサポ」セミナー～AI時代に差をつけるホームページをプロと作りませんか?～",
-   "start": "2026-10-14",
-   "end": "2026-10-14",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2207",
-   "category": "セミナー",
    "wd": "水"
   },
   {
@@ -2555,6 +2537,15 @@
    "wd": "日"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "第20回西区ハマのウォーキングフェスティバル",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://www.city.yokohama.lg.jp/nishi/event-bosyu/sports/walkingfestival.html",
+   "category": "イベント・コンサート",
+   "wd": "日"
+  },
+  {
    "venue": "東京ビッグサイト",
    "title": "COMIC CITY 東京153 西 一般 赤ブーブー通信社",
    "start": "2026-11-29",
@@ -2569,6 +2560,15 @@
    "end": "2026-11-29",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261129_0908",
    "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "第17回国際抗老化再生医療学会学術大会",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261129_1014",
+   "category": "一般&関係者",
    "wd": "日"
   },
   {
