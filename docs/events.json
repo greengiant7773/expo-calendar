@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-15 08:36",
+ "updated": "2026-10-16 08:30",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 94,
+   "count": 122,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 70,
+   "count": 71,
    "error": null
   },
   {
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 76,
+   "count": 78,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 67,
+   "count": 65,
    "error": null
   }
  ],
@@ -112,15 +112,6 @@
    "wd": "水"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-10-14",
-   "end": "2026-10-14",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "木と暮らしの博覧会",
    "start": "2026-10-15",
@@ -154,15 +145,6 @@
    "end": "2026-10-15",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2235",
    "category": "セミナー・その他",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "仕事がスピードUPする総務/経理/人事のAI活用",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2196",
-   "category": "セミナー",
    "wd": "木"
   },
   {
@@ -1409,7 +1391,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在11月10日交付分受付中 ※10月25日申込締切)",
+   "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在11月交付分受付中 ※10月25日申込締切)",
    "start": "2026-11-10",
    "end": "2026-11-10",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/1856",
@@ -2208,6 +2190,15 @@
    "start": "2026-11-22",
    "end": "2026-11-23",
    "url": "https://www.m-messe.co.jp/event/detail/8938",
+   "category": "イベント",
+   "wd": "日"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "ポケモンカードゲーム チャンピオンズリーグ2027千葉",
+   "start": "2026-11-22",
+   "end": "2026-11-23",
+   "url": "https://www.m-messe.co.jp/event/detail/8900",
    "category": "イベント",
    "wd": "日"
   },
@@ -3119,6 +3110,248 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261214_0728",
    "category": "一般",
    "wd": "月"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 3DECOtech 西4 商談 3DECOtech事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( CONVERTECH 西2・4 商談 CONVERTECH事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( ENEX2027 第51回地球環境とエネルギーの調和展 西 、南 商談 ENEX展示会事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( Eight EXPO 2026 冬 東7・8 商談 Eight EXPO事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( InterAqua（第18回水ソシューション総合展） 西 、南 商談 InterAqua事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( MEMSセンシング＆ネットワークシステム展 西 、南 商談 MEMSセンシング＆ネットワーク",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( Offshore Tech Japan 海洋産業技術展 西 、南 商談 Offshore Tech Japan展示会事",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( SURTECH 表面技術要素展 西 、南 商談 SURTECH実行委員会事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( Startup JAPAN EXPO 2026【冬】 有明GYM- 商談 Sansan株式会社 Eightイベント",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( TCT Japan -3Dプリンティング & AM技術の総合展- 西 、南 商談 TCT Japan事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( WELL-BEING TECHNOLOGY 南1・2 商談 WELL-BEING TECHNOLOGY",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( nano tech 第26回国際ナノテクノロジー総合展・技術会議 西 、南 商談 nano tech実行委員会事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 【AI-PAX 2026 冬】第4回 AIの実践的な活用展 東7・8 商談 Eight EXPO事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 【AI-SEL 2026 冬】第1回 物流AX 導入・推進展 東7・8 商談 Eight EXPO事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 【AI-SEM 2026 冬】第1回 製造AX 導入・推進展 東7・8 商談 Eight EXPO事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 【MSX 2026 冬】第7回 マーケソリューション 比較・導入展 東7・8 商談 Eight EXPO事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 【PHAISE 2026 冬】第1回 フィジカルAI 実装戦略展 東7・8 商談 Eight EXPO事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 【SDX 2026 冬】第7回 営業DX 比較・導入展 東7・8 商談 Eight EXPO事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( グリーンマテリアル 西3 商談 グリーンマテリアル事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( ケアフード展（CareTEX東京'26内） 東 商談 東京ケアウィーク 事務局（ブティッ",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 新機能性材料展 西3・4 商談 新機能性材料展事務局",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 東京ケアウィーク’26 東 商談 東京ケアウィーク 事務局（ブティッ",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 第10回Careテクノロジー東京’26（東京ケアウィーク’26内） 東 商談 東京ケアウィーク 事務局（ブティッ",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 第10回ヘルスケアJAPAN東京'26（東京ケアウィーク’26内） 東 商談 東京ケアウィーク 事務局（ブティッ",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 第13回CareTEX東京'26【冬】（東京ケアウィーク’26内） 東 商談 東京ケアウィーク 事務局（ブティッ",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 第21回再生可能エネルギー世界展示会＆フォーラム 西 、南 商談 再生可能エネルギー世界展示",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 第8回からだケアEXPO東京'26（東京ケアウィーク’26内） 東 商談 東京ケアウィーク 事務局（ブティッ",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "( 障害福祉サービス展（CareTEX東京'26内） 東 商談 東京ケアウィーク 事務局（ブティッ",
+   "start": "2026-12-16",
+   "end": "2026-12-18",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "STOMP ストンプ",
+   "start": "2026-12-16",
+   "end": "2026-12-26",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261216_0916",
+   "category": "一般",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "第27回慶應科学技術展",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261216Fr-H202612009",
+   "category": "一般",
+   "wd": "水"
   }
  ]
 }
