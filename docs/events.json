@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 08:30",
+ "updated": "2026-10-17 08:13",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,7 +8,7 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 71,
+   "count": 72,
    "error": null
   },
   {
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 78,
+   "count": 80,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 65,
+   "count": 62,
    "error": null
   }
  ],
@@ -130,33 +130,6 @@
    "wd": "木"
   },
   {
-   "venue": "東京国際フォーラム",
-   "title": "ジュディ・オング歌⼿⽣活60周年記念コンサート「Diva60 The legend of Judy Ongg」",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261015_0413",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "ロボット展示イベント「第3回ハマロボ展2026」",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2235",
-   "category": "セミナー・その他",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "簿記3級対策講座を無料で受講できるチャンス！！2026年度日商簿記3級ｅラーニング講座 受講者募集中",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2160",
-   "category": "セミナー",
-   "wd": "木"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "家具メッセバザールin幕張メッセ",
    "start": "2026-10-16",
@@ -190,15 +163,6 @@
    "end": "2026-10-16",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2204",
    "category": "セミナー",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "ロボット展示イベント「第3回ハマロボ展2026」",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2235",
-   "category": "セミナー・その他",
    "wd": "金"
   },
   {
@@ -2238,6 +2202,15 @@
    "wd": "日"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "全国賃貸オーナーズフェスタ2026",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261122_1014",
+   "category": "一般&関係者",
+   "wd": "日"
+  },
+  {
    "venue": "パシフィコ横浜",
    "title": "フリーマーケット",
    "start": "2026-11-23",
@@ -2971,7 +2944,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【定員拡大】浜松地域企業と大学など就職支援担当者との情報交換会",
+   "title": "【定員再拡大】浜松地域企業と大学など就職支援担当者との情報交換会 ※枠残りわずか",
    "start": "2026-12-09",
    "end": "2026-12-09",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2214",
@@ -3352,6 +3325,33 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261216Fr-H202612009",
    "category": "一般",
    "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第73回日本臨床検査医学会学術集会",
+   "start": "2026-12-17",
+   "end": "2026-12-20",
+   "url": "https://www.m-messe.co.jp/event/detail/8933",
+   "category": "学会・会議",
+   "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "PARK YUCHUN CONCERT 2026",
+   "start": "2026-12-17",
+   "end": "2026-12-17",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261217_0519",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "第47回日本小児腎不全学会学術集会",
+   "start": "2026-12-17",
+   "end": "2026-12-18",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261217Fr-H202612029",
+   "category": "一般&関係者",
+   "wd": "木"
   }
  ]
 }
