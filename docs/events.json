@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-17 08:13",
+ "updated": "2026-10-18 07:49",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 122,
+   "count": 116,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 72,
+   "count": 70,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 47,
+   "count": 45,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 80,
+   "count": 79,
    "error": null
   },
   {
@@ -29,105 +29,12 @@
  ],
  "events": [
   {
-   "venue": "パシフィコ横浜",
-   "title": "日本矯正歯科学会 創立100周年記念学術大会",
-   "start": "2026-10-13",
-   "end": "2026-10-16",
-   "url": "https://square.umin.ac.jp/jos-am/index.html",
-   "category": "学会・会議",
-   "wd": "火"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "CEATEC 2026",
-   "start": "2026-10-13",
-   "end": "2026-10-16",
-   "url": "https://www.m-messe.co.jp/event/detail/8916",
-   "category": "展示会・見本市",
-   "wd": "火"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "Japan Mobility Show Bizweek 2026",
-   "start": "2026-10-13",
-   "end": "2026-10-16",
-   "url": "https://www.m-messe.co.jp/event/detail/8918",
-   "category": "展示会・見本市",
-   "wd": "火"
-  },
-  {
    "venue": "東京ビッグサイト",
    "title": "( SCAJ ワールド スペシャルティコーヒー カンファレンス アンド エキシビ 南 商談/一般 SCAJ展示会事務局",
    "start": "2026-10-14",
    "end": "2026-10-17",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( TOKYO PACK 2026 東 ・7・8 一般 2026東京国際包装展事務局／",
-   "start": "2026-10-14",
-   "end": "2026-10-16",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( セーフティ＆テクノロジー ジャパン（食品開発展2026） 西1・2・4 商談 食品開発展事務局",
-   "start": "2026-10-14",
-   "end": "2026-10-16",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( フードロングライフジャパン（食品開発展2026） 西1・2・4 商談 食品開発展事務局",
-   "start": "2026-10-14",
-   "end": "2026-10-16",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( フード・テイストジャパン（食品開発展2026） 西1・2・4 商談 食品開発展事務局",
-   "start": "2026-10-14",
-   "end": "2026-10-16",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( ヘルスイングリディエンツ ジャパン（食品開発展2026） 西1・2・4 商談 食品開発展事務局",
-   "start": "2026-10-14",
-   "end": "2026-10-16",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( ラベルフォーラムジャパン2026 西3 商談/一般 ラベル新聞社",
-   "start": "2026-10-14",
-   "end": "2026-10-16",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "木と暮らしの博覧会",
-   "start": "2026-10-15",
-   "end": "2026-10-16",
-   "url": "https://woodlivingfair.jp/",
-   "category": "展示会・見本市",
-   "wd": "木"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "FIT2026（金融国際情報技術展）",
-   "start": "2026-10-15",
-   "end": "2026-10-16",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261015Fr-H202610005",
-   "category": "関係者",
-   "wd": "木"
   },
   {
    "venue": "幕張メッセ",
@@ -145,24 +52,6 @@
    "end": "2026-10-18",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261016_1002",
    "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ネオ屋台村 スーパーナイト",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261016_0924",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【満員御礼】ギャルマインドで変わる！採用と組織のつくり方 ― “Z世代に選ばれる企業”へ変わる、経営層向け実践プログラム ―",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2204",
-   "category": "セミナー",
    "wd": "金"
   },
   {
@@ -3352,6 +3241,24 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261217Fr-H202612029",
    "category": "一般&関係者",
    "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ふるさと映画祭2026",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261218_0917",
+   "category": "一般&関係者",
+   "wd": "金"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【受講生募集】2026年度 第29期創業塾",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
+   "category": "セミナー",
+   "wd": "金"
   }
  ]
 }
