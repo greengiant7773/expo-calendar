@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-18 07:49",
+ "updated": "2026-10-19 07:43",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 116,
+   "count": 115,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 70,
+   "count": 69,
    "error": null
   },
   {
@@ -18,24 +18,16 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 79,
+   "count": 78,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 62,
+   "count": 64,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( SCAJ ワールド スペシャルティコーヒー カンファレンス アンド エキシビ 南 商談/一般 SCAJ展示会事務局",
-   "start": "2026-10-14",
-   "end": "2026-10-17",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
   {
    "venue": "幕張メッセ",
    "title": "家具メッセバザールin幕張メッセ",
@@ -64,33 +56,6 @@
    "wd": "土"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "第29回横浜YMCAインターナショナル・チャリティーラン2026",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "url": "https://www.yokohamaymca.org/event/2026_charity_run/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "GIGA•GIGA SONIC -KAKKO×KAWAii in MAKUHARI MESSE-",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "url": "https://www.m-messe.co.jp/event/detail/8897",
-   "category": "音楽イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "REALITY CON 2026 in 幕張メッセ",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "url": "https://www.m-messe.co.jp/event/detail/8871",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "ゲームマーケット2026秋",
    "start": "2026-10-17",
@@ -106,24 +71,6 @@
    "end": "2026-10-18",
    "url": "https://www.m-messe.co.jp/event/detail/8847",
    "category": "学会・会議",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "2026年度 TE総会（大成エンジニアリング株式会社）",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261017Fr-H202610033",
-   "category": "関係者",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "doda転職フェア",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261017_0728",
-   "category": "一般&関係者",
    "wd": "土"
   },
   {
@@ -179,6 +126,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261018_0924",
    "category": "一般",
    "wd": "日"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "「The Nova project FINAL STAGE 〜Who is Nova?〜」",
+   "start": "2026-10-19",
+   "end": "2026-10-19",
+   "url": "https://livepocket.jp/e/thenova_final",
+   "category": "イベント・コンサート",
+   "wd": "月"
   },
   {
    "venue": "東京国際フォーラム",
@@ -1510,6 +1466,15 @@
    "end": "2026-11-15",
    "url": "https://www.fuyusupo.jp/",
    "category": "物販・展示即売会",
+   "wd": "金"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "家具メッセバザールin幕張メッセ",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "url": "https://www.m-messe.co.jp/event/detail/8925",
+   "category": "イベント",
    "wd": "金"
   },
   {
@@ -3259,6 +3224,33 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
    "category": "セミナー",
    "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "クリスマス・スペシャル・クラシックス ～メサイア・第九・くるみ割り人形～",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261219_0722",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "2026年度感謝の集い 講演会 勝つから勝ち続けるへ～日本一5度に学ぶ常勝チームの組織経営とリーダーシップ～",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2215",
+   "category": "講演会",
+   "wd": "土"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "令和8年度「未来の科学技術者フェスティバル」出展企業募集",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2205",
+   "category": "その他・交流会",
+   "wd": "土"
   }
  ]
 }
