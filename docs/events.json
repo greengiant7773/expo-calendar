@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20 09:04",
+ "updated": "2026-10-21 08:35",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,12 +8,12 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 63,
+   "count": 64,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 44,
+   "count": 45,
    "error": null
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 65,
+   "count": 63,
    "error": null
   }
  ],
@@ -62,15 +62,6 @@
    "end": "2026-10-21",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261020_0915",
    "category": "一般",
-   "wd": "火"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "\"健康経営\"を考えるセミナー ～メンタルヘルス・休職・復職・就業障害のリスクマネジメント～",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2228",
-   "category": "セミナー",
    "wd": "火"
   },
   {
@@ -313,15 +304,6 @@
    "end": "2026-10-21",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2201",
    "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "小規模事業者持続化補助金 活用セミナー",
-   "start": "2026-10-21",
-   "end": "2026-10-21",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2231",
-   "category": "セミナー",
    "wd": "水"
   },
   {
@@ -763,6 +745,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261102_0831",
    "category": "一般",
    "wd": "月"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "AJESTHE Beauty Festival 2026 in YOKOHAMA",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://ajesthe.jp/",
+   "category": "大会・式典・その他",
+   "wd": "火"
   },
   {
    "venue": "パシフィコ横浜",
@@ -1360,6 +1351,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2213",
    "category": "セミナー",
    "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "日本放射線腫瘍学会第39回学術大会",
+   "start": "2026-11-12",
+   "end": "2026-11-14",
+   "url": "https://www.m-messe.co.jp/event/detail/8958",
+   "category": "学会・会議",
+   "wd": "木"
   },
   {
    "venue": "東京ビッグサイト",
