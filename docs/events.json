@@ -1,78 +1,33 @@
 {
- "updated": "2026-10-19 07:43",
+ "updated": "2026-10-20 09:04",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 115,
+   "count": 116,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 69,
+   "count": 63,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 45,
+   "count": 44,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 78,
+   "count": 80,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 64,
+   "count": 65,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "幕張メッセ",
-   "title": "家具メッセバザールin幕張メッセ",
-   "start": "2026-10-16",
-   "end": "2026-10-18",
-   "url": "https://www.m-messe.co.jp/event/detail/8869",
-   "category": "イベント",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ディズニー・オン・クラシック～まほうの夜の音楽会2026",
-   "start": "2026-10-16",
-   "end": "2026-10-18",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261016_1002",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "2026 Ji Chang Wook Japan Tour ~Just Come With~",
-   "start": "2026-10-17",
-   "end": "2026-10-18",
-   "url": "https://jichangwook.jp/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "ゲームマーケット2026秋",
-   "start": "2026-10-17",
-   "end": "2026-10-18",
-   "url": "https://www.m-messe.co.jp/event/detail/8852",
-   "category": "即売会",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第152回関東連合産科婦人科学会 総会・学術集会",
-   "start": "2026-10-17",
-   "end": "2026-10-18",
-   "url": "https://www.m-messe.co.jp/event/detail/8847",
-   "category": "学会・会議",
-   "wd": "土"
-  },
   {
    "venue": "東京国際フォーラム",
    "title": "バーン・ザ・フロア2026",
@@ -81,60 +36,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261017_0430",
    "category": "一般",
    "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "たまひよ ファミリーパーク 2026",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "url": "https://st.benesse.ne.jp/lp/park2026/",
-   "category": "展示会・見本市",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "SAMURAI SONIC vol.8",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "url": "https://www.m-messe.co.jp/event/detail/8891",
-   "category": "音楽イベント",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "【スタンダード】バトスピチャンピオンシップ26-27 1on1予選 東京会場",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "url": "https://www.m-messe.co.jp/event/detail/8874",
-   "category": "イベント",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "一般社団法人日本血液浄化技術学会 第 18回血液浄化 Step Up セミナー",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "url": "https://www.m-messe.co.jp/event/detail/8848",
-   "category": "学会・会議",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "～秋田の「いいな」が集まる日～ AKITA GOOD LIFE FESTIVAL",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261018_0924",
-   "category": "一般",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "「The Nova project FINAL STAGE 〜Who is Nova?〜」",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "url": "https://livepocket.jp/e/thenova_final",
-   "category": "イベント・コンサート",
-   "wd": "月"
   },
   {
    "venue": "東京国際フォーラム",
@@ -878,6 +779,15 @@
    "start": "2026-11-03",
    "end": "2026-11-03",
    "url": "https://tox15th-anniversary-party.tales-ch.jp/",
+   "category": "イベント・コンサート",
+   "wd": "火"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "横浜マラソン2026 スポGOMI＠みなとみらい",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://yokohamamarathon.jp/news/%E3%80%90%E5%85%88%E7%9D%80%E9%A0%86%E3%80%91%E3%80%8C%E6%A8%AA%E6%B5%9C%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B32026-%E3%82%B9%E3%83%9Dgomi%EF%BC%A0%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84/",
    "category": "イベント・コンサート",
    "wd": "火"
   },
@@ -1905,6 +1815,15 @@
    "wd": "木"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "ネオ屋台村 ボジョレーナイト",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261119_1016",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
    "venue": "浜松商工会議所",
    "title": "DOMO求人特別企画(会員限定)",
    "start": "2026-11-19",
@@ -2709,6 +2628,15 @@
    "wd": "日"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "フラウンホーファーシンポジウム in 東京",
+   "start": "2026-12-07",
+   "end": "2026-12-08",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261207_1014",
+   "category": "一般",
+   "wd": "月"
+  },
+  {
    "venue": "浜松商工会議所",
    "title": "全5回シリーズ 2026年度 はままつメディカル塾（医療機器・薬機法関連セミナー）",
    "start": "2026-12-07",
@@ -3251,6 +3179,50 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2205",
    "category": "その他・交流会",
    "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "フリーマーケット",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "url": "https://recyclekanagawa.com/place/rinkai/",
+   "category": "物販・展示即売会",
+   "wd": "日"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "DOZEN ROSE FES 2026 東 ・7・8、 一般 赤ブーブー通信社",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "チャイコフスキー・バレエ劇場「くるみ割り人形」",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261220_0907",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "大江戸骨董市",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261220_1002",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "全5回シリーズ 2026年度 はままつメディカル塾（医療機器・薬機法関連セミナー）",
+   "start": "2026-12-21",
+   "end": "2026-12-21",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
+   "category": "セミナー",
+   "wd": "月"
   }
  ]
 }
