@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21 08:35",
+ "updated": "2026-10-22 08:52",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,7 +8,7 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 64,
+   "count": 65,
    "error": null
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 63,
+   "count": 62,
    "error": null
   }
  ],
@@ -36,15 +36,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261017_0430",
    "category": "一般",
    "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "HOSPITALITY × OMOTENASHI ACADEMY TOKYO 2026",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261020_0914",
-   "category": "一般",
-   "wd": "火"
   },
   {
    "venue": "東京国際フォーラム",
@@ -294,15 +285,6 @@
    "start": "2026-10-21",
    "end": "2026-10-21",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】生産性向上のための時間活用術",
-   "start": "2026-10-21",
-   "end": "2026-10-21",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2201",
    "category": "講演会・セミナー",
    "wd": "水"
   },
@@ -1053,6 +1035,15 @@
    "start": "2026-11-08",
    "end": "2026-11-08",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "The 33rd International Congress of Actuaries（ICA2026）",
+   "start": "2026-11-08",
+   "end": "2026-11-13",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1021",
+   "category": "一般&関係者",
    "wd": "日"
   },
   {
@@ -2847,6 +2838,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261212_1002",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "#コンパスフェス 10th ANNIVERSARY",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8959",
+   "category": "イベント",
+   "wd": "日"
   },
   {
    "venue": "東京国際フォーラム",
