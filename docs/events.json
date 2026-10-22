@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-22 08:52",
+ "updated": "2026-10-23 08:49",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 116,
-   "error": null
+   "count": 0,
+   "error": "503 Server Error: Service Unavailable for url: https://www.bigsight.jp/visitor/event/ / 前回のデータを表示中"
   },
   {
    "venue": "幕張メッセ",
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 80,
-   "error": null
+   "count": 0,
+   "error": "503 Server Error: Service Unavailable for url: https://www.t-i-forum.co.jp/visitors/event/?year=2026&month=10 / 前回のデータを表示中"
   },
   {
    "venue": "浜松商工会議所",
-   "count": 62,
+   "count": 60,
    "error": null
   }
  ],
@@ -277,15 +277,6 @@
    "end": "2026-10-22",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261021_0729",
    "category": "一般&関係者",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-10-21",
-   "end": "2026-10-21",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
    "wd": "水"
   },
   {
@@ -555,15 +546,6 @@
    "end": "2026-10-30",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
    "category": "セミナー",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【実例を踏まえて解説！】サイバーリスク対策セミナー",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2246",
-   "category": "講演会・セミナー",
    "wd": "金"
   },
   {
