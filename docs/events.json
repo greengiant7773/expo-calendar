@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23 08:49",
+ "updated": "2026-10-24 08:43",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -19,7 +19,7 @@
   {
    "venue": "東京国際フォーラム",
    "count": 0,
-   "error": "503 Server Error: Service Unavailable for url: https://www.t-i-forum.co.jp/visitors/event/?year=2026&month=10 / 前回のデータを表示中"
+   "error": "0件 / 前回のデータを表示中"
   },
   {
    "venue": "浜松商工会議所",
@@ -666,15 +666,6 @@
    "wd": "日"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "ルピシア グラン・マルシェ2026",
-   "start": "2026-11-01",
-   "end": "2026-11-03",
-   "url": "https://www.lupicia.co.jp/gm/2026/yokohama.php",
-   "category": "物販・展示即売会",
-   "wd": "日"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "東京サンフェア",
    "start": "2026-11-01",
@@ -1039,20 +1030,20 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "MAZZEL 2nd Fan Meeting -Play at the MUZEUM Vol.2-",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "url": "https://mazzel.tokyo/tour/play_at_the_muzeum2/#top",
+   "category": "イベント・コンサート",
+   "wd": "火"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "Photonics Innovation 2026",
    "start": "2026-11-10",
    "end": "2026-11-12",
    "url": "https://photonics-innv.com/",
    "category": "展示会・見本市",
-   "wd": "火"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "ワールドキルトフェスティバル2026/World Quilt Festival2026",
-   "start": "2026-11-10",
-   "end": "2026-11-12",
-   "url": "https//:japan-quilt.com",
-   "category": "物販・展示即売会",
    "wd": "火"
   },
   {
@@ -3205,6 +3196,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
    "category": "セミナー",
    "wd": "月"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "FTISLAND Special Christmas Mini Concert 2026 – A WINTER’S NIGHT with TEAM FTISLAND –",
+   "start": "2026-12-24",
+   "end": "2026-12-24",
+   "url": "https://www.ftisland-official.jp/",
+   "category": "イベント・コンサート",
+   "wd": "木"
   }
  ]
 }
