@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 07:49",
+ "updated": "2026-10-26 07:59",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,7 +13,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 45,
+   "count": 47,
    "error": null
   },
   {
@@ -125,15 +125,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0821",
    "category": "一般",
    "wd": "金"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "なのはな生活協同組合 特別イベント なのはなメッセ2026",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.m-messe.co.jp/event/detail/8598",
-   "category": "イベント",
-   "wd": "土"
   },
   {
    "venue": "幕張メッセ",
@@ -1249,6 +1240,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261114_0413",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "恩師久保角太郎先生法要・追随式典",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "url": "https://www.pacifico.co.jp/eventInfo",
+   "category": "大会・式典・その他",
+   "wd": "日"
   },
   {
    "venue": "幕張メッセ",
@@ -3007,6 +3007,24 @@
    "url": "https://www.ftisland-official.jp/",
    "category": "イベント・コンサート",
    "wd": "木"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "リアル脱出ゲーム『終わらないクリスマスからの脱出』",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "url": "https://realdgame.jp/s/christmas2026/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "COUNTDOWN JAPAN 26/27 supported by au",
+   "start": "2026-12-26",
+   "end": "2026-12-31",
+   "url": "https://www.m-messe.co.jp/event/detail/8946",
+   "category": "音楽イベント",
+   "wd": "土"
   }
  ]
 }
