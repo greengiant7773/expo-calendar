@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 07:59",
+ "updated": "2026-10-27 09:11",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,12 +8,12 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 43,
+   "count": 41,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 47,
+   "count": 48,
    "error": null
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 60,
+   "count": 59,
    "error": null
   }
  ],
@@ -127,15 +127,6 @@
    "wd": "金"
   },
   {
-   "venue": "幕張メッセ",
-   "title": "第42回日本義肢装具学会学術大会",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "url": "https://www.m-messe.co.jp/event/detail/8885",
-   "category": "学会・会議",
-   "wd": "土"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
    "start": "2026-10-24",
@@ -154,24 +145,6 @@
    "wd": "土"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "横浜マラソン2026",
-   "start": "2026-10-25",
-   "end": "2026-10-25",
-   "url": "https://yokohamamarathon.jp/",
-   "category": "イベント・コンサート",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第二回古着メッセbyOCB",
-   "start": "2026-10-25",
-   "end": "2026-10-25",
-   "url": "https://www.m-messe.co.jp/event/detail/8850",
-   "category": "即売会",
-   "wd": "日"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "アルファ・サミット2026 October",
    "start": "2026-10-25",
@@ -186,15 +159,6 @@
    "start": "2026-10-26",
    "end": "2026-10-31",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "月"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "全5回シリーズ 2026年度 はままつメディカル塾（医療機器・薬機法関連セミナー）",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
-   "category": "セミナー",
    "wd": "月"
   },
   {
@@ -854,15 +818,6 @@
    "start": "2026-11-10",
    "end": "2026-11-13",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "火"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在11月交付分受付中 ※10月25日申込締切)",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/1856",
-   "category": "その他",
    "wd": "火"
   },
   {
@@ -2023,6 +1978,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "2026年度コンクリート技士・コンクリート主任技士試験",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://www.jci-net.or.jp/",
+   "category": "大会・式典・その他",
+   "wd": "日"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "Gero Live Tour 2026「ECHOES」",
    "start": "2026-11-29",
    "end": "2026-11-29",
@@ -2376,6 +2340,15 @@
    "wd": "土"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "第34回 ヨコハマ ホット ロッド・カスタム ショー2026",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://yokohamahotrodcustomshow.com/",
+   "category": "展示会・見本市",
+   "wd": "日"
+  },
+  {
    "venue": "幕張メッセ",
    "title": "第53回千葉県透析研究会",
    "start": "2026-12-06",
@@ -2524,6 +2497,15 @@
    "end": "2026-12-10",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261210_0825",
    "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在12月10日交付分受付中 ※11月25日申込締切)",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/1856",
+   "category": "その他",
    "wd": "木"
   },
   {
