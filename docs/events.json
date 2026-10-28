@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27 09:11",
+ "updated": "2026-10-28 09:13",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,48 +13,21 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 48,
+   "count": 49,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 0,
-   "error": "0件 / 前回のデータを表示中"
+   "count": 75,
+   "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 59,
+   "count": 58,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "東京国際フォーラム",
-   "title": "バーン・ザ・フロア2026",
-   "start": "2026-10-17",
-   "end": "2026-10-25",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261017_0430",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "TEXFUTURE TOKYO",
-   "start": "2026-10-20",
-   "end": "2026-10-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261020Fr-H202610065",
-   "category": "一般&関係者",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "大丸有SDGs ACT5 キラキラっとアートコンクール一般審査会",
-   "start": "2026-10-20",
-   "end": "2026-10-21",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261020_0915",
-   "category": "一般",
-   "wd": "火"
-  },
   {
    "venue": "東京ビッグサイト",
    "title": "( 第67回サインアンドディスプレイショウ 有明GYM- 商談/一般 東京屋外広告美術協同組合",
@@ -65,93 +38,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "title": "山内惠介 五大都市コンサート2026",
-   "start": "2026-10-21",
-   "end": "2026-10-21",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261021Fr-H202610084",
-   "category": "一般",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "折兼グループフェア FOODBIZ SUMMIT 2026 in 東京",
-   "start": "2026-10-21",
-   "end": "2026-10-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261021_0729",
-   "category": "一般&関係者",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ROIROM FANCLUB TOUR 2026 \"LIGHT IT UP”",
-   "start": "2026-10-22",
-   "end": "2026-10-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261022_0717",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "2026東京インターナショナルオーディオショウ",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023Fr-H202610020",
-   "category": "一般&関係者",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
    "title": "OPEN CITY MARUNOUCHI2026 【自由見学・デジタルスタンプラリー】建築と自然のハーモニー",
    "start": "2026-10-23",
    "end": "2026-11-08",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0914",
    "category": "一般",
    "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "山崎育三郎 LIVE TOUR 2026『19BOX 〜STARMAN〜』",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0318",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "東京味わいフェスタ2026 TASTE of TOKYO 有楽町エリア",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0821",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261024_0721",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "typeエンジニア転職フェア",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261024Fr-H202610027",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "アルファ・サミット2026 October",
-   "start": "2026-10-25",
-   "end": "2026-10-25",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261025Fr-H202611111",
-   "category": "一般",
-   "wd": "日"
   },
   {
    "venue": "東京ビッグサイト",
@@ -168,15 +60,6 @@
    "end": "2026-10-28",
    "url": "https://www.m-messe.co.jp/event/detail/8846",
    "category": "展示会・見本市",
-   "wd": "火"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "浜松ネクストリーダー経営塾《特別編》 ネッツトヨタ南国視察研修",
-   "start": "2026-10-27",
-   "end": "2026-10-27",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2203",
-   "category": "視察会",
    "wd": "火"
   },
   {
@@ -774,6 +657,15 @@
    "end": "2026-11-13",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1021",
    "category": "一般&関係者",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ベストフリーマーケット",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1027",
+   "category": "一般",
    "wd": "日"
   },
   {
@@ -2465,7 +2357,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【定員再拡大】浜松地域企業と大学など就職支援担当者との情報交換会 ※枠残りわずか",
+   "title": "【満員御礼】浜松地域企業と大学など就職支援担当者との情報交換会",
    "start": "2026-12-09",
    "end": "2026-12-09",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2214",
@@ -2543,6 +2435,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
    "category": "セミナー",
    "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "Design Zoo",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "url": "https://www.instagram.com/designzoo.official?xtok=YWc3MDV6a215Yjdu&utm_source=qr",
+   "category": "イベント・コンサート",
+   "wd": "土"
   },
   {
    "venue": "幕張メッセ",
@@ -2982,12 +2883,30 @@
    "wd": "月"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "FJネクスト Presents 〜結成20周年記念〜 ⾼嶋ちさ⼦ 12⼈のヴァイオリニスト コンサートツアー 2026〜2027",
+   "start": "2026-12-23",
+   "end": "2026-12-23",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261223_0701",
+   "category": "一般",
+   "wd": "水"
+  },
+  {
    "venue": "パシフィコ横浜",
    "title": "FTISLAND Special Christmas Mini Concert 2026 – A WINTER’S NIGHT with TEAM FTISLAND –",
    "start": "2026-12-24",
    "end": "2026-12-24",
    "url": "https://www.ftisland-official.jp/",
    "category": "イベント・コンサート",
+   "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ディズニー・オン・クラシック～まほうの夜の音楽会2026",
+   "start": "2026-12-24",
+   "end": "2026-12-25",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261224Fr-H202612017",
+   "category": "一般",
    "wd": "木"
   },
   {
@@ -3007,6 +2926,42 @@
    "url": "https://www.m-messe.co.jp/event/detail/8946",
    "category": "音楽イベント",
    "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ゴスペラーズ坂ツアー2026 “UNIVER5OUL”",
+   "start": "2026-12-26",
+   "end": "2026-12-26",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261226_0402",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "大神 20周年記念コンサート ～大神 音絵巻～",
+   "start": "2026-12-27",
+   "end": "2026-12-27",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261227_0424",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "林ゆうき〜劇伴食堂 肆",
+   "start": "2026-12-27",
+   "end": "2026-12-27",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261227_0521",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "葉加瀬太郎 コンサートツアー 2026 〜30th Anniversary〜 THIS IS THIRTY",
+   "start": "2026-12-28",
+   "end": "2026-12-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261228_0526",
+   "category": "一般",
+   "wd": "月"
   }
  ]
 }
