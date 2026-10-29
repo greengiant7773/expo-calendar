@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-28 09:13",
+ "updated": "2026-10-29 09:33",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 0,
-   "error": "503 Server Error: Service Unavailable for url: https://www.bigsight.jp/visitor/event/ / 前回のデータを表示中"
+   "count": 116,
+   "error": null
   },
   {
    "venue": "幕張メッセ",
@@ -18,24 +18,16 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 75,
+   "count": 77,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 58,
+   "count": 56,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第67回サインアンドディスプレイショウ 有明GYM- 商談/一般 東京屋外広告美術協同組合",
-   "start": "2026-10-21",
-   "end": "2026-10-23",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
   {
    "venue": "東京国際フォーラム",
    "title": "OPEN CITY MARUNOUCHI2026 【自由見学・デジタルスタンプラリー】建築と自然のハーモニー",
@@ -44,23 +36,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0914",
    "category": "一般",
    "wd": "金"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( JIMTOF2026 第33回日本国際工作機械見本市 東 ・7・8、 商談 JIMTOF事務局",
-   "start": "2026-10-26",
-   "end": "2026-10-31",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "月"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "地方自治情報化推進フェア2026",
-   "start": "2026-10-27",
-   "end": "2026-10-28",
-   "url": "https://www.m-messe.co.jp/event/detail/8846",
-   "category": "展示会・見本市",
-   "wd": "火"
   },
   {
    "venue": "パシフィコ横浜",
@@ -87,33 +62,6 @@
    "end": "2026-10-29",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261028Fr-H202610037",
    "category": "一般",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】必須の知識！年末調整講座",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2202",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "浜松ネクストリーダー経営塾《特別編》 ネッツトヨタ南国視察研修",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2203",
-   "category": "視察会",
    "wd": "水"
   },
   {
@@ -181,7 +129,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【受講生募集】2026年度 第29期創業塾",
+   "title": "【募集終了しました。】2026年度 第29期創業塾",
    "start": "2026-10-30",
    "end": "2026-10-30",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
@@ -564,7 +512,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【受講生募集】2026年度 第29期創業塾",
+   "title": "【募集終了しました。】2026年度 第29期創業塾",
    "start": "2026-11-06",
    "end": "2026-11-06",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
@@ -992,6 +940,15 @@
    "wd": "金"
   },
   {
+   "venue": "幕張メッセ",
+   "title": "幕張謎解迷宮",
+   "start": "2026-11-13",
+   "end": "2027-05-09",
+   "url": "https://www.m-messe.co.jp/event/detail/8956",
+   "category": "イベント",
+   "wd": "金"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "かつしかトリオ COBALT EXPRESS TOUR 2026",
    "start": "2026-11-13",
@@ -1029,7 +986,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【受講生募集】2026年度 第29期創業塾",
+   "title": "【募集終了しました。】2026年度 第29期創業塾",
    "start": "2026-11-13",
    "end": "2026-11-13",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
@@ -1483,7 +1440,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【受講生募集】2026年度 第29期創業塾",
+   "title": "【募集終了しました。】2026年度 第29期創業塾",
    "start": "2026-11-20",
    "end": "2026-11-20",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
@@ -1816,7 +1773,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【受講生募集】2026年度 第29期創業塾",
+   "title": "【募集終了しました。】2026年度 第29期創業塾",
    "start": "2026-11-27",
    "end": "2026-11-27",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
@@ -1848,6 +1805,14 @@
    "end": "2026-11-28",
    "url": "https://star-fes.com/",
    "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "第16回オールジャパンケアコンテスト 西3 一般 オールジャパンケアコンテスト事務",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "土"
   },
   {
@@ -1995,7 +1960,15 @@
   },
   {
    "venue": "東京ビッグサイト",
-   "title": "COMNEXT 第4回［次世代］通信技術＆ソリューション展 西3・4 商談 COMNEXT 主催者事務局",
+   "title": "BEYOND SDGs エコプロ 2026 東 ・7 商談/一般 エコプロ主催者事務局",
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "COMNEXT 第4回［次世代］通信技術＆ソリューション展 西3・4 商談 COMNEXT 事務局",
    "start": "2026-12-02",
    "end": "2026-12-04",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
@@ -2153,7 +2126,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【受講生募集】2026年度 第29期創業塾",
+   "title": "【募集終了しました。】2026年度 第29期創業塾",
    "start": "2026-12-04",
    "end": "2026-12-04",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
@@ -2207,7 +2180,7 @@
   },
   {
    "venue": "東京ビッグサイト",
-   "title": "I・Doll VOL.78 西1 一般 I・Doll実行委員会",
+   "title": "I・Doll VOL.78 西1・2 一般 I・Doll実行委員会",
    "start": "2026-12-05",
    "end": "2026-12-05",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
@@ -2429,7 +2402,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【受講生募集】2026年度 第29期創業塾",
+   "title": "【募集終了しました。】2026年度 第29期創業塾",
    "start": "2026-12-11",
    "end": "2026-12-11",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
@@ -2794,6 +2767,15 @@
    "wd": "木"
   },
   {
+   "venue": "浜松商工会議所",
+   "title": "知って活用！人間ドック補助制度と他社事例",
+   "start": "2026-12-17",
+   "end": "2026-12-17",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2251",
+   "category": "セミナー",
+   "wd": "木"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "ふるさと映画祭2026",
    "start": "2026-12-18",
@@ -2804,7 +2786,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【受講生募集】2026年度 第29期創業塾",
+   "title": "【募集終了しました。】2026年度 第29期創業塾",
    "start": "2026-12-18",
    "end": "2026-12-18",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
@@ -2892,6 +2874,15 @@
    "wd": "水"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "明治ミルクチョコレート100周年展",
+   "start": "2026-12-23",
+   "end": "2026-12-30",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261223_1023",
+   "category": "一般&関係者",
+   "wd": "水"
+  },
+  {
    "venue": "パシフィコ横浜",
    "title": "FTISLAND Special Christmas Mini Concert 2026 – A WINTER’S NIGHT with TEAM FTISLAND –",
    "start": "2026-12-24",
@@ -2962,6 +2953,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261228_0526",
    "category": "一般",
    "wd": "月"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "「ドラゴンクエスト」ウインドオーケストラコンサート",
+   "start": "2026-12-30",
+   "end": "2026-12-30",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261230_0714",
+   "category": "一般",
+   "wd": "水"
   }
  ]
 }
