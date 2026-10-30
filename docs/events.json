@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29 09:33",
+ "updated": "2026-10-30 09:33",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -18,7 +18,7 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 77,
+   "count": 75,
    "error": null
   },
   {
@@ -54,42 +54,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261028Fr-H202610060",
    "category": "一般",
    "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "組合まつり in TOKYO ～技あり、食あり、Nipponの逸品～",
-   "start": "2026-10-28",
-   "end": "2026-10-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261028Fr-H202610037",
-   "category": "一般",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "PERSONZ RELORD TOUR \"DISCOVER JAPAN 47\"",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261029Fr-H202610079",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "俺たちの旅スペシャルコンサート～まだまだ旅は終わらない～",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261029Fr-H202610121",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【部会合同講演会】メディアはどう変わったか ～中小企業に求められる発信力～",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2217",
-   "category": "講演会",
-   "wd": "木"
   },
   {
    "venue": "パシフィコ横浜",
@@ -2767,15 +2731,6 @@
    "wd": "木"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "知って活用！人間ドック補助制度と他社事例",
-   "start": "2026-12-17",
-   "end": "2026-12-17",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2251",
-   "category": "セミナー",
-   "wd": "木"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "ふるさと映画祭2026",
    "start": "2026-12-18",
@@ -2962,6 +2917,33 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261230_0714",
    "category": "一般",
    "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "カウントダウン ミュージカルコンサート 2026-2027",
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261231_0623",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【受付中】ワガシャ de DOMO お見積り・ご相談申込ページ",
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2043",
+   "category": "その他",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "浜松商工会議所会員限定特典「Timee（タイミー）」説明お申込みページ",
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2208",
+   "category": "その他",
+   "wd": "木"
   }
  ]
 }
