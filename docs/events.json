@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30 09:33",
+ "updated": "2026-10-31 09:19",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,17 +13,17 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 49,
+   "count": 47,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 75,
+   "count": 76,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 56,
+   "count": 48,
    "error": null
   }
  ],
@@ -38,15 +38,6 @@
    "wd": "金"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "第14回 国際宝飾展 秋（秋のIJT）/14th International Jewellery Tokyo -Autumn-",
-   "start": "2026-10-28",
-   "end": "2026-10-30",
-   "url": "https://www.ijt.jp/autumn/ja-jp.html",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "クリエイティブ・ウェルビーイング・トーキョー だれもが文化でつながる国際会議2026",
    "start": "2026-10-28",
@@ -54,15 +45,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261028Fr-H202610060",
    "category": "一般",
    "wd": "水"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "第24回 堂本剛 独演会 帰ってきた 小喜利の私",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://funk-love.jp/?ima=5403",
-   "category": "イベント・コンサート",
-   "wd": "金"
   },
   {
    "venue": "幕張メッセ",
@@ -89,15 +71,6 @@
    "end": "2026-10-31",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261030_0914",
    "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【募集終了しました。】2026年度 第29期創業塾",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
-   "category": "セミナー",
    "wd": "金"
   },
   {
@@ -472,15 +445,6 @@
    "end": "2026-11-06",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2216",
    "category": "説明会",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【募集終了しました。】2026年度 第29期創業塾",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
-   "category": "セミナー",
    "wd": "金"
   },
   {
@@ -949,15 +913,6 @@
    "wd": "金"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "【募集終了しました。】2026年度 第29期創業塾",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
-   "category": "セミナー",
-   "wd": "金"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "LONG LEGS RYDERS RUN 2026",
    "start": "2026-11-14",
@@ -1404,15 +1359,6 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【募集終了しました。】2026年度 第29期創業塾",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
-   "category": "セミナー",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
    "title": "【食品部会】ジャカルタ・バンコク海外視察会",
    "start": "2026-11-20",
    "end": "2026-11-20",
@@ -1733,15 +1679,6 @@
    "end": "2026-11-27",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2221",
    "category": "説明会",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【募集終了しました。】2026年度 第29期創業塾",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
-   "category": "セミナー",
    "wd": "金"
   },
   {
@@ -2089,15 +2026,6 @@
    "wd": "木"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "【募集終了しました。】2026年度 第29期創業塾",
-   "start": "2026-12-04",
-   "end": "2026-12-04",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
-   "category": "セミナー",
-   "wd": "金"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "ANIMEK",
    "start": "2026-12-05",
@@ -2321,6 +2249,15 @@
   },
   {
    "venue": "東京国際フォーラム",
+   "title": "BEYOND OH! FORUM 未来野球会議",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261210_1030",
+   "category": "一般&関係者",
+   "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
    "title": "FKJ: Tyber Tour",
    "start": "2026-12-10",
    "end": "2026-12-10",
@@ -2362,15 +2299,6 @@
    "end": "2026-12-13",
    "url": "https://www.m-messe.co.jp/event/detail/8923",
    "category": "イベント",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【募集終了しました。】2026年度 第29期創業塾",
-   "start": "2026-12-11",
-   "end": "2026-12-11",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
-   "category": "セミナー",
    "wd": "金"
   },
   {
@@ -2737,15 +2665,6 @@
    "end": "2026-12-20",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261218_0917",
    "category": "一般&関係者",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【募集終了しました。】2026年度 第29期創業塾",
-   "start": "2026-12-18",
-   "end": "2026-12-18",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2188",
-   "category": "セミナー",
    "wd": "金"
   },
   {
