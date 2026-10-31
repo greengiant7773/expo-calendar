@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 09:19",
+ "updated": "2026-11-01 08:55",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -23,7 +23,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 48,
+   "count": 45,
    "error": null
   }
  ],
@@ -161,15 +161,6 @@
    "end": "2026-10-31",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2208",
    "category": "その他",
-   "wd": "土"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "簿記3級対策講座を無料で受講できるチャンス！！2026年度日商簿記3級ｅラーニング講座 受講者募集中",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2160",
-   "category": "セミナー",
    "wd": "土"
   },
   {
@@ -1358,15 +1349,6 @@
    "wd": "金"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "【食品部会】ジャカルタ・バンコク海外視察会",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2232",
-   "category": "視察会",
-   "wd": "金"
-  },
-  {
    "venue": "東京ビッグサイト",
    "title": "グロース就活DXPO’26【秋】 有明GYM- 一般 グロース就活 事務局(ブティックス",
    "start": "2026-11-21",
@@ -1515,15 +1497,6 @@
    "end": "2026-11-26",
    "url": "https://www.67denchi.com/",
    "category": "大会・式典・その他",
-   "wd": "火"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【食品部会】ジャカルタ・バンコク海外視察会",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2232",
-   "category": "視察会",
    "wd": "火"
   },
   {
