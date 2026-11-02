@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 08:55",
+ "updated": "2026-11-02 09:09",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,170 +8,26 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 41,
+   "count": 38,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 47,
+   "count": 44,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 76,
+   "count": 70,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 45,
+   "count": 43,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "東京国際フォーラム",
-   "title": "OPEN CITY MARUNOUCHI2026 【自由見学・デジタルスタンプラリー】建築と自然のハーモニー",
-   "start": "2026-10-23",
-   "end": "2026-11-08",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0914",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "クリエイティブ・ウェルビーイング・トーキョー だれもが文化でつながる国際会議2026",
-   "start": "2026-10-28",
-   "end": "2026-11-01",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261028Fr-H202610060",
-   "category": "一般",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "冬スポ‼WINTER SPORTS FESTA season26",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "url": "https://www.m-messe.co.jp/event/detail/8898",
-   "category": "即売会",
-   "wd": "金"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "日本国際政治学会創設70周年記念研究大会",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "url": "https://www.m-messe.co.jp/event/detail/8890",
-   "category": "学会・会議",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "OPEN CITY MARUNOUCHI2026【ガイドプログラム】 写真家 大杉隼平と巡る東京国際フォーラム -撮ることで伝える大切なこと-",
-   "start": "2026-10-30",
-   "end": "2026-10-31",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261030_0914",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "YOKOHAMA GOGO DOG FES 2026 Autumn",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.instagram.com/yokohama55dogfes/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "funk love meeting 2026 △ Hello !!! Epunpunther !!! Erother !!! △",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "url": "https://funk-love.jp/?ima=5403",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "NIGHT HIKE 2026 in 幕張",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.m-messe.co.jp/event/detail/8920",
-   "category": "音楽イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "ファイナルファンタジーXIV ファンフェスティバル 2026 in 東京",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.m-messe.co.jp/event/detail/8910",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "1時間のハロウィン・クラシックス with ウエンツ瑛士",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261031_0605_01",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ウエンツ瑛士の こわくない ハロウィン・クラシックス",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261031_0605_02",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ラ・ラ・ランド イン コンサート 2026",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261031_0617",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "大江戸骨董市",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261031_0730",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【受付中】ワガシャ de DOMO お見積り・ご相談申込ページ",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2043",
-   "category": "その他",
-   "wd": "土"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "浜松商工会議所会員限定特典「Timee（タイミー）」説明お申込みページ",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2208",
-   "category": "その他",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "FGO THE DRAMALOGUE –Cosmos in the Lostbelt-",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "url": "https://dramalogue.fate-go.jp/",
-   "category": "イベント・コンサート",
-   "wd": "日"
-  },
   {
    "venue": "パシフィコ横浜",
    "title": "ルピシア グラン・マルシェ 2026",
@@ -183,10 +39,10 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "title": "東京サンフェア",
+   "title": "OPEN CITY MARUNOUCHI2026 【自由見学・デジタルスタンプラリー】建築と自然のハーモニー",
    "start": "2026-11-01",
-   "end": "2026-11-01",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261101_0903",
+   "end": "2026-11-08",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0914",
    "category": "一般",
    "wd": "日"
   },
@@ -1536,6 +1392,15 @@
    "wd": "水"
   },
   {
+   "venue": "幕張メッセ",
+   "title": "Universal Kimono Award 2026",
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "url": "https://www.m-messe.co.jp/event/detail/8963",
+   "category": "イベント",
+   "wd": "水"
+  },
+  {
    "venue": "東京ビッグサイト",
    "title": "( POWTEX 2026 ［第46回国際粉体工業展］ 東 商談 展示会事務局（株）シー・エヌ・",
    "start": "2026-11-25",
@@ -2836,6 +2701,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2208",
    "category": "その他",
    "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "「ドラゴンクエスト」ウインドオーケストラコンサート",
+   "start": "2027-01-01",
+   "end": "2027-01-01",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270101_0714",
+   "category": "一般",
+   "wd": "金"
   }
  ]
 }
