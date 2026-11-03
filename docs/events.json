@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02 09:09",
+ "updated": "2026-11-03 11:44",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,7 +8,7 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 38,
+   "count": 39,
    "error": null
   },
   {
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 70,
+   "count": 72,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 43,
+   "count": 41,
    "error": null
   }
  ],
@@ -53,15 +53,6 @@
    "end": "2026-11-04",
    "url": "https://www.m-messe.co.jp/event/detail/8902",
    "category": "学会・会議",
-   "wd": "月"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "未来古代楽団ライブ 祝祭あるいは断章8 「氷る世界と燐の君」",
-   "start": "2026-11-02",
-   "end": "2026-11-02",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261102_0507",
-   "category": "一般",
    "wd": "月"
   },
   {
@@ -226,20 +217,20 @@
   },
   {
    "venue": "浜松商工会議所",
+   "title": "【11/2現在 満員御礼】広告費を抑えてSNSで新規顧客を獲得する7つの秘訣",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2225",
+   "category": "セミナー",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
    "title": "ムンド・デ・アレグリア学校 オープンスクールの開催について",
    "start": "2026-11-05",
    "end": "2026-11-05",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2242",
    "category": "説明会・視察会",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "広告費を抑えてSNSで新規顧客を獲得する7つの秘訣",
-   "start": "2026-11-05",
-   "end": "2026-11-05",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2225",
-   "category": "セミナー",
    "wd": "木"
   },
   {
@@ -671,15 +662,6 @@
    "wd": "水"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "ホームページ作成「ウェブサポ」セミナー～AI時代に差をつけるホームページをプロと作りませんか?～",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2213",
-   "category": "セミナー",
-   "wd": "水"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "日本放射線腫瘍学会第39回学術大会",
    "start": "2026-11-12",
@@ -716,7 +698,7 @@
   },
   {
    "venue": "幕張メッセ",
-   "title": "幕張謎解迷宮",
+   "title": "幕張謎解迷宮(マクハリミステリーラビリンス)",
    "start": "2026-11-13",
    "end": "2027-05-09",
    "url": "https://www.m-messe.co.jp/event/detail/8956",
@@ -1829,7 +1811,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "貿易実務講座 in 浜松(貿易実務中級編)",
+   "title": "【11/6まで募集延長!!!】貿易実務講座 in 浜松(貿易実務中級編)",
    "start": "2026-12-02",
    "end": "2026-12-02",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2245",
@@ -2068,15 +2050,6 @@
    "wd": "水"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "ホームページ作成「ウェブサポ」セミナー～AI時代に差をつけるホームページをプロと作りませんか?～",
-   "start": "2026-12-09",
-   "end": "2026-12-09",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2236",
-   "category": "セミナー",
-   "wd": "水"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "横浜ロボットワールド2026（4展総称）サービスロボット展／産業用ロボット展／次世代モビリティ展／宇宙開発ビジネス展",
    "start": "2026-12-10",
@@ -2210,6 +2183,15 @@
    "wd": "日"
   },
   {
+   "venue": "幕張メッセ",
+   "title": "キャリタス就活フォーラム千葉会場",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8968",
+   "category": "その他",
+   "wd": "日"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "ONE N' ONLY Merry XmaSWAG 2026 〜メガホリ〜",
    "start": "2026-12-13",
@@ -2226,6 +2208,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261214_0728",
    "category": "一般",
    "wd": "月"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "Weather & Climate Forecast Conference December 2026",
+   "start": "2026-12-15",
+   "end": "2026-12-15",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261215_1002",
+   "category": "一般&関係者",
+   "wd": "火"
   },
   {
    "venue": "東京ビッグサイト",
@@ -2710,6 +2701,24 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270101_0714",
    "category": "一般",
    "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "J-CULTURE FEST presents 東京国際フォーラム開館30周年記念 詩楽劇『浮雲は天に濡れつつ～源氏物語より葵上～』",
+   "start": "2027-01-04",
+   "end": "2027-01-11",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270104_0910_01",
+   "category": "一般",
+   "wd": "月"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "J-CULTURE FEST presents 関連講演 江⼾時代にも流⾏した『源⽒物語』／基礎講座・特別講座",
+   "start": "2027-01-04",
+   "end": "2027-01-11",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270104_0910_02",
+   "category": "一般",
+   "wd": "月"
   }
  ]
 }
