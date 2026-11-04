@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03 11:44",
+ "updated": "2026-11-04 10:00",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,17 +8,17 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 39,
+   "count": 38,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 44,
+   "count": 39,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 72,
+   "count": 69,
    "error": null
   },
   {
@@ -28,15 +28,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "パシフィコ横浜",
-   "title": "ルピシア グラン・マルシェ 2026",
-   "start": "2026-11-01",
-   "end": "2026-11-03",
-   "url": "https://www.lupicia.co.jp/gm/2026/",
-   "category": "物販・展示即売会",
-   "wd": "日"
-  },
   {
    "venue": "東京国際フォーラム",
    "title": "OPEN CITY MARUNOUCHI2026 【自由見学・デジタルスタンプラリー】建築と自然のハーモニー",
@@ -54,78 +45,6 @@
    "url": "https://www.m-messe.co.jp/event/detail/8902",
    "category": "学会・会議",
    "wd": "月"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "第55回東京都農業祭",
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261102_0831",
-   "category": "一般",
-   "wd": "月"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "AJESTHE Beauty Festival 2026 in YOKOHAMA",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "url": "https://ajesthe.jp/",
-   "category": "大会・式典・その他",
-   "wd": "火"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "SPIC大運動会2026 〜MOVE FOR HEALTH！",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "url": "https://www.pacifico.co.jp/eventInfo",
-   "category": "大会・式典・その他",
-   "wd": "火"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "TALES OF XILLIA ~15th Anniversary party~",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "url": "https://tox15th-anniversary-party.tales-ch.jp/",
-   "category": "イベント・コンサート",
-   "wd": "火"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "横浜マラソン2026 スポGOMI＠みなとみらい",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "url": "https://yokohamamarathon.jp/news/%E3%80%90%E5%85%88%E7%9D%80%E9%A0%86%E3%80%91%E3%80%8C%E6%A8%AA%E6%B5%9C%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B32026-%E3%82%B9%E3%83%9Dgomi%EF%BC%A0%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84/",
-   "category": "イベント・コンサート",
-   "wd": "火"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "ストライダーカップ2026 うみのステージ",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "url": "https://www.m-messe.co.jp/event/detail/8915",
-   "category": "イベント",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "moumoon 20周年記念 FULLMOON LIVE SPECIAL 2026 〜中秋の名月〜",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261103_0623",
-   "category": "一般",
-   "wd": "火"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "コレサワ HALL TOUR 2026 THE PINK",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261103_0217",
-   "category": "一般",
-   "wd": "火"
   },
   {
    "venue": "パシフィコ横浜",
