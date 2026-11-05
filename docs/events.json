@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 10:00",
+ "updated": "2026-11-05 10:15",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,12 +8,12 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 38,
+   "count": 37,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 39,
+   "count": 40,
    "error": null
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 41,
+   "count": 40,
    "error": null
   }
  ],
@@ -36,15 +36,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0914",
    "category": "一般",
    "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第73回日本ウイルス学会学術集会",
-   "start": "2026-11-02",
-   "end": "2026-11-04",
-   "url": "https://www.m-messe.co.jp/event/detail/8902",
-   "category": "学会・会議",
-   "wd": "月"
   },
   {
    "venue": "パシフィコ横浜",
@@ -132,15 +123,6 @@
    "end": "2026-11-06",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261105_0915",
    "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【11/2現在 満員御礼】広告費を抑えてSNSで新規顧客を獲得する7つの秘訣",
-   "start": "2026-11-05",
-   "end": "2026-11-05",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2225",
-   "category": "セミナー",
    "wd": "木"
   },
   {
@@ -2638,6 +2620,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270104_0910_02",
    "category": "一般",
    "wd": "月"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "AMPTAKx侵略計画レインボーロード中93%〜REVIVAL〜",
+   "start": "2027-01-06",
+   "end": "2027-01-07",
+   "url": "https://amptak-colors-livetour2026.stpr.com/",
+   "category": "イベント・コンサート",
+   "wd": "水"
   }
  ]
 }
