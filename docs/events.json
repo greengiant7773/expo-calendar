@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05 10:15",
+ "updated": "2026-11-06 10:20",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -18,7 +18,7 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 69,
+   "count": 71,
    "error": null
   },
   {
@@ -47,15 +47,6 @@
    "wd": "水"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "IRENE & SEULGI JAPAN TOUR 2026 -blank-",
-   "start": "2026-11-04",
-   "end": "2026-11-05",
-   "url": "https://redvelvet-jp.net/live/tour.php?id=1003061",
-   "category": "イベント・コンサート",
-   "wd": "水"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "AI World 2026 秋 東京",
    "start": "2026-11-04",
@@ -80,15 +71,6 @@
    "end": "2026-11-06",
    "url": "https://www.m-messe.co.jp/event/detail/8929",
    "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "経済安全保障対策会議・展示会（ECONOSEC JAPAN）2026",
-   "start": "2026-11-04",
-   "end": "2026-11-05",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261104_0907",
-   "category": "一般",
    "wd": "水"
   },
   {
@@ -123,15 +105,6 @@
    "end": "2026-11-06",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261105_0915",
    "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "ムンド・デ・アレグリア学校 オープンスクールの開催について",
-   "start": "2026-11-05",
-   "end": "2026-11-05",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2242",
-   "category": "説明会・視察会",
    "wd": "木"
   },
   {
@@ -202,6 +175,15 @@
    "end": "2026-11-09",
    "url": "https://kougei-expo.com/kanagawa/",
    "category": "展示会・見本市",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "パークヨガ",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSevGzh3AqOplN4U7630VRjHwW2hwPxErE1aTFrZmFX0lP2e-w/viewform",
+   "category": "イベント・コンサート",
    "wd": "土"
   },
   {
@@ -2408,7 +2390,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "2026年度感謝の集い 講演会 勝つから勝ち続けるへ～日本一5度に学ぶ常勝チームの組織経営とリーダーシップ～",
+   "title": "【満員御礼】2026年度感謝の集い 講演会 勝つから勝ち続けるへ～日本一5度に学ぶ常勝チームの組織経営とリーダーシップ～",
    "start": "2026-12-19",
    "end": "2026-12-19",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2215",
@@ -2456,6 +2438,15 @@
    "start": "2026-12-20",
    "end": "2026-12-20",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261220_1002",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "東京サンフェア",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261220_0903",
    "category": "一般",
    "wd": "日"
   },
@@ -2605,6 +2596,15 @@
   },
   {
    "venue": "東京国際フォーラム",
+   "title": "チャイコフスキー・バレエ劇場「白鳥の湖」",
+   "start": "2027-01-03",
+   "end": "2027-01-03",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270103_1028",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
    "title": "J-CULTURE FEST presents 東京国際フォーラム開館30周年記念 詩楽劇『浮雲は天に濡れつつ～源氏物語より葵上～』",
    "start": "2027-01-04",
    "end": "2027-01-11",
@@ -2629,6 +2629,24 @@
    "url": "https://amptak-colors-livetour2026.stpr.com/",
    "category": "イベント・コンサート",
    "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "宝塚歌劇 雪組公演 『Monte-Cristo（モンテ・クリスト） －le spectacle musical－』",
+   "start": "2027-01-07",
+   "end": "2027-01-20",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270107_0812",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "浜松商工会議所 2027年 新年会員の集い",
+   "start": "2027-01-07",
+   "end": "2027-01-07",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2249",
+   "category": "交流会",
+   "wd": "木"
   }
  ]
 }
