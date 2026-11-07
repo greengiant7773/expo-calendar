@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-06 10:20",
+ "updated": "2026-11-07 09:34",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 116,
+   "count": 113,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 37,
+   "count": 34,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 40,
+   "count": 39,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 71,
+   "count": 69,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 40,
+   "count": 38,
    "error": null
   }
  ],
@@ -38,90 +38,12 @@
    "wd": "日"
   },
   {
-   "venue": "パシフィコ横浜",
-   "title": "Gartner IT Symposium/Xpo™ 2026",
-   "start": "2026-11-04",
-   "end": "2026-11-06",
-   "url": "https://www.gartner.com/jp/conferences/apac/symposium-japan",
-   "category": "学会・会議",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "AI World 2026 秋 東京",
-   "start": "2026-11-04",
-   "end": "2026-11-06",
-   "url": "https://www.m-messe.co.jp/event/detail/8930",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "DX総合EXPO 2026 秋 東京",
-   "start": "2026-11-04",
-   "end": "2026-11-06",
-   "url": "https://www.m-messe.co.jp/event/detail/8928",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "ビジネスイノベーション Japan 2026 秋 東京",
-   "start": "2026-11-04",
-   "end": "2026-11-06",
-   "url": "https://www.m-messe.co.jp/event/detail/8929",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "レジャーホテルフェア2026 東3 商談 「レジャーホテルフェア」事務局",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "木"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "レジャー＆サービス産業展2026 東3 商談 「レジャー＆サービス産業展」事",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "木"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "リム・エネルギー・アゴラ 2026",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261105_0904",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "林部智史 CONCERT TOUR 2026・秋 This is Myself !! ～コンサートアーテイストとして10年～",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261105_0915",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
    "venue": "幕張メッセ",
    "title": "第71回公益社団法人日本口腔外科学会総会・学術大会",
    "start": "2026-11-06",
    "end": "2026-11-08",
    "url": "https://www.m-messe.co.jp/event/detail/8895",
    "category": "学会・会議",
-   "wd": "金"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "10:00～17:00 国内最大級のアーケードゲームの祭典！",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "金"
   },
   {
@@ -139,33 +61,6 @@
    "end": "2026-11-07",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261106_0902",
    "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "デビュー50周年記念 松山千春コンサート・ツアー2026",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261106_0908",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "「浜松工業高校 定時制 生徒」と「浜松市内製造業」とのマッチング事業",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2216",
-   "category": "説明会",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【満員御礼】ギャルマインドで変わる！採用と組織のつくり方 ― “Z世代に選ばれる企業”へ変わる、経営層向け実践プログラム ―",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2204",
-   "category": "セミナー",
    "wd": "金"
   },
   {
@@ -2647,6 +2542,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2249",
    "category": "交流会",
    "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "CHIC（シック）",
+   "start": "2027-01-08",
+   "end": "2027-01-08",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270108_1001",
+   "category": "一般",
+   "wd": "金"
   }
  ]
 }
