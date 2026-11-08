@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-07 09:34",
+ "updated": "2026-11-08 09:08",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 113,
+   "count": 112,
    "error": null
   },
   {
@@ -13,12 +13,12 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 39,
+   "count": 42,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 69,
+   "count": 68,
    "error": null
   },
   {
@@ -47,38 +47,12 @@
    "wd": "金"
   },
   {
-   "venue": "東京ビッグサイト",
-   "title": "アミューズメントエキスポ2026 南 商談/一般 一般社団法人 日本アミュ－ズメ",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ウイスキーフェスティバル2026 in 東京",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261106_0902",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "KOUGEI EXPO in KANAGAWA/第43回伝統的工芸品月間国民会議全国大会",
    "start": "2026-11-07",
    "end": "2026-11-09",
    "url": "https://kougei-expo.com/kanagawa/",
    "category": "展示会・見本市",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "パークヨガ",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLSevGzh3AqOplN4U7630VRjHwW2hwPxErE1aTFrZmFX0lP2e-w/viewform",
-   "category": "イベント・コンサート",
    "wd": "土"
   },
   {
@@ -100,38 +74,11 @@
    "wd": "土"
   },
   {
-   "venue": "幕張メッセ",
-   "title": "京成電鉄バスグループお客様感謝フェスティバル2026",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "url": "https://www.m-messe.co.jp/event/detail/8906",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
    "venue": "東京ビッグサイト",
    "title": "冬スポ!!WINTER SPORTS FESTA season26 東3 一般 冬スポ事務局",
    "start": "2026-11-07",
    "end": "2026-11-08",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "国際教育フェア東京 2026 秋",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261107_0910",
-   "category": "一般&関係者",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "大江戸骨董市",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261107_1002",
-   "category": "一般",
    "wd": "土"
   },
   {
@@ -2551,6 +2498,51 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270108_1001",
    "category": "一般",
    "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "NIKKE ORCHESTRAL CONCERT 「Echoes of Eternity」",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "url": "https://nikke-concert.jp/s/nikke27/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "Pet博2027横浜",
+   "start": "2027-01-09",
+   "end": "2027-01-11",
+   "url": "www.pethaku.com",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第54回バトントワーリング全国大会",
+   "start": "2027-01-09",
+   "end": "2027-01-10",
+   "url": "https://www.m-messe.co.jp/event/detail/8943",
+   "category": "イベント",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "大和IR主催 プレミアム新春株式講演会",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270109_1027",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "東京ディズニーシー®25周年“スパークリング・ジュビリー”イン・コンサート",
+   "start": "2027-01-09",
+   "end": "2027-01-10",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270109_0612",
+   "category": "一般",
+   "wd": "土"
   }
  ]
 }
