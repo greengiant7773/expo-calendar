@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-08 09:08",
+ "updated": "2026-11-09 09:26",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 112,
+   "count": 110,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 34,
+   "count": 31,
    "error": null
   },
   {
@@ -18,7 +18,7 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 68,
+   "count": 66,
    "error": null
   },
   {
@@ -29,24 +29,6 @@
  ],
  "events": [
   {
-   "venue": "東京国際フォーラム",
-   "title": "OPEN CITY MARUNOUCHI2026 【自由見学・デジタルスタンプラリー】建築と自然のハーモニー",
-   "start": "2026-11-01",
-   "end": "2026-11-08",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0914",
-   "category": "一般",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第71回公益社団法人日本口腔外科学会総会・学術大会",
-   "start": "2026-11-06",
-   "end": "2026-11-08",
-   "url": "https://www.m-messe.co.jp/event/detail/8895",
-   "category": "学会・会議",
-   "wd": "金"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "KOUGEI EXPO in KANAGAWA/第43回伝統的工芸品月間国民会議全国大会",
    "start": "2026-11-07",
@@ -56,55 +38,12 @@
    "wd": "土"
   },
   {
-   "venue": "幕張メッセ",
-   "title": "2026 Asia ZUMBA Conference",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "url": "https://www.m-messe.co.jp/event/detail/8944",
-   "category": "イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "サントリーオールフリー presents 氣志團万博2026 ～房総爆音リゾート～",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "url": "https://www.m-messe.co.jp/event/detail/8786",
-   "category": "音楽イベント",
-   "wd": "土"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "冬スポ!!WINTER SPORTS FESTA season26 東3 一般 冬スポ事務局",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "土"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "文学フリマ東京43 南 一般 文学フリマ東京事務局",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "日"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "The 33rd International Congress of Actuaries（ICA2026）",
    "start": "2026-11-08",
    "end": "2026-11-13",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1021",
    "category": "一般&関係者",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ベストフリーマーケット",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1027",
-   "category": "一般",
    "wd": "日"
   },
   {
