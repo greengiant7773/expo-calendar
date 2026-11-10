@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09 09:26",
+ "updated": "2026-11-10 12:06",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,35 +8,26 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 31,
+   "count": 33,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 42,
+   "count": 44,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 66,
+   "count": 69,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 38,
+   "count": 37,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "パシフィコ横浜",
-   "title": "KOUGEI EXPO in KANAGAWA/第43回伝統的工芸品月間国民会議全国大会",
-   "start": "2026-11-07",
-   "end": "2026-11-09",
-   "url": "https://kougei-expo.com/kanagawa/",
-   "category": "展示会・見本市",
-   "wd": "土"
-  },
   {
    "venue": "東京国際フォーラム",
    "title": "The 33rd International Congress of Actuaries（ICA2026）",
@@ -45,15 +36,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1021",
    "category": "一般&関係者",
    "wd": "日"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "全5回シリーズ 2026年度 はままつメディカル塾（医療機器・薬機法関連セミナー）",
-   "start": "2026-11-09",
-   "end": "2026-11-09",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
-   "category": "セミナー",
-   "wd": "月"
   },
   {
    "venue": "パシフィコ横浜",
@@ -869,12 +851,30 @@
   },
   {
    "venue": "東京国際フォーラム",
+   "title": "TOKYO周穫祭2026～おいしい！たのしい！東京周遊フェス～",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261121_1106",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
    "title": "「バック・トゥ・ザ・フューチャー」 in コンサート",
    "start": "2026-11-21",
    "end": "2026-11-21",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261121_0701",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "日曜劇場『VIVANT』第2シーズン スペシャルエディション上映会 ー♯25への序章ー",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "url": "https://tickets.tbs.co.jp/VIVANT_specialedition2/",
+   "category": "イベント・コンサート",
+   "wd": "日"
   },
   {
    "venue": "幕張メッセ",
@@ -1145,6 +1145,15 @@
    "end": "2026-11-28",
    "url": "https://www.kyodoyokohama.com/schedule/index.php?mode=show&seq=2092",
    "category": "イベント・コンサート",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "放送50周年記念 第20回「徹子の部屋」コンサート",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261127_1102",
+   "category": "一般",
    "wd": "金"
   },
   {
@@ -1582,6 +1591,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "[2026 JANG KEUN SUK Fantastic Night Live]",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.jang-keunsuk.jp/",
+   "category": "イベント・コンサート",
+   "wd": "日"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "第34回 ヨコハマ ホット ロッド・カスタム ショー2026",
    "start": "2026-12-06",
    "end": "2026-12-06",
@@ -1606,6 +1624,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261206_0611",
    "category": "一般",
    "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "さらば！悪役会議室",
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261207_1109",
+   "category": "一般",
+   "wd": "月"
   },
   {
    "venue": "東京国際フォーラム",
@@ -2278,6 +2305,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "iKON FOUREVER TOUR IN JAPAN [ENCORE]",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "url": "https://ikonic.jp/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "リアル脱出ゲーム『終わらないクリスマスからの脱出』",
    "start": "2026-12-26",
    "end": "2026-12-27",
@@ -2482,6 +2518,24 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270109_0612",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "Devil ANTHEM. 12th Anniversary TOUR 2026 FINAL \"Winter Mirage of Sonic\"",
+   "start": "2027-01-11",
+   "end": "2027-01-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8913",
+   "category": "音楽イベント",
+   "wd": "月"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "令和9年習志野市二十歳の門出式",
+   "start": "2027-01-11",
+   "end": "2027-01-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8942",
+   "category": "イベント",
+   "wd": "月"
   }
  ]
 }
