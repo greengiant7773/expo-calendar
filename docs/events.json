@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-11 09:58",
+ "updated": "2026-11-12 11:05",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 110,
+   "count": 111,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 33,
+   "count": 34,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 44,
+   "count": 45,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 71,
+   "count": 74,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 36,
+   "count": 34,
    "error": null
   }
  ],
@@ -269,24 +269,6 @@
    "start": "2026-11-11",
    "end": "2026-11-13",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】チーム力をあげる！チームビルディングセミナー",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2222",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
    "wd": "水"
   },
   {
@@ -690,6 +672,15 @@
    "start": "2026-11-18",
    "end": "2026-11-20",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "日本保守党 第2回党大会",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261118_1106",
+   "category": "関係者",
    "wd": "水"
   },
   {
@@ -1804,6 +1795,15 @@
    "wd": "金"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "Char 50th Anniversary 伝説の響演 Char × ゴダイゴ × Tribute to スペクトラム Special Guest︓ラリー・カールトン Opening Act︓Mateus Asato",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261211_1110",
+   "category": "一般",
+   "wd": "金"
+  },
+  {
    "venue": "パシフィコ横浜",
    "title": "Design Zoo",
    "start": "2026-12-12",
@@ -2188,6 +2188,15 @@
    "wd": "金"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "お城EXPO 2026",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "url": "https://www.shiroexpo.jp/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "クリスマス・スペシャル・クラシックス ～メサイア・第九・くるみ割り人形～",
    "start": "2026-12-19",
@@ -2356,6 +2365,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261227_0521",
    "category": "一般",
    "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "DIGIMON CONCERT ～2026 Anniversary & BEATBREAK～",
+   "start": "2026-12-28",
+   "end": "2026-12-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261228_1109",
+   "category": "一般",
+   "wd": "月"
   },
   {
    "venue": "東京国際フォーラム",
@@ -2545,6 +2563,23 @@
    "url": "https://www.m-messe.co.jp/event/detail/8942",
    "category": "イベント",
    "wd": "月"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "古着メッセ by OCB UNDER ¥10,000",
+   "start": "2027-01-11",
+   "end": "2027-01-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8981",
+   "category": "即売会",
+   "wd": "月"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "TOKYO DIGICONX (第4回TOKYO XR・メタバース＆コンテンツ 有明GYM- 商談/一般 TOKYO DIGICONX運営事務",
+   "start": "2027-01-13",
+   "end": "2027-01-15",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
   }
  ]
 }
