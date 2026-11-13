@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12 11:05",
+ "updated": "2026-11-13 10:38",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,7 +13,7 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 45,
+   "count": 46,
    "error": null
   },
   {
@@ -36,24 +36,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1021",
    "category": "一般&関係者",
    "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "Photonics Innovation 2026",
-   "start": "2026-11-10",
-   "end": "2026-11-12",
-   "url": "https://photonics-innv.com/",
-   "category": "展示会・見本市",
-   "wd": "火"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "ワールドキルトフェスティバル2027・WQF2027",
-   "start": "2026-11-10",
-   "end": "2026-11-12",
-   "url": "https://japan-quilt.com",
-   "category": "展示会・見本市",
-   "wd": "火"
   },
   {
    "venue": "東京ビッグサイト",
@@ -1599,6 +1581,15 @@
    "wd": "日"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "第6回ナイモルビギナーズカップ inみなとみらい",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://naimolbig6.peatix.com/view",
+   "category": "イベント・コンサート",
+   "wd": "日"
+  },
+  {
    "venue": "幕張メッセ",
    "title": "第53回千葉県透析研究会",
    "start": "2026-12-06",
@@ -2331,6 +2322,15 @@
    "wd": "土"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "第7回ナイモルカップ in みなとみらい",
+   "start": "2026-12-26",
+   "end": "2026-12-26",
+   "url": "https://naimolcup7.peatix.com/view",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
    "venue": "幕張メッセ",
    "title": "COUNTDOWN JAPAN 26/27 supported by au",
    "start": "2026-12-26",
@@ -2580,6 +2580,15 @@
    "end": "2027-01-15",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "水"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "ゆずの輪 presents Yujin’s 50th Birthday Special Live 2027 DRESS CODE -6Pチーズ-",
+   "start": "2027-01-14",
+   "end": "2027-01-14",
+   "url": "https://yuzu-official.com/pages/yujin-birthday2027/",
+   "category": "イベント・コンサート",
+   "wd": "木"
   }
  ]
 }
