@@ -1,258 +1,33 @@
 {
- "updated": "2026-11-13 10:38",
+ "updated": "2026-11-14 10:12",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 111,
+   "count": 92,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 34,
+   "count": 27,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 46,
+   "count": 48,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 74,
+   "count": 72,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 34,
+   "count": 33,
    "error": null
   }
  ],
  "events": [
-  {
-   "venue": "東京国際フォーラム",
-   "title": "The 33rd International Congress of Actuaries（ICA2026）",
-   "start": "2026-11-08",
-   "end": "2026-11-13",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1021",
-   "category": "一般&関係者",
-   "wd": "日"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( アグリビジネス創出フェア2026 西4 商談 アグリビジネス創出フェア2026事",
-   "start": "2026-11-10",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "火"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "NexTech Week 2026【秋】",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.m-messe.co.jp/event/detail/8494",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 XR産業活用展【秋】",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.m-messe.co.jp/event/detail/8843",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 ヒューマノイドロボット EXPO【秋】",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.m-messe.co.jp/event/detail/8499",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第1回 フィジカルAI EXPO【秋】",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.m-messe.co.jp/event/detail/8844",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第5回 AI時代の人材・組織改革EXPO【秋】",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.m-messe.co.jp/event/detail/8498",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第7回 AI・人工知能 EXPO【秋】",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.m-messe.co.jp/event/detail/8495",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第7回 ブロックチェーン EXPO【秋】",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.m-messe.co.jp/event/detail/8496",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第7回 量子コンピューティング EXPO【秋】",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.m-messe.co.jp/event/detail/8497",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( FOOD-COLDTECH 2026 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( FOOD-DX 2026 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( FOOD-ECOX 2026 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( FOOD展2026【食品産業の複合展】 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( JFEX WINTER 第9回 [国際] 食品･飲料 商談 Week 東7・8 商談 JFEX展示会事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( エヌプラス(N-Plus)2026 「New」「Next」をプラスする新素材・新技 東2 商談 エヌプラス事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( フードシステムソリューション(F-SYS)2026【給食・大量調理展】 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( フードセーフティジャパン(FSJ)2026【食品安全・衛生対策展】 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( フードディストリビューション(FD)2026【食品物流改善展】 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( フードファクトリー(FF)2026【食品工場改善展】 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 惣菜・デリカJAPAN(SDJ)2026【惣菜・中食産業展】 東2・3 商談 FOOD展事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 産業交流展2026 西1・2 商談 産業交流展2026運営事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第13回\"日本の食品\" 輸出EXPO WINTER 東7・8 商談 日本の食品輸出EXPO 展示会",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第5回 生鮮食品 EXPO JFEX FRESH 東7・8 商談 JFEX展示会事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第7回 プレミアム食品 EXPO JFEX PREMIUM 東7・8 商談 JFEX展示会事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第9回 ワイン･酒 EXPO JFEX WINE＆SPIRITS 東7・8 商談 JFEX展示会事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第9回 加工食品 EXPO JFEX FOOD WINTER 東7・8 商談 JFEX展示会事務局",
-   "start": "2026-11-11",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
   {
    "venue": "幕張メッセ",
    "title": "日本放射線腫瘍学会第39回学術大会",
@@ -260,14 +35,6 @@
    "end": "2026-11-14",
    "url": "https://www.m-messe.co.jp/event/detail/8958",
    "category": "学会・会議",
-   "wd": "木"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 60th FISMA TOKYO（第60回 東京ファッション産業機器展） 西3 商談/一般 FISMA TOKYO 事務局",
-   "start": "2026-11-12",
-   "end": "2026-11-13",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "木"
   },
   {
@@ -299,38 +66,11 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "title": "かつしかトリオ COBALT EXPRESS TOUR 2026",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261113_0702",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ゴスペラーズ坂ツアー2026 “UNIVER5OUL”",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261113_0402",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
    "title": "ザ インターナショナルアカデミック フォーラム The 18th Asian Conference on Education（ACE2026）",
    "start": "2026-11-13",
    "end": "2026-11-17",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261113Fr-H202611068",
    "category": "一般&関係者",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "「浜松工業高校 定時制 生徒」と「浜松市内製造業」とのマッチング事業",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2216",
-   "category": "説明会",
    "wd": "金"
   },
   {
@@ -1751,6 +1491,15 @@
   },
   {
    "venue": "浜松商工会議所",
+   "title": "”満員御礼” 情報文化部会講演会 ノーコードと生成AIで実現する次世代社内DX",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2240",
+   "category": "講演会",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
    "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在12月10日交付分受付中 ※11月25日申込締切)",
    "start": "2026-12-10",
    "end": "2026-12-10",
@@ -1765,15 +1514,6 @@
    "end": "2026-12-10",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2237",
    "category": "交流会",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "情報文化部会講演会 ノーコードと生成AIで実現する次世代社内DX",
-   "start": "2026-12-10",
-   "end": "2026-12-10",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2240",
-   "category": "講演会",
    "wd": "木"
   },
   {
@@ -2589,6 +2329,33 @@
    "url": "https://yuzu-official.com/pages/yujin-birthday2027/",
    "category": "イベント・コンサート",
    "wd": "木"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "冬スポ!!WINTER SPORTS FESTA season26",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "url": "https://www.fuyusupo.jp/",
+   "category": "物販・展示即売会",
+   "wd": "金"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "東京オートサロン2027",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "url": "https://www.m-messe.co.jp/event/detail/8977",
+   "category": "イベント",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "2027 SEO IN GUK FANMEETING ACOUSTIC LIVE TOUR 午前０時（00：00） in JAPAN",
+   "start": "2027-01-15",
+   "end": "2027-01-15",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270115_1027",
+   "category": "一般",
+   "wd": "金"
   }
  ]
 }
