@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-14 10:12",
+ "updated": "2026-11-15 09:39",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 92,
+   "count": 91,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
@@ -28,15 +28,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "幕張メッセ",
-   "title": "日本放射線腫瘍学会第39回学術大会",
-   "start": "2026-11-12",
-   "end": "2026-11-14",
-   "url": "https://www.m-messe.co.jp/event/detail/8958",
-   "category": "学会・会議",
-   "wd": "木"
-  },
   {
    "venue": "パシフィコ横浜",
    "title": "冬スポ!!WINTER SPORTS FESTA season26",
@@ -75,15 +66,6 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "LONG LEGS RYDERS RUN 2026",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "url": "https://llrr.yokohama/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
    "title": "VCM VINTAGE MARKET Vol.9",
    "start": "2026-11-14",
    "end": "2026-11-15",
@@ -106,23 +88,6 @@
    "start": "2026-11-14",
    "end": "2026-11-15",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "土"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "インターンシップ＆キャリア発見EXPO 東2・3 一般 マイナビイベント首都圏運営事務",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "Hideaki Tokunaga 40th Anniversary Concert Tour 2026 COVERS & BEST",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261114_0413",
-   "category": "一般",
    "wd": "土"
   },
   {
@@ -2356,6 +2321,24 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270115_1027",
    "category": "一般",
    "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "第7回ナイモルビギナーズカップ inみなとみらい",
+   "start": "2027-01-16",
+   "end": "2027-01-16",
+   "url": "https://naimolbig7.peatix.com/view",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ジョン・ウィリアムズ：シネマ・スペクタキュラー・コンサート",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270116_0807",
+   "category": "一般",
+   "wd": "土"
   }
  ]
 }
