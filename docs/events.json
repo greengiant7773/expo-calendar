@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-15 09:39",
+ "updated": "2026-11-16 09:39",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 91,
+   "count": 89,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 26,
+   "count": 24,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 48,
+   "count": 45,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 72,
+   "count": 71,
    "error": null
   },
   {
@@ -28,24 +28,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "パシフィコ横浜",
-   "title": "冬スポ!!WINTER SPORTS FESTA season26",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "url": "https://www.fuyusupo.jp/",
-   "category": "物販・展示即売会",
-   "wd": "金"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "家具メッセバザールin幕張メッセ",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "url": "https://www.m-messe.co.jp/event/detail/8925",
-   "category": "イベント",
-   "wd": "金"
-  },
   {
    "venue": "幕張メッセ",
    "title": "幕張謎解迷宮(マクハリミステリーラビリンス)",
@@ -63,85 +45,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261113Fr-H202611068",
    "category": "一般&関係者",
    "wd": "金"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "VCM VINTAGE MARKET Vol.9",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "url": "https://vcmvintagemarket9.peatix.com/",
-   "category": "物販・展示即売会",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "リレー・フォー・ライフ・ジャパン横浜",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "url": "https://relayforlife.jp/yokohama/",
-   "category": "イベント・コンサート",
-   "wd": "土"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( JOIN-FURUSATO 移住・交流&地域おこしフェア 2026 東7 一般 JOIN-FURUSATO 移住・交流&",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "恩師久保角太郎先生法要・追随式典",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "url": "https://www.pacifico.co.jp/eventInfo",
-   "category": "大会・式典・その他",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "11月15日 サステナブルFUKUSHIインターンシップ&キャリア発見フェア 千葉会場",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "url": "https://www.m-messe.co.jp/event/detail/8927",
-   "category": "イベント",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "新しい学校選びフェア",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "url": "https://www.m-messe.co.jp/event/detail/8939",
-   "category": "イベント",
-   "wd": "日"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "新・農業人フェア 東8 一般 新・農業人フェア運営事務局",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "CFO LEADERS SUMMIT 2026",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261115Fr-H202611060",
-   "category": "一般&関係者",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "サグラダ・ファミリア シンフォニックコンサート",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261115_0909",
-   "category": "一般",
-   "wd": "日"
   },
   {
    "venue": "東京ビッグサイト",
@@ -1180,6 +1083,15 @@
   },
   {
    "venue": "浜松商工会議所",
+   "title": "【11/16現在 満員御礼・申込受付終了】デジタル化で販路拡大を推進する SNS・ショート動画セミナー(実践編)",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2241",
+   "category": "セミナー",
+   "wd": "木"
+  },
+  {
+   "venue": "浜松商工会議所",
    "title": "【満員御礼】ギャルマインドで変わる！採用と組織のつくり方 ― “Z世代に選ばれる企業”へ変わる、経営層向け実践プログラム ―",
    "start": "2026-12-03",
    "end": "2026-12-03",
@@ -1188,13 +1100,13 @@
    "wd": "木"
   },
   {
-   "venue": "浜松商工会議所",
-   "title": "デジタル化で販路拡大を推進する SNS・ショート動画セミナー(実践編)",
-   "start": "2026-12-03",
-   "end": "2026-12-03",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2241",
-   "category": "セミナー",
-   "wd": "木"
+   "venue": "幕張メッセ",
+   "title": "家具メッセバザールin幕張メッセ",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "url": "https://www.m-messe.co.jp/event/detail/8961",
+   "category": "イベント",
+   "wd": "金"
   },
   {
    "venue": "パシフィコ横浜",
@@ -2339,6 +2251,24 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270116_0807",
    "category": "一般",
    "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "ITRI第七支部決起大会",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "url": "https://www.pacifico.co.jp/eventInfo",
+   "category": "大会・式典・その他",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "大江戸骨董市",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270117_1110",
+   "category": "一般",
+   "wd": "日"
   }
  ]
 }
