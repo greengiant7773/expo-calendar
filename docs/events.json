@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16 09:39",
+ "updated": "2026-11-17 12:21",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 71,
+   "count": 74,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 33,
+   "count": 32,
    "error": null
   }
  ],
@@ -684,6 +684,15 @@
    "wd": "木"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "ARTE TOKYO／エキソニモ 《Kiss, or Dual Monitors 2026》",
+   "start": "2026-11-26",
+   "end": "2026-12-03",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261126_1030",
+   "category": "一般",
+   "wd": "木"
+  },
+  {
    "venue": "浜松商工会議所",
    "title": "【2026年度ビジネススクール】ビジネスコミュニケーション研修",
    "start": "2026-11-26",
@@ -699,15 +708,6 @@
    "end": "2026-11-26",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
    "category": "講演会・セミナー",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【金属機械商業部会】東京視察会 日立製作所で｢フィジカルAI｣を体感！赤坂離宮 迎賓館で｢日本の美と歴史｣に触れる!!",
-   "start": "2026-11-26",
-   "end": "2026-11-26",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2233",
-   "category": "視察会",
    "wd": "木"
   },
   {
@@ -2191,6 +2191,15 @@
    "wd": "月"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "The Godfather LIVE｜ゴッドファーザー シネマ・コンサート",
+   "start": "2027-01-11",
+   "end": "2027-01-11",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270111_1116",
+   "category": "一般",
+   "wd": "月"
+  },
+  {
    "venue": "東京ビッグサイト",
    "title": "TOKYO DIGICONX (第4回TOKYO XR・メタバース＆コンテンツ 有明GYM- 商談/一般 TOKYO DIGICONX運営事務",
    "start": "2027-01-13",
@@ -2269,6 +2278,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270117_1110",
    "category": "一般",
    "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "Kalafina Anniversary LIVE 2027",
+   "start": "2027-01-18",
+   "end": "2027-01-19",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270118_0930",
+   "category": "一般",
+   "wd": "月"
   }
  ]
 }
