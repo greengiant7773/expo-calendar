@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17 12:21",
+ "updated": "2026-11-18 11:42",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,17 +13,17 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 45,
+   "count": 47,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 74,
+   "count": 73,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 32,
+   "count": 31,
    "error": null
   }
  ],
@@ -35,15 +35,6 @@
    "end": "2027-05-09",
    "url": "https://www.m-messe.co.jp/event/detail/8956",
    "category": "イベント",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ザ インターナショナルアカデミック フォーラム The 18th Asian Conference on Education（ACE2026）",
-   "start": "2026-11-13",
-   "end": "2026-11-17",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261113Fr-H202611068",
-   "category": "一般&関係者",
    "wd": "金"
   },
   {
@@ -60,15 +51,6 @@
    "start": "2026-11-17",
    "end": "2026-11-18",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "火"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "事業継続力強化計画策定塾 ～BCPの第一歩を踏み出そう～",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2227",
-   "category": "セミナー",
    "wd": "火"
   },
   {
@@ -403,6 +385,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2220",
    "category": "説明会",
    "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "ヨコハマハンドメイドマルシェ秋",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "url": "https://handmade-marche.jp/",
+   "category": "展示会・見本市",
+   "wd": "土"
   },
   {
    "venue": "東京ビッグサイト",
@@ -832,6 +823,15 @@
    "start": "2026-11-29",
    "end": "2026-11-29",
    "url": "https://tocj.jp/x-takeover-japan/",
+   "category": "イベント・コンサート",
+   "wd": "日"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "マイナビ転職フェア横浜",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://tenshoku.mynavi.jp/event/kanagawa/20261129A/",
    "category": "イベント・コンサート",
    "wd": "日"
   },
