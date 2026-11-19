@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-18 11:42",
+ "updated": "2026-11-19 11:12",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 89,
+   "count": 87,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 24,
+   "count": 25,
    "error": null
   },
   {
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 73,
+   "count": 72,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 31,
+   "count": 30,
    "error": null
   }
  ],
@@ -36,22 +36,6 @@
    "url": "https://www.m-messe.co.jp/event/detail/8956",
    "category": "イベント",
    "wd": "金"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第1回 【管理部門】AIエージェントDXPO東京’26【秋】 有明GYM- 商談 DXPO事務局",
-   "start": "2026-11-17",
-   "end": "2026-11-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "火"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第3回 バックオフィスDXPO東京’26【秋】 有明GYM- 商談 DXPO事務局",
-   "start": "2026-11-17",
-   "end": "2026-11-18",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "火"
   },
   {
    "venue": "幕張メッセ",
@@ -244,33 +228,6 @@
    "start": "2026-11-18",
    "end": "2026-11-20",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "日本保守党 第2回党大会",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261118_1106",
-   "category": "関係者",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】基礎からわかる決算書類分析講座",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2223",
-   "category": "講演会・セミナー",
-   "wd": "水"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
    "wd": "水"
   },
   {
@@ -2287,6 +2244,24 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270118_0930",
    "category": "一般",
    "wd": "月"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "市川中学校 第1回入学試験",
+   "start": "2027-01-20",
+   "end": "2027-01-20",
+   "url": "https://www.m-messe.co.jp/event/detail/8953",
+   "category": "イベント",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
+   "start": "2027-01-20",
+   "end": "2027-01-20",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
+   "category": "講演会・セミナー",
+   "wd": "水"
   }
  ]
 }
