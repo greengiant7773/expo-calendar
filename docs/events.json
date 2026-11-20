@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-19 11:12",
+ "updated": "2026-11-20 10:59",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 87,
+   "count": 86,
    "error": null
   },
   {
@@ -13,17 +13,17 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 47,
+   "count": 51,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 72,
+   "count": 71,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 30,
+   "count": 28,
    "error": null
   }
  ],
@@ -91,14 +91,6 @@
    "title": "( スマートファクトリーJapan2026 東 商談 「スマートファクトリーJapan2026」",
    "start": "2026-11-18",
    "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( ハウスクリーニング展 南1・2 商談 ビルメンヒューマンフェア＆クリーン",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "水"
   },
@@ -282,47 +274,11 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "title": "ネオ屋台村 ボジョレーナイト",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261119_1016",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "東京国際フォーラム",
    "title": "ミュージカル『星影の人』－沖田総司・まぼろしの青春－",
    "start": "2026-11-19",
    "end": "2026-11-24",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261119_1109",
    "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "DOMO求人特別企画(会員限定)",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/1973",
-   "category": "その他",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "学内就活イベント『就Cafe』in 静岡文化芸術大学",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2226",
-   "category": "交流会",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "現役記者が教える、選ばれるプレスリリース作成術",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2219",
-   "category": "セミナー",
    "wd": "木"
   },
   {
@@ -342,6 +298,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2220",
    "category": "説明会",
    "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "マイナビ インターンシップ＆キャリア発見フェア 横浜会場",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://job.mynavi.jp/conts/event/2028/10815/index.html",
+   "category": "展示会・見本市",
+   "wd": "土"
   },
   {
    "venue": "パシフィコ横浜",
@@ -545,6 +510,15 @@
    "start": "2026-11-25",
    "end": "2026-11-26",
    "url": "https://oxexpo.jp/",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "第31回からくり改善くふう展",
+   "start": "2026-11-25",
+   "end": "2026-11-26",
+   "url": "https://jipm-event.com/karakuri/exh/exh-guide",
    "category": "展示会・見本市",
    "wd": "水"
   },
@@ -1744,6 +1718,15 @@
    "wd": "木"
   },
   {
+   "venue": "浜松商工会議所",
+   "title": "～知って活用！1人あたり25,000円の補助！～賢く活用する人間ドックのすすめ",
+   "start": "2026-12-17",
+   "end": "2026-12-17",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2251",
+   "category": "セミナー",
+   "wd": "木"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "ふるさと映画祭2026",
    "start": "2026-12-18",
@@ -1751,6 +1734,15 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261218_0917",
    "category": "一般&関係者",
    "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "MOTOHARU SANO & THE COYOTE BAND “IN & OUT TOUR 2026”",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "url": "https://www.moto.co.jp/features/in-out-tour-2026/",
+   "category": "イベント・コンサート",
+   "wd": "土"
   },
   {
    "venue": "パシフィコ横浜",
@@ -1892,6 +1884,15 @@
    "start": "2026-12-26",
    "end": "2026-12-27",
    "url": "https://realdgame.jp/s/christmas2026/",
+   "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "水沢林太郎・野村康太・谷原七音 「With the fans 2026 ～僕らのエスケープ～」",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "url": "https://spn.ken-on.com/page/withthefans2026",
    "category": "イベント・コンサート",
    "wd": "土"
   },
@@ -2122,7 +2123,7 @@
   },
   {
    "venue": "幕張メッセ",
-   "title": "Devil ANTHEM. 12th Anniversary TOUR 2026 FINAL \"Winter Mirage of Sonic\"",
+   "title": "Devil ANTHEM. 12th Anniversary TOUR 2026 FINAL ONE MAN LIVE \"Winter Mirage of Sonic\"",
    "start": "2027-01-11",
    "end": "2027-01-11",
    "url": "https://www.m-messe.co.jp/event/detail/8913",
