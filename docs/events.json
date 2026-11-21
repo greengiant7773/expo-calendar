@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20 10:59",
+ "updated": "2026-11-21 10:56",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 86,
+   "count": 60,
    "error": null
   },
   {
@@ -13,17 +13,17 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 51,
+   "count": 50,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 71,
+   "count": 72,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 28,
+   "count": 27,
    "error": null
   }
  ],
@@ -36,241 +36,6 @@
    "url": "https://www.m-messe.co.jp/event/detail/8956",
    "category": "イベント",
    "wd": "金"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "Inter BEE 2026",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.m-messe.co.jp/event/detail/8917",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 2026洗浄総合展 東 商談 「2026洗浄総合展」運営事務局",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( HOSPEX Japan 2026 西2 商談 ホスペックスジャパン 事務局",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( Japan Home Show & Building Show 2026 西 商談 Japan Home Show & Building",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( VACUUM2026真空展 東 商談 「VACUUM2026真空展」運営",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( sampe Japan 先端材料技術展2026 東 商談 sampe Japan 先端材料技術展",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( スマートファクトリーJapan2026 東 商談 「スマートファクトリーJapan2026」",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( ビルメンヒューマンフェア＆クリーンEXPO 2026（南ホール開催） 南1・2 商談 ビルメンヒューマンフェア＆クリーン",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( ビルメンヒューマンフェア＆クリーンEXPO 2026（西ホール開催） 西2 商談 ビルメンヒューマンフェア＆クリーン",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第10回 ホテル・オフィス・店舗・商業空間展 西 商談 Japan Home Show & Building",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第10回 団地・マンションリノベーション展 西 商談 Japan Home Show & Building",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第11回 アジア・ファニシング・フェア 2026（最終日のみ17:00迄） 南3・4 商談 一般社団法人アジア家具フォー",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第11回 ドリンク ジャパン -[飲料][液状食品] 開発・製造 展- 東7・8 商談 ドリンク ジャパン事務局",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第1回 上質住空間・インテリア展 西 商談 Japan Home Show & Building",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第21回 ふるさと建材･家具見本市 西 商談 Japan Home Show & Building",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第3回 建築ソフト・DX・業務サポート展 西 商談 Japan Home Show & Building",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第3回 食品安全・衛生イノベーション展 東7・8 商談 食品工場 Week 事務局",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第45回 JAPANTEX 2026 西4 商談 JAPANTEX事務局",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第4回 リフォーム・リノベーション展 西 商談 Japan Home Show & Building",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第7回 食品工場Week 東7・8 商談 食品工場 Week 事務局",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第7回 食品工場の自動化・DX 展 東7・8 商談 食品工場 Week 事務局",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 表面改質展2026 東 商談 「表面改質展2026」運営事務局",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 高精度・難加工技術展2026 東 商談 「高精度・難加工技術展2026」",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "山下達郎「PERFORMANCE 2026」",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "url": "https://www.tatsuro.co.jp/live/",
-   "category": "イベント・コンサート",
-   "wd": "木"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第1回 【営業・マーケ・DX推進】AIエージェントDXPO東 有明GYM- 商談 DXPO事務局",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "木"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第2回 IT・情シスDXPO東京’26【秋】 有明GYM- 商談 DXPO事務局",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "木"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第3回 EC・通販DXPO東京’26【秋】 有明GYM- 商談 DXPO事務局",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "木"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第3回 営業・マーケDXPO東京’26【秋】 有明GYM- 商談 DXPO事務局",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "木"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "さだまさしコンサートツアー2026 神さまの言うとおり",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261119_0903",
-   "category": "一般",
-   "wd": "木"
   },
   {
    "venue": "東京国際フォーラム",
@@ -288,15 +53,6 @@
    "end": "2026-11-22",
    "url": "https://jsnhd70.umin.jp/",
    "category": "学会・会議",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "「浜名高校 定時制 生徒」と「浜松市内企業」とのマッチング事業",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2220",
-   "category": "説明会",
    "wd": "金"
   },
   {
@@ -429,7 +185,7 @@
    "start": "2026-11-22",
    "end": "2026-11-22",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261122_1014",
-   "category": "一般&関係者",
+   "category": "関係者",
    "wd": "日"
   },
   {
@@ -612,6 +368,15 @@
    "end": "2026-12-03",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261126_1030",
    "category": "一般",
+   "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "東レ100周年企画展 WONDER!?展",
+   "start": "2026-11-26",
+   "end": "2026-11-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261126_1116",
+   "category": "一般&関係者",
    "wd": "木"
   },
   {
@@ -2263,6 +2028,24 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
    "category": "講演会・セミナー",
    "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "冬スポ‼WINTER SPORTS FESTA season26",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "url": "https://www.m-messe.co.jp/event/detail/8947",
+   "category": "即売会",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "東京ｅスポーツフェスタ2027",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270122_0914",
+   "category": "一般&関係者",
+   "wd": "金"
   }
  ]
 }
