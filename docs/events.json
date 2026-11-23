@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 09:52",
+ "updated": "2026-11-23 10:21",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -13,12 +13,12 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 51,
+   "count": 48,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 70,
+   "count": 67,
    "error": null
   },
   {
@@ -45,42 +45,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261119_1109",
    "category": "一般",
    "wd": "木"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "第70回日本新生児成育医学会・学術集会",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "url": "https://jsnhd70.umin.jp/",
-   "category": "学会・会議",
-   "wd": "金"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "ヨコハマハンドメイドマルシェ秋",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "url": "https://handmade-marche.jp/",
-   "category": "展示会・見本市",
-   "wd": "土"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "TOKYO周穫祭2026～おいしい！たのしい！東京周遊フェス～",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261121_1106",
-   "category": "一般",
-   "wd": "土"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "日曜劇場『VIVANT』第2シーズン スペシャルエディション上映会 ー♯25への序章ー",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "url": "https://tickets.tbs.co.jp/VIVANT_specialedition2/",
-   "category": "イベント・コンサート",
-   "wd": "日"
   },
   {
    "venue": "幕張メッセ",
@@ -133,24 +97,6 @@
    "start": "2026-11-22",
    "end": "2026-11-23",
    "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "ロクデナシ Oneman Live 2026",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261122_1208",
-   "category": "一般",
-   "wd": "日"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "全国賃貸オーナーズフェスタ2026",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261122_1014",
-   "category": "関係者",
    "wd": "日"
   },
   {
