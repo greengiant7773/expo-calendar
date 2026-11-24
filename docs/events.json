@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-23 10:21",
+ "updated": "2026-11-24 14:06",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 59,
+   "count": 58,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 29,
+   "count": 25,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 48,
+   "count": 46,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 67,
+   "count": 68,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 27,
+   "count": 28,
    "error": null
   }
  ],
@@ -45,95 +45,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261119_1109",
    "category": "一般",
    "wd": "木"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "CHILL CLASSIC CONCERT -Winter Illumination-",
-   "start": "2026-11-22",
-   "end": "2026-11-23",
-   "url": "https://www.m-messe.co.jp/event/detail/8912",
-   "category": "音楽イベント",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "Mrs & Mr of the year 2026 JAPAN FINAL",
-   "start": "2026-11-22",
-   "end": "2026-11-23",
-   "url": "https://www.m-messe.co.jp/event/detail/8938",
-   "category": "イベント",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "ポケモンカードゲーム チャンピオンズリーグ2027千葉",
-   "start": "2026-11-22",
-   "end": "2026-11-23",
-   "url": "https://www.m-messe.co.jp/event/detail/8900",
-   "category": "イベント",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "楽天超ふるさと納税祭",
-   "start": "2026-11-22",
-   "end": "2026-11-23",
-   "url": "https://www.m-messe.co.jp/event/detail/8937",
-   "category": "展示会・見本市",
-   "wd": "日"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "第65回日本臨床細胞学会秋期大会",
-   "start": "2026-11-22",
-   "end": "2026-11-23",
-   "url": "https://www.m-messe.co.jp/event/detail/8901",
-   "category": "学会・会議",
-   "wd": "日"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 癒しフェア 西4 商談/一般 癒しフェア事務局",
-   "start": "2026-11-22",
-   "end": "2026-11-23",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "日"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "フリーマーケット",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://recyclekanagawa.com/place/rinkai/",
-   "category": "物販・展示即売会",
-   "wd": "月"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://ody-inc.com/release/morningmusume_261123.html",
-   "category": "イベント・コンサート",
-   "wd": "月"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "Chrono Reverse One Man Live BREAKØUT",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261123_0831",
-   "category": "一般",
-   "wd": "月"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "大江戸骨董市",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261123_1002",
-   "category": "一般",
-   "wd": "月"
   },
   {
    "venue": "パシフィコ横浜",
@@ -898,6 +809,15 @@
    "start": "2026-12-09",
    "end": "2026-12-09",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261209_0501",
+   "category": "一般",
+   "wd": "水"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "日本における電化、ヒートポンプ普及の課題と可能性： COP31と世界の電化政策を踏まえて",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261209_1117",
    "category": "一般",
    "wd": "水"
   },
@@ -1915,6 +1835,15 @@
   },
   {
    "venue": "東京国際フォーラム",
+   "title": "第47回メディコピア教育講演シンポジウム 日常生活に潜む現代の肝臓病 ～いま知っていただきたいこと～",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270117_1106",
+   "category": "一般",
+   "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
    "title": "Kalafina Anniversary LIVE 2027",
    "start": "2027-01-18",
    "end": "2027-01-19",
@@ -1924,11 +1853,29 @@
   },
   {
    "venue": "幕張メッセ",
+   "title": "令和8年度クリーニング師試験",
+   "start": "2027-01-19",
+   "end": "2027-01-19",
+   "url": "https://www.m-messe.co.jp/event/detail/8990",
+   "category": "その他",
+   "wd": "火"
+  },
+  {
+   "venue": "幕張メッセ",
    "title": "市川中学校 第1回入学試験",
    "start": "2027-01-20",
    "end": "2027-01-20",
    "url": "https://www.m-messe.co.jp/event/detail/8953",
    "category": "イベント",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】ロジカルシンキング研修",
+   "start": "2027-01-20",
+   "end": "2027-01-20",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2252",
+   "category": "講演会・セミナー",
    "wd": "水"
   },
   {
@@ -2011,6 +1958,15 @@
    "url": "https://www.m-messe.co.jp/event/detail/8957",
    "category": "イベント",
    "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "2026-2027 HEO NAM JUN FANMEETING ＜HEO's NEXT?＞ Final Lap in TOKYO",
+   "start": "2027-01-24",
+   "end": "2027-01-24",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270124_1119",
+   "category": "一般",
+   "wd": "日"
   }
  ]
 }
