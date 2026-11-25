@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-24 14:06",
+ "updated": "2026-11-25 12:55",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 58,
+   "count": 50,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 25,
+   "count": 27,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 46,
+   "count": 45,
    "error": null
   },
   {
@@ -38,39 +38,12 @@
    "wd": "金"
   },
   {
-   "venue": "東京国際フォーラム",
-   "title": "ミュージカル『星影の人』－沖田総司・まぼろしの青春－",
-   "start": "2026-11-19",
-   "end": "2026-11-24",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261119_1109",
-   "category": "一般",
-   "wd": "木"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "2026年度 神奈川県私立中学校･高等学校 振興大会",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "url": "http://www.phsk.or.jp/",
-   "category": "大会・式典・その他",
-   "wd": "火"
-  },
-  {
    "venue": "パシフィコ横浜",
    "title": "第67回電池討論会",
    "start": "2026-11-24",
    "end": "2026-11-26",
    "url": "https://www.67denchi.com/",
    "category": "大会・式典・その他",
-   "wd": "火"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "全5回シリーズ 2026年度 はままつメディカル塾（医療機器・薬機法関連セミナー）",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2210",
-   "category": "セミナー",
    "wd": "火"
   },
   {
@@ -119,46 +92,6 @@
    "wd": "水"
   },
   {
-   "venue": "東京ビッグサイト",
-   "title": "( POWTEX 2026 ［第46回国際粉体工業展］ 東 商談 展示会事務局（株）シー・エヌ・",
-   "start": "2026-11-25",
-   "end": "2026-11-27",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( イベントJAPAN2026 東8 商談 レジャー&アウトドアジャパン事務",
-   "start": "2026-11-25",
-   "end": "2026-11-27",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( ビジネスチャンスEXPO in TOKYO 南3・4 商談 ビジネスチャンスEXPO事務局",
-   "start": "2026-11-25",
-   "end": "2026-11-26",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( レジャー＆アウトドアジャパン2026 東7 商談 レジャー&アウトドアジャパン事務",
-   "start": "2026-11-25",
-   "end": "2026-11-27",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( 第5回 東京トレーラーハウスショー 東7 商談 レジャー&アウトドアジャパン事務",
-   "start": "2026-11-25",
-   "end": "2026-11-27",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "水"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "「椎名林檎と彼奴等と試す煩悩菩提」",
    "start": "2026-11-25",
@@ -166,22 +99,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261125_0701",
    "category": "一般",
    "wd": "水"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( ケミカルマテリアルJapan2026 南1・2 商談 ケミカルマテリアルJapan事務局",
-   "start": "2026-11-26",
-   "end": "2026-11-27",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "木"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "( ハイウェイテクノフェア2026 西1・2 商談/一般 ハイウェイテクノフェア実行委員会",
-   "start": "2026-11-26",
-   "end": "2026-11-27",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "木"
   },
   {
    "venue": "東京国際フォーラム",
@@ -292,14 +209,6 @@
    "wd": "土"
   },
   {
-   "venue": "東京ビッグサイト",
-   "title": "第16回オールジャパンケアコンテスト 西3 一般 オールジャパンケアコンテスト事務",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
-   "wd": "土"
-  },
-  {
    "venue": "東京国際フォーラム",
    "title": "薬師丸ひろ子 Concert Tour 2026 〜明日が来る〜",
    "start": "2026-11-28",
@@ -360,14 +269,6 @@
    "end": "2026-11-29",
    "url": "https://www.city.yokohama.lg.jp/nishi/event-bosyu/sports/walkingfestival.html",
    "category": "イベント・コンサート",
-   "wd": "日"
-  },
-  {
-   "venue": "東京ビッグサイト",
-   "title": "COMIC CITY 東京153 西 一般 赤ブーブー通信社",
-   "start": "2026-11-29",
-   "end": "2026-11-29",
-   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
    "wd": "日"
   },
   {
@@ -1430,6 +1331,14 @@
    "wd": "月"
   },
   {
+   "venue": "東京ビッグサイト",
+   "title": "( 令和8年度TOKYO障害者マッチング応援フェスタ 南3・4 一般 TOKYO障害者マッチング応援",
+   "start": "2026-12-22",
+   "end": "2026-12-23",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "火"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "FJネクスト Presents 〜結成20周年記念〜 ⾼嶋ちさ⼦ 12⼈のヴァイオリニスト コンサートツアー 2026〜2027",
    "start": "2026-12-23",
@@ -1719,6 +1628,15 @@
   },
   {
    "venue": "幕張メッセ",
+   "title": "『アークナイツ:エンドフィールド』1st Anniversary Festival",
+   "start": "2027-01-10",
+   "end": "2027-01-11",
+   "url": "https://www.m-messe.co.jp/event/detail/8949",
+   "category": "イベント",
+   "wd": "日"
+  },
+  {
+   "venue": "幕張メッセ",
    "title": "Devil ANTHEM. 12th Anniversary TOUR 2026 FINAL ONE MAN LIVE \"Winter Mirage of Sonic\"",
    "start": "2027-01-11",
    "end": "2027-01-11",
@@ -1862,6 +1780,15 @@
   },
   {
    "venue": "幕張メッセ",
+   "title": "令和9年千葉県警察年頭視閲",
+   "start": "2027-01-19",
+   "end": "2027-01-19",
+   "url": "https://www.m-messe.co.jp/event/detail/8941",
+   "category": "イベント",
+   "wd": "火"
+  },
+  {
+   "venue": "幕張メッセ",
    "title": "市川中学校 第1回入学試験",
    "start": "2027-01-20",
    "end": "2027-01-20",
@@ -1967,6 +1894,24 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270124_1119",
    "category": "一般",
    "wd": "日"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "日曜劇場『VIVANT』オーケストラコンサート",
+   "start": "2027-01-26",
+   "end": "2027-01-27",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270126_1102",
+   "category": "一般",
+   "wd": "火"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【エントリー受付中】事前調整型の商談会 2027年1月「アライアンス・パートナー発掘市」",
+   "start": "2027-01-26",
+   "end": "2027-01-26",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2243",
+   "category": "その他",
+   "wd": "火"
   }
  ]
 }
