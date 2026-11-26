@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-25 12:55",
+ "updated": "2026-11-26 12:21",
  "status": [
   {
    "venue": "東京ビッグサイト",
-   "count": 50,
+   "count": 51,
    "error": null
   },
   {
    "venue": "幕張メッセ",
-   "count": 27,
+   "count": 39,
    "error": null
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "count": 28,
+   "count": 32,
    "error": null
   }
  ],
@@ -80,15 +80,6 @@
    "end": "2026-11-26",
    "url": "https://www.m-messe.co.jp/event/detail/8905",
    "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "Universal Kimono Award 2026",
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "url": "https://www.m-messe.co.jp/event/detail/8963",
-   "category": "イベント",
    "wd": "水"
   },
   {
@@ -801,15 +792,6 @@
    "end": "2026-12-10",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2240",
    "category": "講演会",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在12月10日交付分受付中 ※11月25日申込締切)",
-   "start": "2026-12-10",
-   "end": "2026-12-10",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/1856",
-   "category": "その他",
    "wd": "木"
   },
   {
@@ -1636,6 +1618,15 @@
    "wd": "日"
   },
   {
+   "venue": "浜松商工会議所",
+   "title": "【通年受付中】優良従業員表彰ご案内＆推薦お申込みページ(現在1月10日交付分受付中 ※12月25日申込締切)",
+   "start": "2027-01-10",
+   "end": "2027-01-10",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/1856",
+   "category": "その他",
+   "wd": "日"
+  },
+  {
    "venue": "幕張メッセ",
    "title": "Devil ANTHEM. 12th Anniversary TOUR 2026 FINAL ONE MAN LIVE \"Winter Mirage of Sonic\"",
    "start": "2027-01-11",
@@ -1912,6 +1903,167 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2243",
    "category": "その他",
    "wd": "火"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "クリエイターEXPO X 2027",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8983",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "スポーツチーム・アスリート向け総合展 2027",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8877",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第10回 ファンエンゲージメント・集客支援EXPO",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8878",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第14回 イベント総合 EXPO",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8876",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第14回 ライブ・エンターテイメント EXPO",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8875",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第1回 ふわふわ遊具 EXPO",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8987",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第1回 遊園地 EXPO",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8985",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第2回 熱中症・暑さ対策ワールド",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8883",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第38回 国際宝飾展",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8951",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第5回 遊園地&アミューズメント Japan",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8984",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第6回 アスリートパフォーマンスEXPO",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8882",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第6回 スタジアム・アリーナEXPO",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8881",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "幕張メッセ",
+   "title": "第6回 チーム運営支援EXPO",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.m-messe.co.jp/event/detail/8880",
+   "category": "展示会・見本市",
+   "wd": "水"
+  },
+  {
+   "venue": "東京ビッグサイト",
+   "title": "経営・営業・マーケティング向けAI展示会【イプロスAI 2027 冬】 有明GYM- 商談 イプロスAI 主催事務局",
+   "start": "2027-01-27",
+   "end": "2027-01-29",
+   "url": "https://www.bigsight.jp/visitor/event/p5udma00000003pg-att/p5udma00000003pq.pdf",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】傾聴力と「コーチング」セミナー",
+   "start": "2027-01-27",
+   "end": "2027-01-27",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2253",
+   "category": "講演会・セミナー",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
+   "start": "2027-01-27",
+   "end": "2027-01-27",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
+   "category": "講演会・セミナー",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【エントリー受付中】事前調整型の商談会 2027年1月「アライアンス・パートナー発掘市」",
+   "start": "2027-01-27",
+   "end": "2027-01-27",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2243",
+   "category": "その他",
+   "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "【食品部会】2027年 新年会のご案内",
+   "start": "2027-01-27",
+   "end": "2027-01-27",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2270",
+   "category": "交流会",
+   "wd": "水"
   }
  ]
 }
