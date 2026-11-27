@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26 12:21",
+ "updated": "2026-11-27 12:26",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -8,22 +8,22 @@
   },
   {
    "venue": "幕張メッセ",
-   "count": 39,
+   "count": 38,
    "error": null
   },
   {
    "venue": "パシフィコ横浜",
-   "count": 45,
+   "count": 44,
    "error": null
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 68,
+   "count": 69,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 32,
+   "count": 31,
    "error": null
   }
  ],
@@ -39,56 +39,11 @@
   },
   {
    "venue": "パシフィコ横浜",
-   "title": "第67回電池討論会",
-   "start": "2026-11-24",
-   "end": "2026-11-26",
-   "url": "https://www.67denchi.com/",
-   "category": "大会・式典・その他",
-   "wd": "火"
-  },
-  {
-   "venue": "パシフィコ横浜",
    "title": "MWE 2026／2026年 マイクロウェーブワークショップとマイクロウェーブ展",
    "start": "2026-11-25",
    "end": "2026-11-27",
    "url": "https://apmc-mwe.org/",
    "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "オーシャントランスフォーメーションエキスポ – OXExpo／Ocean Transformation Exhibition",
-   "start": "2026-11-25",
-   "end": "2026-11-26",
-   "url": "https://oxexpo.jp/",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "第31回からくり改善くふう展",
-   "start": "2026-11-25",
-   "end": "2026-11-26",
-   "url": "https://jipm-event.com/karakuri/exh/exh-guide",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "幕張メッセ",
-   "title": "2026いずみ住まいのグランドフェア",
-   "start": "2026-11-25",
-   "end": "2026-11-26",
-   "url": "https://www.m-messe.co.jp/event/detail/8905",
-   "category": "展示会・見本市",
-   "wd": "水"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "「椎名林檎と彼奴等と試す煩悩菩提」",
-   "start": "2026-11-25",
-   "end": "2026-11-26",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261125_0701",
-   "category": "一般",
    "wd": "水"
   },
   {
@@ -107,24 +62,6 @@
    "end": "2026-11-29",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261126_1116",
    "category": "一般&関係者",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】ビジネスコミュニケーション研修",
-   "start": "2026-11-26",
-   "end": "2026-11-26",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2224",
-   "category": "講演会・セミナー",
-   "wd": "木"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "【2026年度ビジネススクール】年間講座一覧はこちら",
-   "start": "2026-11-26",
-   "end": "2026-11-26",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2104",
-   "category": "講演会・セミナー",
    "wd": "木"
   },
   {
@@ -475,7 +412,7 @@
   },
   {
    "venue": "浜松商工会議所",
-   "title": "【11/6まで募集延長!!!】貿易実務講座 in 浜松(貿易実務中級編)",
+   "title": "貿易実務講座 in 浜松(貿易実務中級編)",
    "start": "2026-12-02",
    "end": "2026-12-02",
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2245",
@@ -516,6 +453,15 @@
    "end": "2026-12-06",
    "url": "https://www.m-messe.co.jp/event/detail/8961",
    "category": "イベント",
+   "wd": "金"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "CROSSOVER JAPAN 2026 supported by BLUE NOTE TOKYO",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261204_1126",
+   "category": "一般",
    "wd": "金"
   },
   {
@@ -757,6 +703,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2214",
    "category": "交流会",
    "wd": "水"
+  },
+  {
+   "venue": "パシフィコ横浜",
+   "title": "The World Scholar's Cup 2026 Tokyo-Yokohama Mini Global Round",
+   "start": "2026-12-10",
+   "end": "2026-12-15",
+   "url": "https://scholarscup.org/calendar/5916-tokyo-yokohama-mini-global-round/",
+   "category": "大会・式典・その他",
+   "wd": "木"
   },
   {
    "venue": "パシフィコ横浜",
@@ -1681,6 +1636,15 @@
   },
   {
    "venue": "パシフィコ横浜",
+   "title": "COCOL振袖展示会",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "url": "https://cocol-gr.com/",
+   "category": "物販・展示即売会",
+   "wd": "金"
+  },
+  {
+   "venue": "パシフィコ横浜",
    "title": "冬スポ!!WINTER SPORTS FESTA season26",
    "start": "2027-01-15",
    "end": "2027-01-17",
@@ -1713,6 +1677,15 @@
    "end": "2027-01-16",
    "url": "https://naimolbig7.peatix.com/view",
    "category": "イベント・コンサート",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "typeエンジニア転職フェア",
+   "start": "2027-01-16",
+   "end": "2027-01-16",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270116Fr-H202701018",
+   "category": "一般",
    "wd": "土"
   },
   {
@@ -2064,6 +2037,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2270",
    "category": "交流会",
    "wd": "水"
+  },
+  {
+   "venue": "浜松商工会議所",
+   "title": "“私らしく”はたらくファーストステップ！ ママ同士＆人事担当者・先輩ママとのゆるっと交流会《参加企業募集》",
+   "start": "2027-01-28",
+   "end": "2027-01-28",
+   "url": "https://www.hamamatsu-cci.or.jp/events/show/2244",
+   "category": "交流会",
+   "wd": "木"
   }
  ]
 }
