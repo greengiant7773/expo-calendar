@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27 12:26",
+ "updated": "2026-11-28 12:02",
  "status": [
   {
    "venue": "東京ビッグサイト",
@@ -18,12 +18,12 @@
   },
   {
    "venue": "東京国際フォーラム",
-   "count": 69,
+   "count": 70,
    "error": null
   },
   {
    "venue": "浜松商工会議所",
-   "count": 31,
+   "count": 29,
    "error": null
   }
  ],
@@ -36,15 +36,6 @@
    "url": "https://www.m-messe.co.jp/event/detail/8956",
    "category": "イベント",
    "wd": "金"
-  },
-  {
-   "venue": "パシフィコ横浜",
-   "title": "MWE 2026／2026年 マイクロウェーブワークショップとマイクロウェーブ展",
-   "start": "2026-11-25",
-   "end": "2026-11-27",
-   "url": "https://apmc-mwe.org/",
-   "category": "展示会・見本市",
-   "wd": "水"
   },
   {
    "venue": "東京国際フォーラム",
@@ -71,42 +62,6 @@
    "end": "2026-11-28",
    "url": "https://www.kyodoyokohama.com/schedule/index.php?mode=show&seq=2092",
    "category": "イベント・コンサート",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "放送50周年記念 第20回「徹子の部屋」コンサート",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261127_1102",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "東京国際フォーラム",
-   "title": "柴田聡子のひとりぼっち'26",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261127_0709",
-   "category": "一般",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "「浜松北高校 定時制生徒」と「浜松市内企業」とのマッチング事業",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2221",
-   "category": "説明会",
-   "wd": "金"
-  },
-  {
-   "venue": "浜松商工会議所",
-   "title": "第5回ドローンサミット 静岡県ブース共同出展 ～参加企業募集～",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.hamamatsu-cci.or.jp/events/show/2177",
-   "category": "その他",
    "wd": "金"
   },
   {
@@ -1170,6 +1125,15 @@
    "wd": "金"
   },
   {
+   "venue": "東京国際フォーラム",
+   "title": "劇場公開50周年記念！ ロッキー シネマコンサート",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261218_1127",
+   "category": "一般",
+   "wd": "金"
+  },
+  {
    "venue": "パシフィコ横浜",
    "title": "MOTOHARU SANO & THE COYOTE BAND “IN & OUT TOUR 2026”",
    "start": "2026-12-19",
@@ -1188,11 +1152,29 @@
    "wd": "土"
   },
   {
+   "venue": "パシフィコ横浜",
+   "title": "家具・インテリア ダイナミックチャリティーバーゲン",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "url": "https://www.murauchi.net/sale/pacifico_yokohama_dcb.html",
+   "category": "物販・展示即売会",
+   "wd": "土"
+  },
+  {
    "venue": "東京国際フォーラム",
    "title": "クリスマス・スペシャル・クラシックス ～メサイア・第九・くるみ割り人形～",
    "start": "2026-12-19",
    "end": "2026-12-19",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261219_0722",
+   "category": "一般",
+   "wd": "土"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "ベストフリーマーケット",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261219_1127",
    "category": "一般",
    "wd": "土"
   },
@@ -2046,6 +2028,15 @@
    "url": "https://www.hamamatsu-cci.or.jp/events/show/2244",
    "category": "交流会",
    "wd": "木"
+  },
+  {
+   "venue": "東京国際フォーラム",
+   "title": "イルカ55周年 イルカのミュージックハーモニー35周年記念 青春のなごり雪コンサート",
+   "start": "2027-01-29",
+   "end": "2027-01-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20270129_0825",
+   "category": "一般",
+   "wd": "金"
   }
  ]
 }
